@@ -52,17 +52,39 @@ def save_markdown(content: str, file_path: str) -> bool:
 
 def generate_all_markdown():
     """生成所有Markdown文件"""
+    # 获取当前时间作为文件名
+    current_time = datetime.now()
+    date_str = current_time.strftime("%Y%m%d_%H%M%S")
+    
+    # 创建存档目录
+    archive_dir = os.path.join('output', 'archive')
+    os.makedirs(archive_dir, exist_ok=True)
+    
     # 生成原始新闻的Markdown
     raw_news = load_json_data('output/raw_news.json')
-    raw_markdown = generate_markdown(raw_news, "RSS原始新闻列表")
+    raw_markdown = generate_markdown(raw_news, f"RSS原始新闻列表 - {current_time.strftime('%Y-%m-%d %H:%M:%S')}")
+    
+    # 保存到存档文件
+    raw_archive_path = os.path.join(archive_dir, f"raw_news_{date_str}.md")
+    save_markdown(raw_markdown, raw_archive_path)
+    print(f"已生成原始新闻Markdown存档: {raw_archive_path} ({len(raw_news)} 条)")
+    
+    # 同时更新当前文件
     save_markdown(raw_markdown, 'output/raw_news.md')
-    print(f"已生成原始新闻Markdown: output/raw_news.md ({len(raw_news)} 条)")
+    print(f"已更新当前原始新闻Markdown: output/raw_news.md")
     
     # 生成过滤后新闻的Markdown
     filtered_news = load_json_data('output/filtered_news.json')
-    filtered_markdown = generate_markdown(filtered_news, "过滤后新闻列表")
+    filtered_markdown = generate_markdown(filtered_news, f"过滤后新闻列表 - {current_time.strftime('%Y-%m-%d %H:%M:%S')}")
+    
+    # 保存到存档文件
+    filtered_archive_path = os.path.join(archive_dir, f"filtered_news_{date_str}.md")
+    save_markdown(filtered_markdown, filtered_archive_path)
+    print(f"已生成过滤后新闻Markdown存档: {filtered_archive_path} ({len(filtered_news)} 条)")
+    
+    # 同时更新当前文件
     save_markdown(filtered_markdown, 'output/filtered_news.md')
-    print(f"已生成过滤后新闻Markdown: output/filtered_news.md ({len(filtered_news)} 条)")
+    print(f"已更新当前过滤后新闻Markdown: output/filtered_news.md")
 
 def main():
     """主函数"""
