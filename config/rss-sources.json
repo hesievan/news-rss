@@ -1,4 +1,4 @@
-[
+
   {
     "name": "Solidot",
     "url": "https://www.solidot.org/index.rss",
@@ -28,5 +28,545 @@
     "name": "TechCrunch",
     "url": "https://techcrunch.com/feed/",
     "category": "tech"
+  },
+  {
+    "name": "tandf: Critical Reviews in Food Science and Nutrition",
+    "url": "http://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=bfsn20",
+    "category": "food-science"
+  },
+  {
+    "name": "EFSA | All updates",
+    "url": "http://www.efsa.europa.eu/en/all/rss",
+    "category": "food-science"
+  },
+  {
+    "name": "Annual Review of Food Science and Technology",
+    "url": "http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=68da&jc=food&type=etoc&feed=rss",
+    "category": "food-science"
+  },
+  {
+    "name": "ScienceDirect: Innovative Food Science & Emerging Technologies",
+    "url": "http://rss.sciencedirect.com/publication/science/14668564",
+    "category": "food-science"
+  },
+  {
+    "name": "ACS Publications",
+    "url": "http://feeds.feedburner.com/acs/jafcau",
+    "category": "food-science"
+  },
+  {
+    "name": "FDA Press Releases",
+    "url": "http://www.fda.gov/bbs/topics/news/rssPress.xml",
+    "category": "food-science"
+  },
+  {
+    "name": "ScienceDirect: Food Chemistry",
+    "url": "http://rss.sciencedirect.com/publication/science/03088146",
+    "category": "food-science"
+  },
+  {
+    "name": "Food & Nutrition Magazine",
+    "url": "https://foodandnutrition.org/feed/",
+    "category": "food-science"
+  },
+  {
+    "name": "Wiley: Journal of the Science of Food and Agriculture",
+    "url": "http://www3.interscience.wiley.com/rss/journal/1294",
+    "category": "food-science"
+  },
+  {
+    "name": "Wiley: Food Science & Nutrition",
+    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2048-7177",
+    "category": "food-science"
+  },
+  {
+    "name": "ScienceDirect: Current Opinion in Food Science",
+    "url": "http://rss.sciencedirect.com/publication/science/22147993",
+    "category": "food-science"
+  },
+  {
+    "name": "ScienceDirect: International Journal of Food Microbiology",
+    "url": "http://rss.sciencedirect.com/publication/science/01681605",
+    "category": "food-science"
+  },
+  {
+    "name": "Food Safety",
+    "url": "http://www2c.cdc.gov/podcasts/createrss.asp?c=146",
+    "category": "food-science"
+  },
+  {
+    "name": "PubMed Trending",
+    "url": "https://rsshub.app/pubmed/trending",
+    "category": "food-science"
+  },
+  {
+    "name": "RSC - Food Funct.",
+    "url": "http://feeds.rsc.org/rss/FO",
+    "category": "food-science"
+  },
+  {
+    "name": "European Journal of Applied Physiology",
+    "url": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=421&channel-name=European+Journal+of+Applied+Physiology",
+    "category": "food-science"
+  },
+  {
+    "name": "Wiley: International Journal of Food Science & Technology",
+    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2621",
+    "category": "food-science"
+  },
+  {
+    "name": "ScienceDirect: Food Control",
+    "url": "http://rss.sciencedirect.com/publication/science/09567135",
+    "category": "food-science"
+  },
+  {
+    "name": "Wiley: Molecular Nutrition & Food Research",
+    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1613-4133",
+    "category": "food-science"
+  },
+  {
+    "name": "ScienceDirect: Food Hydrocolloids",
+    "url": "http://rss.sciencedirect.com/publication/science/0268005X",
+    "category": "food-science"
+  },
+  {
+    "name": "ScienceDirect: Journal of Functional Foods",
+    "url": "http://rss.sciencedirect.com/publication/science/17564646",
+    "category": "food-science"
+  },
+  {
+    "name": "Wiley: Journal of Food Safety",
+    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1745-4565",
+    "category": "food-science"
+  },
+  {
+    "name": "Wiley: Journal of Food Science",
+    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1750-3841",
+    "category": "food-science"
+  },
+  {
+    "name": "營養共筆",
+    "url": "http://www.nutrinote.co/?feed=rss2",
+    "category": "knowledge"
+  },
+  {
+    "name": "Nutrition Insight",
+    "url": "https://resource.innovadatabase.com/rss/nhnews.xml",
+    "category": "knowledge"
+  },
+  {
+    "name": "Precision Nutrition",
+    "url": "http://www.precisionnutrition.com/feed",
+    "category": "knowledge"
+  },
+  {
+    "name": "NutritionFacts.org",
+    "url": "http://nutritionfacts.org/feed/",
+    "category": "knowledge"
+  },
+  {
+    "name": "Thinking Nutrition",
+    "url": "http://www.thinkingnutrition.com.au/feeds/posts/default",
+    "category": "knowledge"
+  },
+  {
+    "name": "Unwrapped News",
+    "url": "https://unwrapped.news/feed.xml",
+    "category": "knowledge"
+  },
+  {
+    "name": "SupplySide SJ",
+    "url": "https://www.naturalproductsinsider.com/rss.xml",
+    "category": "knowledge"
+  },
+  {
+    "name": "Food Quality & Safety",
+    "url": "http://www.foodqualityandsafety.com/feed/",
+    "category": "knowledge"
+  },
+  {
+    "name": "MacEnjoy",
+    "url": "https://www.macenjoy.co/blog/feed.xml",
+    "category": "misc"
+  },
+  {
+    "name": "199IT",
+    "url": "http://www.199it.com/feed",
+    "category": "misc"
+  },
+  {
+    "name": "掘金本周最热",
+    "url": "https://rsshub.app/juejin/trending/all/weekly",
+    "category": "misc"
+  },
+  {
+    "name": "iFanr AppSolution",
+    "url": "https://rsshub.app/ifanr/appso",
+    "category": "misc"
+  },
+  {
+    "name": "知乎日报",
+    "url": "https://rsshub.app/zhihu/daily",
+    "category": "misc"
+  },
+  {
+    "name": "小众软件论坛",
+    "url": "https://meta.appinn.net/latest.rss",
+    "category": "misc"
+  },
+  {
+    "name": "HelloGitHub",
+    "url": "https://hellogithub.com/rss",
+    "category": "misc"
+  },
+  {
+    "name": "果壳网科学人",
+    "url": "https://rsshub.app/guokr/scientific",
+    "category": "misc"
+  },
+  {
+    "name": "数字尾巴",
+    "url": "http://rss.dgtle.com/",
+    "category": "misc"
+  },
+  {
+    "name": "每日精品限免",
+    "url": "https://rsshub.app/appstore/xianmian",
+    "category": "misc"
+  },
+  {
+    "name": "创造者日报",
+    "url": "https://creatorsdaily.com/api/rss",
+    "category": "misc"
+  },
+  {
+    "name": "极客公园",
+    "url": "http://feeds.geekpark.net/",
+    "category": "misc"
+  },
+  {
+    "name": "消费者报道",
+    "url": "https://rsshub.app/ccreports/article",
+    "category": "misc"
+  },
+  {
+    "name": "Decohack",
+    "url": "https://decohack.com/feed/",
+    "category": "misc"
+  },
+  {
+    "name": "异次元软件世界",
+    "url": "https://feed.iplaysoft.com/",
+    "category": "misc"
+  },
+  {
+    "name": "小众软件",
+    "url": "https://feeds.appinn.com/appinns/",
+    "category": "misc"
+  },
+  {
+    "name": "少数派",
+    "url": "https://sspai.com/feed",
+    "category": "misc"
+  },
+  {
+    "name": "艾瑞资讯",
+    "url": "http://www.iresearch.cn/common/rss/index.xml",
+    "category": "china-news"
+  },
+  {
+    "name": "食品网刊",
+    "url": "http://news.foodmate.net/feed/rss.php?mid=107",
+    "category": "china-news"
+  },
+  {
+    "name": "知乎每日精选",
+    "url": "http://www.zhihu.com/rss",
+    "category": "china-news"
+  },
+  {
+    "name": "纽约时报中文网",
+    "url": "http://cn.nytimes.com/rss/news.xml",
+    "category": "china-news"
+  },
+  {
+    "name": "品玩实时要闻",
+    "url": "https://rsshub.app/pingwest/status",
+    "category": "china-news"
+  },
+  {
+    "name": "食品资讯",
+    "url": "http://news.foodmate.net/feed/rss.php?mid=21",
+    "category": "china-news"
+  },
+  {
+    "name": "cnBeta.COM",
+    "url": "http://www.cnbeta.com/backend.php",
+    "category": "china-news"
+  },
+  {
+    "name": "知识分子",
+    "url": "https://rsshub.app/zhishifenzi/news",
+    "category": "china-news"
+  },
+  {
+    "name": "财联社股市",
+    "url": "https://rsshub.app/cls/depth/1003",
+    "category": "china-news"
+  },
+  {
+    "name": "cnBeta全文版",
+    "url": "http://feeds2.feedburner.com/cnbeta-full",
+    "category": "china-news"
+  },
+  {
+    "name": "虎嗅网",
+    "url": "http://www.huxiu.com/rss/0.xml",
+    "category": "china-news"
+  },
+  {
+    "name": "雷峰网",
+    "url": "http://www.leiphone.com/feed",
+    "category": "china-news"
+  },
+  {
+    "name": "动点科技",
+    "url": "http://cn.technode.com/feed/",
+    "category": "china-news"
+  },
+  {
+    "name": "爱范儿",
+    "url": "http://www.ifanr.com/feed",
+    "category": "china-news"
+  },
+  {
+    "name": "钛媒体",
+    "url": "http://www.tmtpost.com/feed",
+    "category": "china-news"
+  },
+  {
+    "name": "IT之家",
+    "url": "http://www.ithome.com/rss/",
+    "category": "china-news"
+  },
+  {
+    "name": "观察者网",
+    "url": "http://feedmaker.kindle4rss.com/feeds/guancha.xml",
+    "category": "china-news"
+  },
+  {
+    "name": "格隆汇快讯",
+    "url": "https://rsshub.app/gelonghui/live",
+    "category": "china-news"
+  },
+  {
+    "name": "凤凰财经股市要闻",
+    "url": "http://finance.ifeng.com/rss/stocknews.xml",
+    "category": "china-news"
+  },
+  {
+    "name": "多知网",
+    "url": "https://rsshub.app/duozhi",
+    "category": "china-news"
+  },
+  {
+    "name": "财联社电报",
+    "url": "https://rsshub.app/cls/telegraph",
+    "category": "china-news"
+  },
+  {
+    "name": "Gut BMJ",
+    "url": "http://gut.bmj.com/rss/mfr.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "The Journal of Nutrition",
+    "url": "http://jn.nutrition.org/rss/current.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "Gut Microbiota for Health",
+    "url": "http://www.gutmicrobiotaforhealth.com/feed",
+    "category": "nutrition"
+  },
+  {
+    "name": "Harvard Health & Medicine",
+    "url": "https://news.harvard.edu/gazette/section/health-medicine/feed/",
+    "category": "nutrition"
+  },
+  {
+    "name": "ScienceDirect: Nutrition Research",
+    "url": "http://rss.sciencedirect.com/publication/science/02715317",
+    "category": "nutrition"
+  },
+  {
+    "name": "Nutrition Research News",
+    "url": "http://www.sciencedaily.com/rss/health_medicine/nutrition.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "ScienceDirect: Appetite",
+    "url": "http://rss.sciencedirect.com/publication/science/01956663",
+    "category": "nutrition"
+  },
+  {
+    "name": "Journal of Nutrition Advance Access",
+    "url": "http://jn.nutrition.org/rss/ahead.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "European Journal of Clinical Nutrition",
+    "url": "http://feeds.nature.com/ejcn/rss/current",
+    "category": "nutrition"
+  },
+  {
+    "name": "Wiley: Obesity",
+    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1930-739X",
+    "category": "nutrition"
+  },
+  {
+    "name": "Nutrients",
+    "url": "http://www.mdpi.com/rss/journal/nutrients",
+    "category": "nutrition"
+  },
+  {
+    "name": "Diabetology & Metabolic Syndrome",
+    "url": "http://www.dmsjournal.com/latest/rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "British Journal of Nutrition",
+    "url": "https://www.cambridge.org/core/rss/product/id/D6F69FEC7A749C38806D291D4ADA568B",
+    "category": "nutrition"
+  },
+  {
+    "name": "Journal of Human Nutrition and Dietetics",
+    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-277X",
+    "category": "nutrition"
+  },
+  {
+    "name": "International Journal of Obesity",
+    "url": "http://www.nature.com/ijo/journal/vaop/ncurrent/rss.rdf",
+    "category": "nutrition"
+  },
+  {
+    "name": "Nutrition & Diabetes",
+    "url": "http://feeds.nature.com/nutd/rss/current",
+    "category": "nutrition"
+  },
+  {
+    "name": "Obesity News",
+    "url": "http://www.sciencedaily.com/rss/health_medicine/obesity.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "Journal of the Academy of Nutrition and Dietetics",
+    "url": "http://www.adajournal.org/current.rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "American Society for Nutrition",
+    "url": "https://nutrition.org/feed/",
+    "category": "nutrition"
+  },
+  {
+    "name": "Nutrition & Dietetics",
+    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1747-0080",
+    "category": "nutrition"
+  },
+  {
+    "name": "Lipids in Health and Disease",
+    "url": "http://www.lipidworld.com/latest/rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "The Nutrition Source",
+    "url": "http://www.hsph.harvard.edu/nutritionsource/feed/",
+    "category": "nutrition"
+  },
+  {
+    "name": "Advances in Nutrition",
+    "url": "http://advances.nutrition.org/rss/current.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "International Journal of Behavioral Nutrition and Physical Activity",
+    "url": "http://www.ijbnpa.org/latest/rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "Nutrition Journal",
+    "url": "http://www.nutritionj.com/latest/rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "Clinical Nutrition",
+    "url": "http://www.clinicalnutritionjournal.com/current.rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "Current Opinion in Clinical Nutrition & Metabolic Care",
+    "url": "http://journals.lww.com/co-clinicalnutrition/_layouts/OAKS.Journals/feed.aspx?FeedType=CurrentIssue",
+    "category": "nutrition"
+  },
+  {
+    "name": "Journal of Nutrition and Metabolism",
+    "url": "http://www.hindawi.com/journals/jnume/rss.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "Annual Review of Nutrition",
+    "url": "http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=rz&jc=nutr&type=etoc&feed=rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "Nutrition & Metabolism",
+    "url": "http://www.nutritionandmetabolism.com/latest/rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "Nutrition Research Reviews",
+    "url": "https://www.cambridge.org/core/rss/product/id/83A36942CB5E029980E32DC6A8BF3C92",
+    "category": "nutrition"
+  },
+  {
+    "name": "ScienceDirect: Trends in Food Science & Technology",
+    "url": "http://rss.sciencedirect.com/publication/science/09242244",
+    "category": "nutrition"
+  },
+  {
+    "name": "ScienceDirect: Clinical Nutrition",
+    "url": "http://rss.sciencedirect.com/publication/science/02615614",
+    "category": "nutrition"
+  },
+  {
+    "name": "Nutrition Reviews",
+    "url": "http://nutritionreviews.oxfordjournals.org/rss/current.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "NEJM Journal Watch: Nutrition Obesity",
+    "url": "http://www.jwatch.org/nutrition-obesity/rss",
+    "category": "nutrition"
+  },
+  {
+    "name": "American Journal of Clinical Nutrition",
+    "url": "http://www.ajcn.org/rss/current.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "ScienceDirect: Journal of Nutritional Biochemistry",
+    "url": "http://rss.sciencedirect.com/publication/science/09552863",
+    "category": "nutrition"
+  },
+  {
+    "name": "AJCN Advance Access",
+    "url": "http://www.ajcn.org/rss/ahead.xml",
+    "category": "nutrition"
+  },
+  {
+    "name": "Frontiers in Nutrition",
+    "url": "http://journal.frontiersin.org/journal/nutrition/rss",
+    "category": "nutrition"
   }
 ]
