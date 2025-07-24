@@ -1,0 +1,20 @@
+{
+  "webhook_url": "",
+  "notification_settings": {
+    "enabled": true,
+    "message_type": "card",
+    "max_news_per_message": 10,
+    "include_summary": true,
+    "notification_time": "09:00"
+  },
+  "message_templates": {
+    "card": {
+      "color": "blue",
+      "title": "📰 RSS新闻精选"
+    },
+    "text": {
+      "prefix": "📰",
+      "suffix": "查看完整报告"
+    }
+  }
+}

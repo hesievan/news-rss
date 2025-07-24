@@ -1,0 +1,20 @@
+[
+  {
+    "title": "示例新闻：AI技术取得重大突破",
+    "link": "https://example.com/ai-breakthrough",
+    "description": "这是一个示例新闻，展示GitHub Pages的效果。AI技术在图像识别领域取得了重大突破。",
+    "published": "Wed, 24 Jul 2025 15:30:00 +0800",
+    "source": "示例来源",
+    "category": "tech",
+    "collected_at": "2025-07-24 15:32:10"
+  },
+  {
+    "title": "示例新闻：区块链技术应用扩展",
+    "link": "https://example.com/blockchain-expansion",
+    "description": "区块链技术在金融、医疗、供应链等多个领域得到广泛应用。",
+    "published": "Wed, 24 Jul 2025 14:20:00 +0800",
+    "source": "示例来源",
+    "category": "tech",
+    "collected_at": "2025-07-24 15:32:10"
+  }
+]

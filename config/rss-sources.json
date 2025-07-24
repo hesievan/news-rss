@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Solidot",
+    "url": "https://www.solidot.org/index.rss",
+    "category": "tech"
+  },
+  {
+    "name": "36氪",
+    "url": "https://36kr.com/feed",
+    "category": "business"
+  },
+  {
+    "name": "cnBeta",
+    "url": "https://www.cnbeta.com/backend.php",
+    "category": "tech"
+  },
+  {
+    "name": "虎嗅网",
+    "url": "https://www.huxiu.com/rss/0.xml",
+    "category": "business"
+  },
+  {
+    "name": "开源中国",
+    "url": "https://www.oschina.net/news/rss",
+    "category": "tech"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "category": "tech"
+  }
+]

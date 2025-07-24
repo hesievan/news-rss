@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>科技新闻聚合 - RSS精选</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 0;
+            text-align: center;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            display: block;
+        }
+        
+        .keyword-section {
+            background: white;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .keyword-header {
+            background: #4CAF50;
+            color: white;
+            padding: 15px 20px;
+            font-size: 1.3em;
+            font-weight: bold;
+        }
+        
+        .news-list {
+            padding: 0;
+        }
+        
+        .news-item {
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+            transition: background-color 0.3s;
+        }
+        
+        .news-item:hover {
+            background-color: #f9f9f9;
+        }
+        
+        .news-item:last-child {
+            border-bottom: none;
+        }
+        
+        .news-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        
+        .news-title a {
+            color: #2c3e50;
+            text-decoration: none;
+        }
+        
+        .news-title a:hover {
+            color: #667eea;
+            text-decoration: underline;
+        }
+        
+        .news-meta {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
+        
+        .news-description {
+            color: #555;
+            line-height: 1.5;
+            margin-bottom: 10px;
+        }
+        
+        .news-tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .tag {
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+        }
+        
+        .source-tag {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+        
+        .category-tag {
+            background: #e8f5e8;
+            color: #388e3c;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 40px 0;
+            color: #666;
+            border-top: 1px solid #ddd;
+            margin-top: 40px;
+        }
+        
+        .update-time {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            .stats {
+                gap: 20px;
+            }
+            
+            .news-item {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>科技新闻聚合</h1>
+            <p class="subtitle">基于关键词的智能新闻筛选与聚合</p>
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-number">2</span>
+                    <span>篇精选文章</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">2</span>
+                    <span>个关键词</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">1</span>
+                    <span>个来源</span>
+                </div>
+            </div>
+        </header>
+        
+        <div class="update-time">
+            <strong>最后更新：</strong>2025-07-24 15:32:10 (UTC+8)
+        </div>
+
+        <div class="keyword-section">
+            <div class="keyword-header">
+                AI (1 篇)
+            </div>
+            <div class="news-list">
+
+                <div class="news-item">
+                    <div class="news-title">
+                        <a href="https://example.com/ai-breakthrough" target="_blank" rel="noopener noreferrer">示例新闻：AI技术取得重大突破</a>
+                    </div>
+                    <div class="news-meta">
+                        📅 2025-07-24 15:30 | 🏢 示例来源
+                    </div>
+                    <div class="news-description">
+                        这是一个示例新闻，展示GitHub Pages的效果。AI技术在图像识别领域取得了重大突破。
+                    </div>
+                    <div class="news-tags">
+                        <span class="tag source-tag">示例来源</span>
+                        <span class="tag category-tag">tech</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="keyword-section">
+            <div class="keyword-header">
+                区块链 (1 篇)
+            </div>
+            <div class="news-list">
+
+                <div class="news-item">
+                    <div class="news-title">
+                        <a href="https://example.com/blockchain-expansion" target="_blank" rel="noopener noreferrer">示例新闻：区块链技术应用扩展</a>
+                    </div>
+                    <div class="news-meta">
+                        📅 2025-07-24 14:20 | 🏢 示例来源
+                    </div>
+                    <div class="news-description">
+                        区块链技术在金融、医疗、供应链等多个领域得到广泛应用。
+                    </div>
+                    <div class="news-tags">
+                        <span class="tag source-tag">示例来源</span>
+                        <span class="tag category-tag">tech</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>由 RSS 新闻聚合器自动生成 | 数据来源：各大科技媒体 RSS 订阅源</p>
+            <p>更新时间：每6小时自动更新一次</p>
+        </div>
+    </div>
+</body>
+</html>
