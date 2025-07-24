@@ -13,7 +13,7 @@ on:
 
 # 设置权限
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -29,6 +29,8 @@ jobs:
     steps:
     - name: 检出代码
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
       
     - name: 设置Python环境
       uses: actions/setup-python@v4
