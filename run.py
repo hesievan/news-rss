@@ -47,6 +47,10 @@ def main():
     if not run_command("python src/filter_news.py", "过滤新闻"):
         sys.exit(1)
     
+    # 生成Markdown文件
+    if not run_command("python src/generate_markdown.py", "生成Markdown文件"):
+        sys.exit(1)
+    
     # 发送飞书通知
     print("\n" + "="*50)
     print("正在发送飞书通知...")
@@ -58,6 +62,8 @@ def main():
     print("- output/raw_news.json: 原始收集的新闻")
     print("- output/filtered_news.json: 过滤后的新闻")
     print("- output/summary.json: 摘要报告")
+    print("- output/raw_news.md: 原始新闻Markdown格式")
+    print("- output/filtered_news.md: 过滤后新闻Markdown格式")
     print("- 飞书通知已发送 (如已配置)")
     print("="*50)
 
