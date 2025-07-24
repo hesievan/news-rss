@@ -61,7 +61,7 @@ jobs:
         git push
         
     - name: 上传结果作为构件
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: filtered-news
         path: |
