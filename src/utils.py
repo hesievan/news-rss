@@ -38,7 +38,7 @@ def contains_keywords(text: str, keywords: List[str]) -> bool:
     return False
 
 def filter_by_keywords(news_items: List[Dict], keywords_config: Dict[str, List[str]]) -> List[Dict]:
-    """根据关键词过滤新闻"""
+    """根据关键词过滤新闻（仅匹配标题）"""
     include_keywords = keywords_config.get('include_keywords', [])
     exclude_keywords = keywords_config.get('exclude_keywords', [])
     
@@ -46,17 +46,13 @@ def filter_by_keywords(news_items: List[Dict], keywords_config: Dict[str, List[s
     
     for item in news_items:
         title = item.get('title', '')
-        description = item.get('description', '')
-        content = item.get('content', '')
         
-        full_text = f"{title} {description} {content}"
-        
-        # 检查是否包含排除关键词
-        if contains_keywords(full_text, exclude_keywords):
+        # 检查标题是否包含排除关键词
+        if contains_keywords(title, exclude_keywords):
             continue
             
-        # 检查是否包含包含关键词
-        if contains_keywords(full_text, include_keywords):
+        # 检查标题是否包含包含关键词
+        if contains_keywords(title, include_keywords):
             filtered_items.append(item)
     
     return filtered_items
