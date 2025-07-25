@@ -10,19 +10,45 @@ from typing import Dict, List, Any
 import re
 
 def load_filtered_news() -> List[Dict[str, Any]]:
-    """Load filtered news from JSON file"""
+    """
+    加载筛选后的新闻数据
+    
+    从output/filtered_news.json文件中读取已筛选的新闻数据
+    如果文件不存在或为空，返回空列表
+    
+    @return {List[Dict[str, Any]]} 新闻数据列表，每个元素为包含新闻信息的字典
+    """
+    # 新闻数据文件路径
     news_file = "output/filtered_news.json"
+    
+    # 检查文件是否存在
     if not os.path.exists(news_file):
+        logging.warning(f"新闻数据文件不存在: {news_file}")
         return []
     
+    # 读取并返回JSON数据
     with open(news_file, 'r', encoding='utf-8') as f:
-        return json.load(f)
+        try:
+            return json.load(f)
+        except json.JSONDecodeError:
+            logging.error(f"新闻数据文件格式错误: {news_file}")
+            return []
 
 def extract_keywords_from_text(text: str, keywords: List[str]) -> List[str]:
-    """Extract matching keywords from text"""
+    """
+    从文本中提取匹配的关键词
+    
+    将文本和关键词都转为小写后进行匹配，避免大小写敏感问题
+    
+    @param {str} text - 需要提取关键词的文本内容
+    @param {List[str]} keywords - 关键词列表
+    @return {List[str]} 匹配到的关键词列表
+    """
+    # 将文本转为小写，实现大小写不敏感匹配
     text_lower = text.lower()
     matched_keywords = []
     
+    # 遍历所有关键词，检查是否在文本中出现
     for keyword in keywords:
         if keyword.lower() in text_lower:
             matched_keywords.append(keyword)
@@ -30,19 +56,28 @@ def extract_keywords_from_text(text: str, keywords: List[str]) -> List[str]:
     return matched_keywords
 
 def group_news_by_keywords(news_list: List[Dict[str, Any]], keywords: List[str]) -> Dict[str, List[Dict[str, Any]]]:
-    """Group news articles by matching keywords"""
+    """
+    将新闻按匹配的关键词分组
+    
+    组合新闻标题、描述和内容，提取匹配的关键词，并将新闻归类到对应的关键词组
+    
+    @param {List[Dict[str, Any]]} news_list - 新闻列表
+    @param {List[str]} keywords - 关键词列表
+    @return {Dict[str, List[Dict[str, Any]]]} 按关键词分组的新闻字典
+    """
     keyword_groups = {}
     
     for news in news_list:
+        # 提取新闻的标题、描述和内容
         title = news.get('title', '')
         description = news.get('description', '')
         content = news.get('content', '')
         
-        # Combine all text for keyword matching
+        # 组合所有文本用于关键词匹配
         full_text = f"{title} {description} {content}"
         matched_keywords = extract_keywords_from_text(full_text, keywords)
         
-        # Add news to each matching keyword group
+        # 将新闻添加到每个匹配的关键词组
         for keyword in matched_keywords:
             if keyword not in keyword_groups:
                 keyword_groups[keyword] = []
@@ -346,41 +381,80 @@ def generate_html(news_data: List[Dict[str, Any]], keywords: List[str]) -> str:
     
     return html_content
 
-def save_html_to_pages(html_content: str):
-    """Save HTML to docs directory for GitHub Pages"""
-    os.makedirs("docs", exist_ok=True)
+def save_html_to_pages(html_content: str) -> bool:
+    """
+    将HTML内容保存到GitHub Pages所需的目录
     
-    with open("docs/index.html", "w", encoding="utf-8") as f:
-        f.write(html_content)
+    保存路径为docs/index.html，该目录是GitHub Pages默认的发布目录
+    如果目录不存在会自动创建
     
-    print("✅ GitHub Pages HTML 已生成并保存到 docs/index.html")
+    @param {str} html_content - 要保存的HTML内容
+    @return {bool} 保存成功返回True，失败返回False
+    """
+    try:
+        # 创建docs目录（如果不存在）
+        # GitHub Pages默认使用docs目录作为发布源
+        os.makedirs("docs", exist_ok=True)
+        
+        # 保存HTML内容到docs/index.html
+        with open("docs/index.html", "w", encoding="utf-8") as f:
+            f.write(html_content)
+        
+        logging.info("✅ GitHub Pages HTML 已生成并保存到 docs/index.html")
+        return True
+    except Exception as e:
+        logging.error(f"保存HTML文件失败: {str(e)}")
+        return False
 
 def main():
+    """
+    主函数：生成GitHub Pages的HTML页面
+    
+    流程：
+    1. 加载筛选后的新闻数据
+    2. 加载关键词配置
+    3. 生成HTML内容
+    4. 保存HTML到docs目录
+    
+    如有任何步骤失败，记录错误并退出程序
+    """
     try:
-        print("开始生成GitHub Pages...")
+        logging.info("开始生成GitHub Pages...")
+        # 加载筛选后的新闻数据
         news_data = load_filtered_news()
+        
+        # 检查是否有新闻数据
         if not news_data:
-            print("没有新闻数据可供生成页面")
+            logging.warning("没有新闻数据可供生成页面")
             return
         
+        # 加载关键词配置
         try:
+            # 关键词配置文件路径：config/keywords.json
+            # 格式示例：{"include_keywords": ["人工智能", "机器学习", "区块链"]}
             keywords_config = load_json_config('config/keywords.json')
         except json.JSONDecodeError:
-            logging.error("关键词配置文件JSON格式错误")
+            logging.error("关键词配置文件JSON格式错误，请检查文件语法")
             sys.exit(1)
         except Exception as e:
             logging.error(f"加载关键词配置失败: {str(e)}")
             sys.exit(1)
-        keywords = keywords_config.get('include_keywords', [])
         
+        # 提取需要匹配的关键词列表
+        keywords = keywords_config.get('include_keywords', [])
+        if not keywords:
+            logging.warning("未配置任何关键词，将无法按关键词分组")
+        
+        # 生成HTML内容
         try:
             html_content = generate_html(news_data, keywords)
         except Exception as e:
             logging.error(f"生成HTML内容失败: {str(e)}")
             sys.exit(1)
         
+        # 保存HTML到GitHub Pages目录
         if save_html_to_pages(html_content):
-            logging.info("GitHub Pages生成成功")
+            logging.info("GitHub Pages生成成功，文件已保存到docs/index.html")
         else:
             logging.error("GitHub Pages生成失败")
             sys.exit(1)
@@ -389,7 +463,8 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
-    main()
-except Exception as e:
-    logging.error(f'生成HTML页面失败: {str(e)}')
-    return False
+    try:
+        main()
+    except Exception as e:
+        logging.error(f'生成HTML页面失败: {str(e)}')
+        sys.exit(1)
