@@ -5,6 +5,7 @@ Generate GitHub Pages HTML from filtered news
 
 import json
 import os
+import logging
 from datetime import datetime
 from typing import Dict, List, Any
 import re
@@ -418,6 +419,14 @@ def main():
     
     如有任何步骤失败，记录错误并退出程序
     """
+    # 配置logging模块
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.StreamHandler()
+        ]
+    )
     try:
         logging.info("开始生成GitHub Pages...")
         # 加载筛选后的新闻数据
