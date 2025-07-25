@@ -10,6 +10,11 @@ from datetime import datetime
 from typing import Dict, List, Any
 import re
 
+# 添加Python路径处理
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from utils import load_config
+
 
 def load_filtered_news() -> List[Dict[str, Any]]:
     """
@@ -339,6 +344,8 @@ def generate_html(news_data: List[Dict[str, Any]], keywords: List[str]) -> str:
 </html>
 """
     return html_content
+
+
 def save_html_to_pages(html_content: str) -> bool:
     """
     将HTML内容保存到GitHub Pages所需的目录
@@ -359,6 +366,8 @@ def save_html_to_pages(html_content: str) -> bool:
     except Exception as e:
         logging.error(f"保存HTML文件失败: {str(e)}")
         return False
+
+
 def main():
     """
     主函数：生成GitHub Pages的HTML页面
@@ -387,9 +396,8 @@ def main():
             return
         # 加载关键词配置
         try:
-            # 关键词配置文件路径：config/keywords.json
-            # 格式示例：{"include_keywords": ["人工智能", "机器学习", "区块链"]}
-            keywords_config = load_json_config('config/keywords.json')
+            # 关键词配置文件路径：config/keywords.yaml
+            keywords_config = load_config('config/keywords.yaml')
         except json.JSONDecodeError:
             logging.error("关键词配置文件JSON格式错误，请检查文件语法")
             sys.exit(1)
@@ -415,6 +423,8 @@ def main():
     except Exception as e:
         logging.error(f'生成HTML页面失败: {str(e)}')
         sys.exit(1)
+
+
 if __name__ == "__main__":
     try:
         main()
