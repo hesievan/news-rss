@@ -58,6 +58,19 @@
 └── README.md                   # 项目说明
 ```
 
+## 🔄 工作流程
+
+```mermaid
+graph TD
+    A[定时触发/GitHub Actions] --> B[收集RSS内容<br>collect_rss.py]
+    B --> C[过滤新闻<br>filter_news.py]
+    C --> D[生成Markdown存档<br>generate_markdown.py]
+    D --> E[生成GitHub Pages<br>generate_github_pages.py]
+    E --> F[发送飞书通知<br>notify.py]
+    F --> G[提交结果到GitHub]
+    G --> H[部署GitHub Pages]
+```
+
 ## 🚀 快速开始
 
 ### 1️⃣ 一键部署

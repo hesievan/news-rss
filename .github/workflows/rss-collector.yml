@@ -50,6 +50,9 @@ jobs:
       run: |
         python src/filter_news.py
         
+    - name: 生成Markdown存档
+      run: |
+        python src/generate_markdown.py
     - name: 生成GitHub Pages
       run: |
         python src/generate_github_pages.py
