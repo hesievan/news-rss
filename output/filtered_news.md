@@ -1,100 +1,1368 @@
-# 过滤后新闻列表 - 2025-07-25 06:37:50
+# 过滤后新闻列表 - 2025-07-25 18:14:01
 
-更新时间: 2025-07-25 06:37:50
+更新时间: 2025-07-25 18:14:01
 
-共找到 348 条新闻
+共找到 447 条新闻
 
-- [硅谷 AI 创业公司拥抱中国的 996 工作制](https://www.solidot.org/story?sid=81880)
+- [Simulation of branched serial first-order decay of atrazine and metabolites in adapted and nonadapted soils.](https://pubmed.ncbi.nlm.nih.gov/21688305)
+  - 来源: PubMed Trending
+  - 发布时间: Wed, 31 Aug 2011 16:00:00 GMT
+
+- [HelloGitHub 第 78 期](https://hellogithub.com/periodical/volume/78)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Sep 2022 08:10:33 +0800
+
+- [HelloGitHub 第 55 期](https://hellogithub.com/periodical/volume/55)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Oct 2020 08:15:00 +0800
+
+- [HelloGitHub 第 32 期](https://hellogithub.com/periodical/volume/32)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Nov 2018 08:15:00 +0800
+
+- [A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain](https://www.sciencedaily.com/releases/2025/05/250528131843.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Wed, 28 May 2025 13:18:43 EDT
+
+- [Intestinal bacteria influence aging of blood vessels](https://www.sciencedaily.com/releases/2025/05/250528131555.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Wed, 28 May 2025 13:15:55 EDT
+
+- [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 May 2025 08:05:12 +0800
+
+- [HelloGitHub 第 24 期](https://hellogithub.com/periodical/volume/24)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Mar 2018 08:15:00 +0800
+
+- [HelloGitHub 第 87 期](https://hellogithub.com/periodical/volume/87)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Jun 2023 08:04:06 +0800
+
+- [HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Jul 2021 08:15:00 +0800
+
+- [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Feb 2024 08:11:30 +0800
+
+- [HelloGitHub 第 23 期](https://hellogithub.com/periodical/volume/23)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Feb 2018 08:15:00 +0800
+
+- [HelloGitHub 第 81 期](https://hellogithub.com/periodical/volume/81)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Dec 2022 08:05:56 +0800
+
+- [HelloGitHub 第 09 期](https://hellogithub.com/periodical/volume/9)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Dec 2016 08:15:00 +0800
+
+- [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Aug 2024 08:03:47 +0800
+
+- [HelloGitHub 第 41 期](https://hellogithub.com/periodical/volume/41)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Aug 2019 08:15:00 +0800
+
+- [HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61)
+  - 来源: HelloGitHub
+  - 发布时间: Wed, 28 Apr 2021 08:15:00 +0800
+
+- [Neurons in brain that regulate energy levels and body temperature](https://www.sciencedaily.com/releases/2025/03/250326154245.htm)
+  - 来源: Obesity News
+  - 发布时间: Wed, 26 Mar 2025 15:42:45 EDT
+
+- [清理占空间超大的 chrome缓存文件而不影响cookie和history？](https://meta.appinn.net/t/topic/73578)
+  - 来源: 小众软件论坛
+  - 发布时间: Wed, 23 Jul 2025 22:56:56 +0000
+
+- [毕马威：2025年中国租赁业调查报告](http://www.199it.com/archives/1773991.html)
+  - 来源: 199IT
+  - 发布时间: Wed, 23 Jul 2025 21:00:06 +0000
+
+- [Canalys：2025 年第二季度台式机、笔记本和工作站达到 6760 万台  同比增长 7.4%](http://www.199it.com/archives/1773181.html)
+  - 来源: 199IT
+  - 发布时间: Wed, 23 Jul 2025 18:00:32 +0000
+
+- [Firefox 支持地址栏换算计量单位](https://meta.appinn.net/t/topic/73573)
+  - 来源: 小众软件论坛
+  - 发布时间: Wed, 23 Jul 2025 17:55:21 +0000
+
+- [Herbalife bucks GLP-1 trend with new fat burner supplement](https://www.supplysidesj.com/healthy-living/herbalife-bucks-glp-1-trend-with-new-fat-burner-supplement)
+  - 来源: SupplySide SJ
+  - 发布时间: Wed, 23 Jul 2025 16:16:43 GMT
+
+- [分享一个开源的Chrome扩展：鼠标手势](https://meta.appinn.net/t/topic/73571)
+  - 来源: 小众软件论坛
+  - 发布时间: Wed, 23 Jul 2025 15:09:47 +0000
+
+- [Folo for research的探讨](https://meta.appinn.net/t/topic/73567)
+  - 来源: 小众软件论坛
+  - 发布时间: Wed, 23 Jul 2025 14:50:59 +0000
+
+- [从「全球销冠」到「Google首选」，XREAL创新驱动引领新一代智能终端](https://www.leiphone.com/category/ai/12HmSMykaZFm4Wp2.html)
+  - 来源: 雷峰网
+  - 发布时间: Wed, 23 Jul 2025 14:33:00 +0800
+
+- [沙特商超巨头Othaim入驻阿里速卖通](https://www.leiphone.com/category/industrynews/UvWzobRad0F8ET6R.html)
+  - 来源: 雷峰网
+  - 发布时间: Wed, 23 Jul 2025 14:16:00 +0800
+
+- [华大CEO：2025年中国医疗效率超美国，00后预期寿命达百岁](http://www.199it.com/archives/1774819.html)
+  - 来源: 199IT
+  - 发布时间: Wed, 23 Jul 2025 12:25:03 +0000
+
+- [洛图科技：2025年上半年中国大陆显示器线上销量642万台 同比增长29.7%](http://www.199it.com/archives/1774823.html)
+  - 来源: 199IT
+  - 发布时间: Wed, 23 Jul 2025 12:24:48 +0000
+
+- [特斯拉：2025年全球首家超级充电站餐厅开业6小时营收4.7万美元](http://www.199it.com/archives/1774828.html)
+  - 来源: 199IT
+  - 发布时间: Wed, 23 Jul 2025 12:24:35 +0000
+
+- [【老鼠微硬评】开箱刀和 5050 和 8 字扣](https://meta.appinn.net/t/topic/73555)
+  - 来源: 小众软件论坛
+  - 发布时间: Wed, 23 Jul 2025 12:15:52 +0000
+
+- [富国银行驻美高管被中国限制离境引发商界担忧](https://cn.nytimes.com/china/20250721/china-exit-ban-business-anxiety/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Wed, 23 Jul 2025 11:57:45 +0800
+
+- [大家坐后排会系安全带吗？](https://meta.appinn.net/t/topic/73552)
+  - 来源: 小众软件论坛
+  - 发布时间: Wed, 23 Jul 2025 11:05:59 +0000
+
+- [压价、内卷、加剧通缩：中国企业过度竞争的恶性循环](https://cn.nytimes.com/business/20250723/china-involution-competition-deflation/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Wed, 23 Jul 2025 10:14:33 +0800
+
+- [独家丨小鹏机器人团队“广招兵马”，原字节 Seed 陈杰已加入](https://www.leiphone.com/category/ai/FvxsBIAzj3z4KpVK.html)
+  - 来源: 雷峰网
+  - 发布时间: Wed, 23 Jul 2025 10:09:00 +0800
+
+- [独家 | 商汤科技将成立独立的具身智能公司](https://www.leiphone.com/category/ai/XfVFHlE91fPINqJk.html)
+  - 来源: 雷峰网
+  - 发布时间: Wed, 23 Jul 2025 10:04:00 +0800
+
+- [想去美国旅游？你可能要多花250美元“签证诚信费”](https://cn.nytimes.com/travel/20250723/visa-integrity-fee-trump-big-beautiful-bill/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Wed, 23 Jul 2025 10:01:56 +0800
+
+- [2019年-2024年全球生成式人工智能风险投资交易额（附原数据表） ​​​](http://www.199it.com/archives/1774838.html)
+  - 来源: 199IT
+  - 发布时间: Wed, 23 Jul 2025 09:27:02 +0000
+
+- [2025年韩国消费者购买电动车主要因素预测（附原数据表） ​​​](http://www.199it.com/archives/1774832.html)
+  - 来源: 199IT
+  - 发布时间: Wed, 23 Jul 2025 09:25:54 +0000
+
+- [闲鱼智能监控机器人 - 开源AI项目，帮你 7x24 小时找到“信用极好”的真·个人好物](https://meta.appinn.net/t/topic/73549)
+  - 来源: 小众软件论坛
+  - 发布时间: Wed, 23 Jul 2025 09:11:48 +0000
+
+- [闲鱼智能监控机器人 – 开源AI项目，帮你 7×24 小时找到“信用极好”的真·个人好物](https://www.appinn.com/ai-goofish-monitor/)
+  - 来源: 小众软件
+  - 发布时间: Wed, 23 Jul 2025 09:10:23 +0000
+
+- [官方回应北京网约车平台禁燃油车；阿里开源 AI 编程模型 Qwen3-Coder；《阿凡达3》首张宣传海报公布](http://www.geekpark.net/news/351792)
+  - 来源: 极客公园
+  - 发布时间: Wed, 23 Jul 2025 08:50:39 +0800
+
+- [【网站自荐】一个AI & web3的一站式工具导航网站](https://meta.appinn.net/t/topic/73533)
+  - 来源: 小众软件论坛
+  - 发布时间: Wed, 23 Jul 2025 04:08:41 +0000
+
+- [中国汽车巨头进军巴西，梦想称霸南美大陆](https://cn.nytimes.com/business/20250723/china-brazil-electric-vehicles/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Wed, 23 Jul 2025 02:21:56 +0800
+
+- [中国正在抢占未来，美国却陷入焦虑与退缩](https://cn.nytimes.com/opinion/20250723/trump-america-china/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Wed, 23 Jul 2025 01:44:53 +0800
+
+- [The effectiveness and safety of specific dietary supplements in modulating uric acid levels, oxidative stress, and lipid metabolism in patients: a network meta-analysis of 13 interventions](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-025-00977-2)
+  - 来源: Nutrition & Metabolism
+  - 发布时间: Wed, 23 Jul 2025 00:00:00 GMT
+
+- [This gene variant contributed to the dietary and physiological evolution of modern humans](https://www.sciencedaily.com/releases/2025/05/250521124306.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Wed, 21 May 2025 12:43:06 EDT
+
+- [新加坡博士团队打造的 AI 办公产品，挑战微软 Office](http://www.geekpark.net/news/351600)
+  - 来源: 极客公园
+  - 发布时间: Wed, 16 Jul 2025 19:47:17 +0800
+
+- [YTHDC1 lactylation regulates its phase separation to enhance target mRNA stability and promote RCC progression.](https://pubmed.ncbi.nlm.nih.gov/40680722)
+  - 来源: PubMed Trending
+  - 发布时间: Wed, 16 Jul 2025 16:00:00 GMT
+
+- [Lactylation of XLF promotes non-homologous end-joining repair and chemoresistance in cancer.](https://pubmed.ncbi.nlm.nih.gov/40680721)
+  - 来源: PubMed Trending
+  - 发布时间: Wed, 16 Jul 2025 16:00:00 GMT
+
+- [基于Chrome 内核，OpenAI 浏览器被曝；网络身份证正式启用；中公推「AI 就业学习机」](http://www.geekpark.net/news/351564)
+  - 来源: 极客公园
+  - 发布时间: Wed, 16 Jul 2025 08:49:30 +0800
+
+- [PH今日热榜 | 2025-07-16](https://decohack.com/producthunt-daily-2025-07-16/)
+  - 来源: Decohack
+  - 发布时间: Wed, 16 Jul 2025 07:21:46 +0000
+
+- [Dietary antioxidants and mortality in early-stage CKM syndrome: insights from NHANES](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-025-00974-5)
+  - 来源: Nutrition & Metabolism
+  - 发布时间: Wed, 16 Jul 2025 00:00:00 GMT
+
+- [Early mutations and risk factors for stomach cancer, and develops a pre-cancer model for stomach cancer prevention](https://www.sciencedaily.com/releases/2025/04/250416135743.htm)
+  - 来源: Obesity News
+  - 发布时间: Wed, 16 Apr 2025 13:57:43 EDT
+
+- [Exercise and healthy eating behavior together provide the best protection against cardiovascular diseases](https://www.sciencedaily.com/releases/2025/03/250305134942.htm)
+  - 来源: Obesity News
+  - 发布时间: Wed, 05 Mar 2025 13:49:42 EST
+
+- [Obese and healthy](https://www.sciencedaily.com/releases/2025/02/250205131417.htm)
+  - 来源: Obesity News
+  - 发布时间: Wed, 05 Feb 2025 13:14:17 EST
+
+- [HelloGitHub 第 66 期](https://hellogithub.com/periodical/volume/66)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Sep 2021 08:15:00 +0800
+
+- [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Nov 2023 08:11:40 +0800
+
+- [HelloGitHub 第 20 期](https://hellogithub.com/periodical/volume/20)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Nov 2017 08:15:00 +0800
+
+- [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 May 2024 08:12:43 +0800
+
+- [HelloGitHub 第 38 期](https://hellogithub.com/periodical/volume/38)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 May 2019 08:15:00 +0800
+
+- [HelloGitHub 第 84 期](https://hellogithub.com/periodical/volume/84)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Mar 2023 08:09:42 +0800
+
+- [HelloGitHub 第 75 期](https://hellogithub.com/periodical/volume/75)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Jun 2022 08:07:31 +0800
+
+- [HelloGitHub 第 52 期](https://hellogithub.com/periodical/volume/52)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Jul 2020 08:15:00 +0800
+
+- [HelloGitHub 第 46 期](https://hellogithub.com/periodical/volume/46)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Jan 2020 08:15:00 +0800
+
+- [HelloGitHub 第 83 期](https://hellogithub.com/periodical/volume/83)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Feb 2023 08:11:31 +0800
+
+- [HelloGitHub 第 69 期](https://hellogithub.com/periodical/volume/69)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Dec 2021 08:15:00 +0800
+
+- [HelloGitHub 第 49 期](https://hellogithub.com/periodical/volume/49)
+  - 来源: HelloGitHub
+  - 发布时间: Tue, 28 Apr 2020 08:15:00 +0800
+
+- [Colliers：2025年全球科技市场顶级人才聚集地报告](http://www.199it.com/archives/1773599.html)
+  - 来源: 199IT
+  - 发布时间: Tue, 22 Jul 2025 21:30:00 +0000
+
+- [KOS：2025中国薪酬指南](http://www.199it.com/archives/1773598.html)
+  - 来源: 199IT
+  - 发布时间: Tue, 22 Jul 2025 21:00:59 +0000
+
+- [淘宝在泰国推出泰语版，海外已上线3种外语版本](https://www.leiphone.com/category/industrynews/wuJ0YGLXJtD028af.html)
+  - 来源: 雷峰网
+  - 发布时间: Tue, 22 Jul 2025 18:33:00 +0800
+
+- [瓴羊推出阿里巴巴首批企业级Agent，超级客服专家上岗](http://www.199it.com/archives/1774853.html)
+  - 来源: 199IT
+  - 发布时间: Tue, 22 Jul 2025 16:01:29 +0000
+
+- [TRAE官宣2.0品牌升级，全新推出SOLO模式](https://www.leiphone.com/category/industrynews/yie5pyC6tucG7uDj.html)
+  - 来源: 雷峰网
+  - 发布时间: Tue, 22 Jul 2025 15:33:00 +0800
+
+- [汽车之家：2025年上半年中国SUV销量TOP10 特斯拉Model Y夺冠](http://www.199it.com/archives/1774723.html)
+  - 来源: 199IT
+  - 发布时间: Tue, 22 Jul 2025 12:24:03 +0000
+
+- [科信食品与健康信息交流中心：研究显示功能饮料市场或引发焦虑失眠问题](http://www.199it.com/archives/1774709.html)
+  - 来源: 199IT
+  - 发布时间: Tue, 22 Jul 2025 12:21:34 +0000
+
+- [乘联会：2025年上半年俄罗斯汽车销量60万辆 同比下降29%](http://www.199it.com/archives/1774693.html)
+  - 来源: 199IT
+  - 发布时间: Tue, 22 Jul 2025 12:20:23 +0000
+
+- [零一万物万智2.0升级：推出企业级Agent，上线重塑企业工作流](https://www.leiphone.com/category/industrynews/hXcgEypvqIaTSOm2.html)
+  - 来源: 雷峰网
+  - 发布时间: Tue, 22 Jul 2025 12:10:00 +0800
+
+- [智元、宇树扎堆上市，半年 300 亿融资背后，机器人赛道「太火了」？](http://www.geekpark.net/news/351752)
+  - 来源: 极客公园
+  - 发布时间: Tue, 22 Jul 2025 11:15:00 +0800
+
+- [官方报告称中国官员协助掩盖幼儿园学童铅中毒事件](https://cn.nytimes.com/china/20250722/china-lead-poisoning-scandal/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Tue, 22 Jul 2025 10:37:34 +0800
+
+- [中国阻止一名美国商务部雇员离境，盘问其美军服役经历](https://cn.nytimes.com/china/20250722/china-exit-ban-us-government-employee/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Tue, 22 Jul 2025 10:25:23 +0800
+
+- [2025年Q1中国主要厂商腕戴设备出货量市场份额（附原数据表） ​​​](http://www.199it.com/archives/1774679.html)
+  - 来源: 199IT
+  - 发布时间: Tue, 22 Jul 2025 08:54:12 +0000
+
+- [2025年Q1中国主要厂商腕戴设备出货量及同比（附原数据表） ​​​](http://www.199it.com/archives/1774676.html)
+  - 来源: 199IT
+  - 发布时间: Tue, 22 Jul 2025 08:53:38 +0000
+
+- [特斯拉开了家未来餐厅：机器人送来爆米花，我递钱包](https://www.ifanr.com/1631617?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - 来源: 爱范儿
+  - 发布时间: Tue, 22 Jul 2025 08:00:38 +0000
+
+- [中国强硬对抗特朗普，对欧洲也毫不退让](https://cn.nytimes.com/world/20250722/china-europe-trade-war/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Tue, 22 Jul 2025 07:46:46 +0800
+
+- [首家京东自营外卖门店开业；小宇宙回应多名高管离职；国产新能源车保值率排名发布：SU7 第一](http://www.geekpark.net/news/351753)
+  - 来源: 极客公园
+  - 发布时间: Tue, 22 Jul 2025 07:21:06 +0800
+
+- [年轻选民推动日本右倾，但新右翼政党能走多远？](https://cn.nytimes.com/asia-pacific/20250722/japan-election-analysis/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Tue, 22 Jul 2025 05:04:08 +0800
+
+- [越让拆，他越往上盖：当“钉子户”建起一座“城堡”](https://cn.nytimes.com/china/20250722/china-demolition-house/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Tue, 22 Jul 2025 03:30:47 +0800
+
+- [早报｜黄仁勋：中国 AI 无论有无英伟达都会进步/摄影师回应小米撞图特斯拉/特斯拉首家餐厅开业](https://www.ifanr.com/1631600?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - 来源: 爱范儿
+  - 发布时间: Tue, 22 Jul 2025 01:47:31 +0000
+
+- [Unraveling the complexities of diet induced obesity and glucolipid dysfunction in metabolic syndrome](https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-025-01837-y)
+  - 来源: Diabetology & Metabolic Syndrome
+  - 发布时间: Tue, 22 Jul 2025 00:00:00 GMT
+
+- [Comparison of treatment patterns, efficacy and safety between generic and branded atorvastatin users in China: a multicenter, retrospective propensity score-matched cohort study](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-025-02673-9)
+  - 来源: Lipids in Health and Disease
+  - 发布时间: Tue, 22 Jul 2025 00:00:00 GMT
+
+- [The association of dietary fat intake before and during pregnancy with the risk of gestational diabetes mellitus and impaired glucose intolerance: a systematic review and dose–response meta-analysis on observational investigations](https://nutritionj.biomedcentral.com/articles/10.1186/s12937-025-01186-6)
+  - 来源: Nutrition Journal
+  - 发布时间: Tue, 22 Jul 2025 00:00:00 GMT
+
+- [ProVeg International defines nutritional gaps and benefits in plant-based fish alternatives](https://www.nutritioninsight.com/news/proveg-international-plant-based-fish-nutritional-quality.html)
+  - 来源: Nutrition Insight
+  - 发布时间: Tue, 22 Jul 2025 00:00:00 +0000
+
+- [Molecules in blood and urine could reveal how much ultra-processed food you eat](https://www.sciencedaily.com/releases/2025/05/250520161850.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Tue, 20 May 2025 16:18:50 EDT
+
+- [Eating to Downregulate a Gene for Metastatic Cancer](https://nutritionfacts.org/blog/eating-to-downregulate-a-gene-for-metastatic-cancer/)
+  - 来源: NutritionFacts.org
+  - 发布时间: Tue, 15 Jul 2025 12:00:12 +0000
+
+- [Sweet but risky: Common sweeteners may be accelerating puberty in kids](https://www.sciencedaily.com/releases/2025/07/250714052231.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Tue, 15 Jul 2025 02:16:28 EDT
+
+- [DMC Biotechnologies unveils fermented D-chiro-inositol for hormonal and metabolic health](https://www.nutritioninsight.com/news/dmc-biotechnologies-fermented-d-chiro-inositol-womens-health-metabolic-health.html)
+  - 来源: Nutrition Insight
+  - 发布时间: Tue, 15 Jul 2025 00:00:00 +0000
+
+- [Giovana Martucelli](https://www.gutmicrobiotaforhealth.com/giovana-martucelli/)
+  - 来源: Gut Microbiota for Health
+  - 发布时间: Tue, 10 Jun 2025 15:07:56 +0000
+
+- [Dietary Components That May Cause Cancer to Metastasize](https://nutritionfacts.org/blog/dietary-components-that-may-cause-cancer-to-metastasize/)
+  - 来源: NutritionFacts.org
+  - 发布时间: Tue, 08 Jul 2025 12:00:50 +0000
+
+- [Carb restriction offers relief from calorie counting](https://www.sciencedaily.com/releases/2025/04/250408121755.htm)
+  - 来源: Obesity News
+  - 发布时间: Tue, 08 Apr 2025 12:17:55 EDT
+
+- [Parents' metabolic traits can affect the child's health over time](https://www.sciencedaily.com/releases/2025/04/250408121706.htm)
+  - 来源: Obesity News
+  - 发布时间: Tue, 08 Apr 2025 12:17:06 EDT
+
+- [离谱！DeepSeek-R1-0528 仅”小版本“升级，居然都这么猛！](https://www.iplaysoft.com/p/deepseek-r1-0528)
+  - 来源: 异次元软件世界
+  - 发布时间: Thu, 29 May 2025 12:18:55 +0000
+
+- [HelloGitHub 第 90 期](https://hellogithub.com/periodical/volume/90)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Sep 2023 08:12:04 +0800
+
+- [HelloGitHub 第 18 期](https://hellogithub.com/periodical/volume/18)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Sep 2017 08:15:00 +0800
+
+- [HelloGitHub 第 67 期](https://hellogithub.com/periodical/volume/67)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Oct 2021 08:15:40 +0800
+
+- [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Nov 2024 08:15:37 +0800
+
+- [HelloGitHub 第 44 期](https://hellogithub.com/periodical/volume/44)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Nov 2019 08:15:00 +0800
+
+- [HelloGitHub 第 50 期](https://hellogithub.com/periodical/volume/50)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 May 2020 08:15:00 +0800
+
+- [HelloGitHub 第 96 期](https://hellogithub.com/periodical/volume/96)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Mar 2024 08:09:14 +0800
+
+- [HelloGitHub 第 36 期](https://hellogithub.com/periodical/volume/36)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Mar 2019 08:15:00 +0800
+
+- [HelloGitHub 第 27 期](https://hellogithub.com/periodical/volume/27)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Jun 2018 08:15:00 +0800
+
+- [HelloGitHub 第 76 期](https://hellogithub.com/periodical/volume/76)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Jul 2022 08:10:14 +0800
+
+- [HelloGitHub 第 58 期](https://hellogithub.com/periodical/volume/58)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Jan 2021 08:15:00 +0800
+
+- [HelloGitHub 第 35 期](https://hellogithub.com/periodical/volume/35)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Feb 2019 08:15:00 +0800
+
+- [HelloGitHub 第 93 期](https://hellogithub.com/periodical/volume/93)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Dec 2023 08:05:01 +0800
+
+- [HelloGitHub 第 73 期](https://hellogithub.com/periodical/volume/73)
+  - 来源: HelloGitHub
+  - 发布时间: Thu, 28 Apr 2022 08:15:00 +0800
+
+- [Telegram 上的偷拍群组](https://www.solidot.org/story?sid=81882)
   - 来源: Solidot
-  - 发布时间: Thu, 24 Jul 2025 18:18:34 +0800
+  - 发布时间: Thu, 24 Jul 2025 23:55:46 +0800
 
-- [ChatGPT 用户每天发送 25 亿提示词](https://www.solidot.org/story?sid=81870)
-  - 来源: Solidot
-  - 发布时间: Wed, 23 Jul 2025 23:24:55 +0800
+- [This bedtime snack swap could rewire your gut and help prevent diabetes](https://www.sciencedaily.com/releases/2025/07/250724040505.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Thu, 24 Jul 2025 23:20:00 EDT
 
-- [36氪携手WAIC2025打造「氪话未来直播间」，聊透AI的未来信号](https://36kr.com/p/3393727660296580?f=rss)
+- [8.98 万元的 B01，零跑推了一辆「半价 Model3」！](http://www.geekpark.net/news/351886)
+  - 来源: 极客公园
+  - 发布时间: Thu, 24 Jul 2025 22:39:34 +0800
+
+- [OliverWyman：2025年政府人工智能行动路线](http://www.199it.com/archives/1774385.html)
+  - 来源: 199IT
+  - 发布时间: Thu, 24 Jul 2025 21:30:04 +0000
+
+- [沙特媒体报道：速卖通AliExpress跃居沙特第二大电商平台](https://www.leiphone.com/category/industrynews/EQUJtEJAmJR6O4Bq.html)
+  - 来源: 雷峰网
+  - 发布时间: Thu, 24 Jul 2025 16:37:00 +0800
+
+- [国产主机游戏新作：《明末：渊虚之羽》游玩体验](https://sspai.com/post/101276)
+  - 来源: 少数派
+  - 发布时间: Thu, 24 Jul 2025 15:50:06 +0800
+
+- [奥维云网：2025年上半年中国彩电销量1375万台，同比增长1.8%](http://www.199it.com/archives/1775402.html)
+  - 来源: 199IT
+  - 发布时间: Thu, 24 Jul 2025 13:05:28 +0000
+
+- [特斯拉：2025年Autopilot系统每行驶669万英里发生1次事故](http://www.199it.com/archives/1775400.html)
+  - 来源: 199IT
+  - 发布时间: Thu, 24 Jul 2025 13:05:20 +0000
+
+- [三星电子：2025年Galaxy Z Fold7/Flip7韩国预售量104万台，同比增长14%](http://www.199it.com/archives/1775397.html)
+  - 来源: 199IT
+  - 发布时间: Thu, 24 Jul 2025 13:05:09 +0000
+
+- [角川集团：2024-2025财年FromSoftware营收234.97亿日元 同比大增51.5%](http://www.199it.com/archives/1775387.html)
+  - 来源: 199IT
+  - 发布时间: Thu, 24 Jul 2025 13:03:31 +0000
+
+- [TCL电子：2025年上半年全球TV出货量1346万台，同比增长7.6%](http://www.199it.com/archives/1775385.html)
+  - 来源: 199IT
+  - 发布时间: Thu, 24 Jul 2025 13:03:16 +0000
+
+- [安卓有没有离线可用的文本合并去重的软件](https://meta.appinn.net/t/topic/73615)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 12:45:47 +0000
+
+- [微软称中国黑客利用SharePoint漏洞发起攻击行动](https://cn.nytimes.com/technology/20250724/chinese-hackers-microsoft-sharepoint/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Thu, 24 Jul 2025 11:22:13 +0800
+
+- [大伙來瞧瞧看，有人看過這個字嗎?](https://meta.appinn.net/t/topic/73612)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 10:30:54 +0000
+
+- [静态IP设置工具[Windows]](https://meta.appinn.net/t/topic/73611)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 10:20:04 +0000
+
+- [腾讯云TDSQL蝉联中国金融与银行分布式数据库市场“双料冠军”](https://www.leiphone.com/category/industrynews/A3aXMDaXGLwsE5PG.html)
+  - 来源: 雷峰网
+  - 发布时间: Thu, 24 Jul 2025 10:14:00 +0800
+
+- [分享一下英文版《三体》的一些字词句的翻译](https://meta.appinn.net/t/topic/73610)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 09:58:35 +0000
+
+- [美国退出联合国教科文组织，助力中国提升软实力](https://cn.nytimes.com/china/20250724/unesco-china-us/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Thu, 24 Jul 2025 09:47:33 +0800
+
+- [如何关闭浏览器后继续浏览小众论坛？](https://meta.appinn.net/t/topic/73609)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 09:47:04 +0000
+
+- [如何防止重复收藏小众软件论坛的网址？](https://meta.appinn.net/t/topic/73608)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 09:31:40 +0000
+
+- [派早报：Apple 推出 AppleCare One、大疆将发布扫地机器人等](https://sspai.com/post/101291)
+  - 来源: 少数派
+  - 发布时间: Thu, 24 Jul 2025 08:16:51 +0800
+
+- [微信新功能：创作者可向点赞用户表达感谢；​全球第一网红野兽先生将迎来中国直播首秀；特斯拉营收利润双双下降  ｜极客早知道](http://www.geekpark.net/news/351835)
+  - 来源: 极客公园
+  - 发布时间: Thu, 24 Jul 2025 08:13:56 +0800
+
+- [网站自荐：极简表格，用于筛选硬盘、显卡和充电宝](https://meta.appinn.net/t/topic/73605)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 07:51:00 +0000
+
+- [Web Highlights - 本地网页与 PDF 标记工具[Chrome/Firefox]](https://meta.appinn.net/t/topic/73604)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 07:48:01 +0000
+
+- [讨论：开发个『半自动』密码填充app](https://meta.appinn.net/t/topic/73600)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 07:03:35 +0000
+
+- [2025年东南亚消费者购买电动车主要因素预测（附原数据表） ​​​](http://www.199it.com/archives/1775342.html)
+  - 来源: 199IT
+  - 发布时间: Thu, 24 Jul 2025 06:56:23 +0000
+
+- [Github仓库文件安卓手机下载不了是啥问题](https://meta.appinn.net/t/topic/73598)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 06:43:01 +0000
+
+- [中欧峰会难解分歧，贸易、稀土和乌克兰问题成博弈焦点](https://cn.nytimes.com/business/20250724/china-eu-trade-ukraine/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Thu, 24 Jul 2025 05:00:15 +0800
+
+- [分享一个自己做的安卓快捷指令，可以用AI语音控制](https://meta.appinn.net/t/topic/73590)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 03:58:51 +0000
+
+- [推荐一个好用的内网穿透代理工具](https://meta.appinn.net/t/topic/73587)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 03:53:39 +0000
+
+- [【开发者自荐】通知收发应用的桌面端](https://meta.appinn.net/t/topic/73583)
+  - 来源: 小众软件论坛
+  - 发布时间: Thu, 24 Jul 2025 03:29:05 +0000
+
+- [从边境小城满洲里看中国如何支撑俄罗斯经济](https://cn.nytimes.com/business/20250724/manzhouli-china-russia-economy/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Thu, 24 Jul 2025 02:59:13 +0800
+
+- [早报｜马斯克：廉价版特斯拉就是 Model Y 简配/大疆扫地机器人官宣/京东回应旗下外卖店入驻其他平台](https://www.ifanr.com/1631803?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - 来源: 爱范儿
+  - 发布时间: Thu, 24 Jul 2025 01:32:10 +0000
+
+- [99 trials later, fasting ties traditional diets in weight-loss showdown](https://www.sciencedaily.com/releases/2025/06/250619090901.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Thu, 19 Jun 2025 09:09:01 EDT
+
+- [99 trials later, fasting ties traditional diets in weight-loss showdown](https://www.sciencedaily.com/releases/2025/06/250619090901.htm)
+  - 来源: Obesity News
+  - 发布时间: Thu, 19 Jun 2025 09:09:01 EDT
+
+- [A ROS-mediated oxidation-O-GlcNAcylation cascade governs ferroptosis.](https://pubmed.ncbi.nlm.nih.gov/40681752)
+  - 来源: PubMed Trending
+  - 发布时间: Thu, 17 Jul 2025 16:00:00 GMT
+
+- [那些率先实现了 AI 落地的公司，做对了什么？](http://www.geekpark.net/news/351617)
+  - 来源: 极客公园
+  - 发布时间: Thu, 17 Jul 2025 13:54:52 +0800
+
+- [美团王莆中：外卖「卷」没意义，全是泡沫；特斯拉中国特供加长 Model Y 曝光；钟薛高被破产立案审查，资不抵债｜极客早知道](http://www.geekpark.net/news/351602)
+  - 来源: 极客公园
+  - 发布时间: Thu, 17 Jul 2025 09:44:00 +0800
+
+- [黄仁勋：财务自由 30 年后，我没有梦想](http://www.geekpark.net/news/351603)
+  - 来源: 极客公园
+  - 发布时间: Thu, 17 Jul 2025 08:33:28 +0800
+
+- [Multi-omics analyses the effect of Bifidobacterium longum subsp. longum BL21 supplementation on overweight and obese subjects: a randomized, double-blind, placebo-controlled study](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-025-00969-2)
+  - 来源: Nutrition & Metabolism
+  - 发布时间: Thu, 17 Jul 2025 00:00:00 GMT
+
+- [Omega-3 supplementation and cardiometabolic risk factors in obese/overweight children and adolescents: a GRADE assessed systematic review and meta-analysis](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-025-00952-x)
+  - 来源: Nutrition & Metabolism
+  - 发布时间: Thu, 17 Jul 2025 00:00:00 GMT
+
+- [Krill oil helps to preserve muscle mass and strength during weight loss](https://www.nutritioninsight.com/news/aker-biomarine-krill-oil-muscle-health-weight-loss.html)
+  - 来源: Nutrition Insight
+  - 发布时间: Thu, 17 Jul 2025 00:00:00 +0000
+
+- [Evening pistachio snacking may improve prediabetic adults’ gut microbiome](https://www.nutritioninsight.com/news/pistachio-prediabetes-gut-bacteria-microbiome-glucose-diet.html)
+  - 来源: Nutrition Insight
+  - 发布时间: Thu, 17 Jul 2025 00:00:00 +0000
+
+- [苹果 macOS Tahoe 26 测试版 ISO 镜像下载 - 最新 Mac 官方系统完整安装包 (网盘地址)](https://www.iplaysoft.com/macos-tahoe.html)
+  - 来源: 异次元软件世界
+  - 发布时间: Thu, 12 Jun 2025 13:43:50 +0000
+
+- [What About Elderberry, Echinacea, and Cranberries for Colds and the Flu?](https://nutritionfacts.org/blog/what-about-elderberry-echinacea-and-cranberries-for-colds-and-the-flu/)
+  - 来源: NutritionFacts.org
+  - 发布时间: Thu, 12 Jun 2025 12:00:27 +0000
+
+- [Eating to Help Control Cancer Metastasis](https://nutritionfacts.org/blog/eating-to-help-control-cancer-metastasis/)
+  - 来源: NutritionFacts.org
+  - 发布时间: Thu, 10 Jul 2025 12:00:14 +0000
+
+- [HelloGitHub 第 31 期](https://hellogithub.com/periodical/volume/31)
+  - 来源: HelloGitHub
+  - 发布时间: Sun, 28 Oct 2018 08:15:00 +0800
+
+- [HelloGitHub 第 68 期](https://hellogithub.com/periodical/volume/68)
+  - 来源: HelloGitHub
+  - 发布时间: Sun, 28 Nov 2021 08:15:00 +0800
+
+- [HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60)
+  - 来源: HelloGitHub
+  - 发布时间: Sun, 28 Mar 2021 08:15:00 +0800
+
+- [HelloGitHub 第 51 期](https://hellogithub.com/periodical/volume/51)
+  - 来源: HelloGitHub
+  - 发布时间: Sun, 28 Jun 2020 08:15:00 +0800
+
+- [HelloGitHub 第 40 期](https://hellogithub.com/periodical/volume/40)
+  - 来源: HelloGitHub
+  - 发布时间: Sun, 28 Jul 2019 08:15:00 +0800
+
+- [HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59)
+  - 来源: HelloGitHub
+  - 发布时间: Sun, 28 Feb 2021 08:15:00 +0800
+
+- [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97)
+  - 来源: HelloGitHub
+  - 发布时间: Sun, 28 Apr 2024 08:09:55 +0800
+
+- [HelloGitHub 第 37 期](https://hellogithub.com/periodical/volume/37)
+  - 来源: HelloGitHub
+  - 发布时间: Sun, 28 Apr 2019 08:15:00 +0800
+
+- [Polygenic prediction of body mass index and obesity through the life course and across ancestries.](https://pubmed.ncbi.nlm.nih.gov/40691366)
+  - 来源: PubMed Trending
+  - 发布时间: Sun, 20 Jul 2025 16:00:00 GMT
+
+- [Polygenic prediction of body mass index and obesity through the life course and across ancestries.](https://pubmed.ncbi.nlm.nih.gov/40691366)
+  - 来源: PubMed Trending
+  - 发布时间: Sun, 20 Jul 2025 16:00:00 GMT
+
+- [Single-cell and spatial transcriptomics reveal mechanisms of radioresistance and immune escape in recurrent nasopharyngeal carcinoma.](https://pubmed.ncbi.nlm.nih.gov/40691404)
+  - 来源: PubMed Trending
+  - 发布时间: Sun, 20 Jul 2025 16:00:00 GMT
+
+- [Manus 以技术回应「撤离中国市场」；李想：理想现金储备 1107 亿；下架大量成人游戏，Steam：支付组织要求](http://www.geekpark.net/news/351696)
+  - 来源: 极客公园
+  - 发布时间: Sun, 20 Jul 2025 08:20:36 +0800
+
+- [Path to personalized probiotics: Predicting nutrients that support bacterial growth](https://www.nutritioninsight.com/news/probiotics-bifidobacterium-gut-health-infant-health.html)
+  - 来源: Nutrition Insight
+  - 发布时间: Sun, 20 Jul 2025 00:00:00 +0000
+
+- [京东 Plus 会员年卡￥49 元开通 / 优惠续费方法 (省钱简单教程)](https://www.iplaysoft.com/p/jd-plus)
+  - 来源: 异次元软件世界
+  - 发布时间: Sun, 18 May 2025 19:42:02 +0000
+
+- [Tirzepatide: The weight-loss drug that also shrinks breast tumors in mice](https://www.sciencedaily.com/releases/2025/07/250713031436.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Sun, 13 Jul 2025 05:22:52 EDT
+
+- [HelloGitHub 第 42 期](https://hellogithub.com/periodical/volume/42)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 Sep 2019 08:15:00 +0800
+
+- [HelloGitHub 第 56 期](https://hellogithub.com/periodical/volume/56)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 Nov 2020 08:15:00 +0800
+
+- [HelloGitHub 第 74 期](https://hellogithub.com/periodical/volume/74)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 May 2022 08:15:00 +0800
+
+- [HelloGitHub 第 48 期](https://hellogithub.com/periodical/volume/48)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 Mar 2020 08:15:00 +0800
+
+- [HelloGitHub 第 82 期](https://hellogithub.com/periodical/volume/82)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 Jan 2023 08:13:12 +0800
+
+- [HelloGitHub 第 10 期](https://hellogithub.com/periodical/volume/10)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 Jan 2017 08:15:00 +0800
+
+- [HelloGitHub 第 45 期](https://hellogithub.com/periodical/volume/45)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 Dec 2019 08:15:00 +0800
+
+- [HelloGitHub 第 65 期](https://hellogithub.com/periodical/volume/65)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 Aug 2021 08:15:00 +0800
+
+- [HelloGitHub 第 25 期](https://hellogithub.com/periodical/volume/25)
+  - 来源: HelloGitHub
+  - 发布时间: Sat, 28 Apr 2018 08:15:00 +0800
+
+- [Myth-busting study shows controversial seed oils reduce inflammation](https://www.sciencedaily.com/releases/2025/06/250621103446.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Sat, 21 Jun 2025 10:34:46 EDT
+
+- [PH今日热榜 | 2025-07-19](https://decohack.com/producthunt-daily-2025-07-19/)
+  - 来源: Decohack
+  - 发布时间: Sat, 19 Jul 2025 07:17:59 +0000
+
+- [PH今日热榜 | 2025-07-12](https://decohack.com/producthunt-daily-2025-07-12/)
+  - 来源: Decohack
+  - 发布时间: Sat, 12 Jul 2025 07:18:11 +0000
+
+- [HelloGitHub 第 86 期](https://hellogithub.com/periodical/volume/86)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 29 May 2023 08:15:47 +0800
+
+- [HelloGitHub 第 77 期](https://hellogithub.com/periodical/volume/77)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 29 Aug 2022 08:15:08 +0800
+
+- [HelloGitHub 第 54 期](https://hellogithub.com/periodical/volume/54)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Sep 2020 08:15:00 +0800
+
+- [HelloGitHub 第 103 期](https://hellogithub.com/periodical/volume/103)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Oct 2024 08:04:36 +0800
+
+- [HelloGitHub 第 43 期](https://hellogithub.com/periodical/volume/43)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Oct 2019 08:15:00 +0800
+
+- [HelloGitHub 第 80 期](https://hellogithub.com/periodical/volume/80)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Nov 2022 07:57:11 +0800
+
+- [HelloGitHub 第 26 期](https://hellogithub.com/periodical/volume/26)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 May 2018 08:15:00 +0800
+
+- [HelloGitHub 第 72 期](https://hellogithub.com/periodical/volume/72)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Mar 2022 08:15:00 +0800
+
+- [HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Jun 2021 08:15:00 +0800
+
+- [HelloGitHub 第 34 期](https://hellogithub.com/periodical/volume/34)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Jan 2019 08:15:00 +0800
+
+- [HelloGitHub 第 71 期](https://hellogithub.com/periodical/volume/71)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Feb 2022 08:15:00 +0800
+
+- [HelloGitHub 第 57 期](https://hellogithub.com/periodical/volume/57)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Dec 2020 08:15:00 +0800
+
+- [HelloGitHub 第 89 期](https://hellogithub.com/periodical/volume/89)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Aug 2023 08:07:42 +0800
+
+- [HelloGitHub 第 17 期](https://hellogithub.com/periodical/volume/17)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Aug 2017 08:15:00 +0800
+
+- [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 28 Apr 2025 08:00:16 +0800
+
+- [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106)
+  - 来源: HelloGitHub
+  - 发布时间: Mon, 27 Jan 2025 08:07:40 +0800
+
+- [PH今日热榜 | 2025-07-21](https://decohack.com/producthunt-daily-2025-07-21/)
+  - 来源: Decohack
+  - 发布时间: Mon, 21 Jul 2025 07:27:45 +0000
+
+- [Effects of concurrent continuous aerobic and short rest resistance exercise training on metabolic biomarkers in type 2 diabetes patients: a systematic review and meta-analysis](https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-025-01838-x)
+  - 来源: Diabetology & Metabolic Syndrome
+  - 发布时间: Mon, 21 Jul 2025 00:00:00 GMT
+
+- [谷歌 170 亿收编 Windsurf，硅谷 「AI 挖人」白热化，99% 的钱流向 1% 的人](http://www.geekpark.net/news/351511)
+  - 来源: 极客公园
+  - 发布时间: Mon, 14 Jul 2025 16:31:32 +0800
+
+- [Integrated single-cell and spatial transcriptomics uncover distinct cellular subtypes involved in neural invasion in pancreatic cancer.](https://pubmed.ncbi.nlm.nih.gov/40680743)
+  - 来源: PubMed Trending
+  - 发布时间: Mon, 14 Jul 2025 16:00:00 GMT
+
+- [19 年来首次，今年没有新款苹果笔记本；传罗马仕老板「潜逃」马来西亚；联通 eSIM 手机业务上线，为 iPhone 17 准备｜极客早知道](http://www.geekpark.net/news/351466)
+  - 来源: 极客公园
+  - 发布时间: Mon, 14 Jul 2025 08:32:51 +0800
+
+- [PH今日热榜 | 2025-07-14](https://decohack.com/producthunt-daily-2025-07-14/)
+  - 来源: Decohack
+  - 发布时间: Mon, 14 Jul 2025 07:23:31 +0000
+
+- [Brightseed’s AI phytonutrient mapper uncovers 530 bioactive compounds in almonds](https://www.nutritioninsight.com/news/brightseed-ai-forager-phytonutrients-food-science-almonds.html)
+  - 来源: Nutrition Insight
+  - 发布时间: Mon, 14 Jul 2025 00:00:00 +0000
+
+- [How to trick the body's metabolism](https://www.sciencedaily.com/releases/2025/03/250303141253.htm)
+  - 来源: Obesity News
+  - 发布时间: Mon, 03 Mar 2025 14:12:53 EST
+
+- [Hidden fat predicts Alzheimer's 20 years ahead of symptoms](https://www.sciencedaily.com/releases/2024/12/241202124520.htm)
+  - 来源: Obesity News
+  - 发布时间: Mon, 02 Dec 2024 12:45:20 EST
+
+- [HelloGitHub 第 30 期](https://hellogithub.com/periodical/volume/30)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Sep 2018 08:15:00 +0800
+
+- [HelloGitHub 第 79 期](https://hellogithub.com/periodical/volume/79)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Oct 2022 08:09:33 +0800
+
+- [HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 May 2021 08:15:00 +0800
+
+- [HelloGitHub 第 108 期](https://hellogithub.com/periodical/volume/108)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Mar 2025 07:52:53 +0800
+
+- [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Jun 2024 08:11:44 +0800
+
+- [HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Jun 2019 08:15:00 +0800
+
+- [HelloGitHub 第 88 期](https://hellogithub.com/periodical/volume/88)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Jul 2023 08:09:27 +0800
+
+- [HelloGitHub 第 16 期](https://hellogithub.com/periodical/volume/16)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Jul 2017 08:15:00 +0800
+
+- [HelloGitHub 第 70 期](https://hellogithub.com/periodical/volume/70)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Jan 2022 08:15:00 +0800
+
+- [HelloGitHub 第 107 期](https://hellogithub.com/periodical/volume/107)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Feb 2025 08:00:24 +0800
+
+- [HelloGitHub 第 47 期](https://hellogithub.com/periodical/volume/47)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Feb 2020 08:15:00 +0800
+
+- [HelloGitHub 第 33 期](https://hellogithub.com/periodical/volume/33)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Dec 2018 08:15:00 +0800
+
+- [HelloGitHub 第 53 期](https://hellogithub.com/periodical/volume/53)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Aug 2020 08:15:00 +0800
+
+- [HelloGitHub 第 85 期](https://hellogithub.com/periodical/volume/85)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 28 Apr 2023 08:20:32 +0800
+
+- [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 27 Sep 2024 07:55:17 +0800
+
+- [HelloGitHub 第 91 期](https://hellogithub.com/periodical/volume/91)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 27 Oct 2023 08:05:53 +0800
+
+- [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 27 Jun 2025 07:56:20 +0800
+
+- [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 27 Dec 2024 08:03:55 +0800
+
+- [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 26 Jul 2024 08:04:22 +0800
+
+- [HelloGitHub 第 94 期](https://hellogithub.com/periodical/volume/94)
+  - 来源: HelloGitHub
+  - 发布时间: Fri, 26 Jan 2024 08:14:33 +0800
+
+- [当3000亿资金涌向18A新股](https://www.tmtpost.com/7637850.html)
+  - 来源: 钛媒体
+  - 发布时间: Fri, 25 Jul 2025 17:12:24 +0800
+
+- [特斯拉做得好极了，除了没卖好车](https://www.tmtpost.com/7637610.html)
+  - 来源: 钛媒体
+  - 发布时间: Fri, 25 Jul 2025 15:54:41 +0800
+
+- [客单价从8元暴涨至35元，销量却暴跌70%：年轻人为何抛弃‘炸串刺客’？](https://www.tmtpost.com/7637677.html)
+  - 来源: 钛媒体
+  - 发布时间: Fri, 25 Jul 2025 15:32:51 +0800
+
+- [7月25日A股分析：三大股指集体收跌，两市合计成交17873.37亿元，资金流出最多的行业板块为工程建设、小金属](https://www.tmtpost.com/7638095.html)
+  - 来源: 钛媒体
+  - 发布时间: Fri, 25 Jul 2025 15:10:14 +0800
+
+- [不卷规模卷产品，喜茶能靠差异化突出重围吗？](https://www.tmtpost.com/7637968.html)
+  - 来源: 钛媒体
+  - 发布时间: Fri, 25 Jul 2025 15:05:13 +0800
+
+- [美团王兴：3年狂投30家，中国具身智能最大金主](https://www.tmtpost.com/7637856.html)
+  - 来源: 钛媒体
+  - 发布时间: Fri, 25 Jul 2025 13:53:06 +0800
+
+- [美国退出《巴黎协定》，中欧承诺合作减缓全球气候变暖](https://cn.nytimes.com/climate/20250725/china-eu-joint-climate-statement/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Fri, 25 Jul 2025 12:39:36 +0800
+
+- [马斯克开饭店，麦当劳哭了](https://www.tmtpost.com/7637821.html)
+  - 来源: 钛媒体
+  - 发布时间: Fri, 25 Jul 2025 12:15:44 +0800
+
+- [泰国和柬埔寨为何交火？这里是一份快速指南](https://cn.nytimes.com/asia-pacific/20250725/thailand-cambodia-border-fight/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Fri, 25 Jul 2025 10:45:40 +0800
+
+- [中国在太空通信领域为何远远落后于马斯克的星链计划？](https://cn.nytimes.com/technology/20250725/starlink-spacex-musk-china-satellites/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Fri, 25 Jul 2025 09:41:52 +0800
+
+- [消息称小鹏机器人新成立“智能拟态部”，主攻机器人多模态](https://www.ithome.com/0/870/742.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 09:12:28 GMT
+
+- [传 GPT-5 将在 8 月初发布；马斯克转发懂车帝辅助驾驶测试；腾讯股价创四年来新高｜极客早知道](http://www.geekpark.net/news/351887)
+  - 来源: 极客公园
+  - 发布时间: Fri, 25 Jul 2025 09:00:35 +0800
+
+- [国际首套，哈工大成功研制风-雨-热-雪耦合模拟系统](https://www.ithome.com/0/870/737.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 08:52:00 GMT
+
+- [Steam 国区 136 元起经典 FPS 最新作《杀戮空间 3》发售，IGN 7 分“游戏内容略显空洞”](https://www.ithome.com/0/870/733.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 08:37:32 GMT
+
+- [基于 DeepSeek 大模型，河南引入“AI 智审”系统实现货物口岸通关申报“秒级”筛查](https://www.ithome.com/0/870/730.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 08:16:02 GMT
+
+- [广汽丰田副总经理彭宝林谈懂车帝测试：再好的智驾都是辅助驾驶](https://www.ithome.com/0/870/727.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 08:10:18 GMT
+
+- [马斯克回应特斯拉销量下滑：公司未来不完全取决于电动车，年底前基于 Model Y 推亲民车型](https://www.ithome.com/0/870/726.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 08:03:53 GMT
+
+- [5999-8299 元七彩虹隐星 P15 游戏本新增“熊猫本”限定配色：可选 i5-13420H / 13620H 及 RTX5050/5060](https://www.ithome.com/0/870/724.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 08:01:07 GMT
+
+- [俄媒称失事安-24 客机“黑匣子”已找到](https://www.ithome.com/0/870/721.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 07:54:11 GMT
+
+- [CasaOS - 您的个人云？不，你的傻瓜式 Docker 安装器。自带应用市场，可一键安装 135 个开源项目](https://meta.appinn.net/t/topic/73634)
+  - 来源: 小众软件论坛
+  - 发布时间: Fri, 25 Jul 2025 07:46:46 +0000
+
+- [一汽奥迪 A5L 将于 8 月 7 日上市：先享礼遇价 25.68 万元起，高配搭载华为乾崑智驾](https://www.ithome.com/0/870/716.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 07:40:59 GMT
+
+- [玩《明末：渊虚之羽》时RTX 5090接口烧毁 资深编辑记录下完整过程](https://m.cnbeta.com.tw/view/1515352.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 07:35:24 GMT
+
+- [马斯克邀请特斯拉前 AI 主管 Andrej Karpathy 再度合作，称其为失散多年的兄弟](https://www.ithome.com/0/870/714.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 07:35:13 GMT
+
+- [​巴基斯坦一航司拟租赁中国商飞C919](https://m.cnbeta.com.tw/view/1515350.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 07:35:11 GMT
+
+- [中美合拍电影《猫和老鼠：星盘奇缘》提档 8 月 2 日上映](https://www.ithome.com/0/870/662.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 07:31:32 GMT
+
+- [以敦煌壁画为灵感，劳斯莱斯展示“中国壁画之艺”Bespoke 高定系列车型](https://www.ithome.com/0/870/711.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 07:27:11 GMT
+
+- [PH今日热榜 | 2025-07-25](https://decohack.com/producthunt-daily-2025-07-25/)
+  - 来源: Decohack
+  - 发布时间: Fri, 25 Jul 2025 07:23:08 +0000
+
+- [二季度中国智能手机市场出货量结束连续六个季度增长，同比下降4%](https://cn.technode.com/post/2025-07-25/idc-cn-cellphone-drop/)
+  - 来源: 动点科技
+  - 发布时间: Fri, 25 Jul 2025 07:14:41 +0000
+
+- [消息称上海 Robotaxi 智能网联汽车新牌照“发放在即”，业界人士回应称“概率很大”](https://www.ithome.com/0/870/708.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 07:12:24 GMT
+
+- [酷冷至尊 MF500 Mesh 机箱上市：铝合金边框 + 双 200mm 风扇，959 元起](https://www.ithome.com/0/870/705.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 07:08:14 GMT
+
+- [特斯拉副总裁陶琳回应懂车帝测试：不关注排名](https://m.cnbeta.com.tw/view/1515348.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 07:05:23 GMT
+
+- [老黄自曝皮衣口袋藏“秘密期权池”：随时准备奖励员工，团队亿万富翁数量世界第一](https://www.ithome.com/0/870/701.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 07:00:26 GMT
+
+- [AI 教父 Hinton 首次现身中国，近期再次预警“AI 觉醒临界点”已至](https://www.ithome.com/0/870/700.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 06:53:12 GMT
+
+- [意法半导体计划以 9.5 亿美元收购恩智浦 MEMS 微机电传感器业务](https://www.ithome.com/0/870/696.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 06:45:03 GMT
+
+- [特斯拉副总裁陶琳：我们不关注排名，对安全的要求没有上限](https://www.ithome.com/0/870/695.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 06:43:37 GMT
+
+- [意法半导体 9.5 亿美元收购恩智浦 MEMS 传感器业务](https://www.ithome.com/0/870/694.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 06:42:02 GMT
+
+- [鸿蒙智行：已看到某平台所谓“测试”，不予置评](https://www.ithome.com/0/870/693.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 06:36:03 GMT
+
+- [高通预览 Wi-Fi 8 未来发展 1.0 草案规范即将发布](https://m.cnbeta.com.tw/view/1515342.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 06:35:08 GMT
+
+- [GitHub 官方版 AI IDE 公测：用自然语言写 App，全栈应用 1 分钟生成](https://www.ithome.com/0/870/675.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 05:46:06 GMT
+
+- [智谱 GLM-4.5 系列 AI 模型踪迹曝光，预估采用新混合专家架构](https://www.ithome.com/0/870/674.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 05:41:50 GMT
+
+- [蚂蚁集团人工智能企业服务总部、西部研发中心落地成都](https://www.ithome.com/0/870/673.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 05:41:15 GMT
+
+- [讯飞星火 X1 升级版模型宣布上线：整体效果对标 OpenAI o3 等国内外一流大模型](https://www.ithome.com/0/870/672.htm)
+  - 来源: IT之家
+  - 发布时间: Fri, 25 Jul 2025 05:38:15 GMT
+
+- [德国电子产品零售商Ceconomy证实京东潜在收购兴趣，正深入洽谈](https://cn.technode.com/post/2025-07-25/jd-ceconomy/)
+  - 来源: 动点科技
+  - 发布时间: Fri, 25 Jul 2025 05:24:44 +0000
+
+- [男子水下失联5天奇迹生还 在水下洞穴百米处的气室找到](https://m.cnbeta.com.tw/view/1515338.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 05:06:02 GMT
+
+- [小马智行正式开启北京、广州、深圳7×24无人驾驶测试](https://m.cnbeta.com.tw/view/1515336.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 05:05:52 GMT
+
+- [中国AI芯片维修需求暴增 有商家月修500块英伟达高端GPU](https://m.cnbeta.com.tw/view/1515334.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 05:05:39 GMT
+
+- [英特尔CEO陈立武发全员信：裁员近两万人，暂停欧洲扩张，重塑三大核心业务](https://m.cnbeta.com.tw/view/1515320.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 04:35:37 GMT
+
+- [索尼与本田在美国开启电动车预售 将在明年年中开始交付](https://m.cnbeta.com.tw/view/1515318.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 04:35:22 GMT
+
+- [大举投资AI究竟是不是“智商税”？大摩：三大领域已看到实际回报](https://m.cnbeta.com.tw/view/1515316.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 04:35:11 GMT
+
+- [林语堂“明快”中文打字机如何重现世间](https://cn.nytimes.com/usa/20250725/mingkwai-typewriter-china/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Fri, 25 Jul 2025 04:29:48 +0800
+
+- [N8n 工作流程集合: 2,000 多个工作流程](https://meta.appinn.net/t/topic/73627)
+  - 来源: 小众软件论坛
+  - 发布时间: Fri, 25 Jul 2025 03:48:00 +0000
+
+- [苹果Apple Store前海壹方城店官宣8月16日开业 深圳第三家](https://m.cnbeta.com.tw/view/1515312.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 03:05:37 GMT
+
+- [同款纸巾连续三年减重 日入近3亿的山姆却在偷偷“减料”](https://m.cnbeta.com.tw/view/1515310.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 03:05:21 GMT
+
+- [京东拟出资约 22 亿欧元洽购德国电商 Ceconomy](https://cn.technode.com/post/2025-07-25/jd-com-is-said-to-near-decision-on-bid-for-germany-s-ceconomy/)
+  - 来源: 动点科技
+  - 发布时间: Fri, 25 Jul 2025 02:36:31 +0000
+
+- [山姆供应链人士揭秘产品减料：价格压得过低 被迫降品质](https://m.cnbeta.com.tw/view/1515300.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 02:35:12 GMT
+
+- [美国允许英伟达向中国出售芯片是一个严重错误](https://cn.nytimes.com/opinion/20250725/ai-chips-nvidia-china/?utm_source=RSS)
+  - 来源: 纽约时报中文网
+  - 发布时间: Fri, 25 Jul 2025 02:28:22 +0800
+
+- [饿了么前CEO被抓细节曝光 4000万元贿款物藏多个出租屋](https://m.cnbeta.com.tw/view/1515292.htm)
+  - 来源: cnBeta全文版
+  - 发布时间: Fri, 25 Jul 2025 01:35:10 GMT
+
+- [美团正式推骑手养老保险，不限时长；中国「豪车税」标准降至 90 万；OpenAI 推出 Agent 功能](http://www.geekpark.net/news/351633)
+  - 来源: 极客公园
+  - 发布时间: Fri, 18 Jul 2025 08:17:30 +0800
+
+- [CRISPR uncovers gene that supercharges vitamin D—and stops tumors in their tracks](https://www.sciencedaily.com/releases/2025/07/250718031208.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Fri, 18 Jul 2025 05:41:04 EDT
+
+- [刚刚，OpenAI 发布了自己的 Agent模式，Manus Style](http://www.geekpark.net/news/351632)
+  - 来源: 极客公园
+  - 发布时间: Fri, 18 Jul 2025 04:21:34 +0800
+
+- [Scientists discover key gene impacts liver energy storage, affecting metabolic disease risk](https://www.sciencedaily.com/releases/2025/05/250516165134.htm)
+  - 来源: Nutrition Research News
+  - 发布时间: Fri, 16 May 2025 16:51:34 EDT
+
+- [Decoding fat tissue](https://www.sciencedaily.com/releases/2025/02/250207181958.htm)
+  - 来源: Obesity News
+  - 发布时间: Fri, 07 Feb 2025 18:19:58 EST
+
+- [脨脟脕麓脠芦脟貌麓贸露脧脥酶拢卢脗铆脣鹿驴脣碌脌脟赂](https://news.iresearch.cn/content/202507/530081.shtml)
+  - 来源: 艾瑞资讯
+  - 发布时间: 2025/7/25 10:25:14
+
+- [Meta脩脨路垄脡帽脝忙脥贸麓酶拢潞驴脡脫脙脢脰脢脝虏脵驴脴录脝脣茫禄煤](https://news.iresearch.cn/content/202507/530074.shtml)
+  - 来源: 艾瑞资讯
+  - 发布时间: 2025/7/25 10:02:48
+
+- [宇树科技发布第三款人形机器人UnitreeR1](https://36kr.com/newsflashes/3394160643950981?f=rss)
   - 来源: 36氪
-  - 发布时间: 2025-07-25 09:58:29  +0800
+  - 发布时间: 2025-07-25 17:18:45  +0800
 
-- [8点1氪｜辛巴自创卫生巾被指检出致癌物；内蒙古将提级调查6名学生溺亡；因亲人离世申请退票的消费者拿到大麦网全额退款，耗时9个月](https://36kr.com/p/3393597720562048?f=rss)
+- [美著名经济学家萨克斯：未来国际货币体系将不以美元为核心 人民币国际化将在变革中起重要作用](https://36kr.com/newsflashes/3394140918171780?f=rss)
   - 来源: 36氪
-  - 发布时间: 2025-07-25 07:48:23  +0800
+  - 发布时间: 2025-07-25 17:09:37  +0800
 
-- [氪星晚报 ｜雀巢考虑出售表现欠佳的维生素品牌；特斯拉计划2026年在美国启动建设第三座储能超级工厂；](https://36kr.com/p/3392785847306630?f=rss)
+- [*ST万方：因涉嫌信息披露违法违规，被证监会立案调查](https://36kr.com/newsflashes/3394149640669576?f=rss)
   - 来源: 36氪
-  - 发布时间: 2025-07-24 18:02:40  +0800
+  - 发布时间: 2025-07-25 17:07:33  +0800
 
-- [汇丰人寿保险公司注册资本增至26.76亿元](https://36kr.com/newsflashes/3393971913836676?f=rss)
+- [小马智行开启7×24小时自动驾驶测试](https://36kr.com/newsflashes/3394136011786628?f=rss)
   - 来源: 36氪
-  - 发布时间: 2025-07-25 14:06:46  +0800
+  - 发布时间: 2025-07-25 17:01:37  +0800
 
-- [日本央行：看到了今年潜在的加息环境](https://36kr.com/newsflashes/3393965190629762?f=rss)
+- [7月25日：“农产品批发价格200指数”比昨天上升0.04个点](https://news.foodmate.net/2025/07/722087.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 16:59:13
+
+- [山东印发食品经营许可审查细则](https://news.foodmate.net/2025/07/722086.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 16:57:55
+
+- [每日互动推出GAI Station个知·智能工作站](https://36kr.com/newsflashes/3394128035891335?f=rss)
   - 来源: 36氪
-  - 发布时间: 2025-07-25 13:59:55  +0800
+  - 发布时间: 2025-07-25 16:52:41  +0800
 
-- [汇丰人寿保险公司注册资本增至26.76亿元](https://36kr.com/newsflashes/3393962175416453?f=rss)
+- [瑞贝卡：公司及控股股东因涉嫌信息披露违法违规被证监会立案](https://36kr.com/newsflashes/3394134318762115?f=rss)
   - 来源: 36氪
-  - 发布时间: 2025-07-25 13:56:51  +0800
+  - 发布时间: 2025-07-25 16:51:58  +0800
 
-- [《通用人工智能创新应用实战系列培训》项目正式启动](https://36kr.com/newsflashes/3393949852649858?f=rss)
+- [协鑫集成：转让部分基金投资份额](https://36kr.com/newsflashes/3394128658811268?f=rss)
   - 来源: 36氪
-  - 发布时间: 2025-07-25 13:44:19  +0800
+  - 发布时间: 2025-07-25 16:46:13  +0800
 
-- [影视股持续拉升，上海电影午后涨停](https://36kr.com/newsflashes/3393923661580424?f=rss)
+- [证监会：支持驻证监会纪检监察组深化拓展证券发行审核领域腐败问题专项治理](https://36kr.com/newsflashes/3394118795676041?f=rss)
   - 来源: 36氪
-  - 发布时间: 2025-07-25 13:17:40  +0800
+  - 发布时间: 2025-07-25 16:36:11  +0800
 
-- [特斯拉做得好极了，除了没卖好车](http://www.huxiu.com/article/4615454.html?f=wangzhan)
-  - 来源: 虎嗅网
-  - 发布时间: Fri, 25 Jul 2025 07:30:05 +0800
+- [证监会：统筹化解处置房企债券违约风险和支持构建房地产发展新模式](https://36kr.com/newsflashes/3394110873274497?f=rss)
+  - 来源: 36氪
+  - 发布时间: 2025-07-25 16:28:07  +0800
 
-- [特斯拉进入黑暗隧道 ｜ 车圈脉动 Vol.7](http://www.huxiu.com/article/4614752.html?f=wangzhan)
-  - 来源: 虎嗅网
-  - 发布时间: Thu, 24 Jul 2025 20:58:00 +0800
+- [广深铁路：签订广州东站改造项目合作协议，总投资约166.6亿元](https://36kr.com/newsflashes/3394099292473474?f=rss)
+  - 来源: 36氪
+  - 发布时间: 2025-07-25 16:27:18  +0800
 
-- [周航：特斯拉真的值万亿美金吗？](http://www.huxiu.com/article/4612829.html?f=wangzhan)
-  - 来源: 虎嗅网
-  - 发布时间: Thu, 24 Jul 2025 11:45:00 +0800
+- [证监会：全力巩固市场回稳向好态势](https://36kr.com/newsflashes/3394109332621705?f=rss)
+  - 来源: 36氪
+  - 发布时间: 2025-07-25 16:26:33  +0800
 
-- [蚂蚁新设通用人工智能研究中心](https://www.oschina.net/news/362273)
-  - 来源: 开源中国
-  - 发布时间: Fri, 25 Jul 2025 11:17:49 +0800
+- [swop 2025预登记火热开启，950+展商齐聚上海共赴包装十年之约](https://news.foodmate.net/2025/07/722085.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 16:16:03
 
-- [阿里通义千问推出机器翻译模型 Qwen-MT](https://www.oschina.net/news/362251)
-  - 来源: 开源中国
-  - 发布时间: Fri, 25 Jul 2025 10:21:38 +0800
+- [今日导读：2024年全国生鲜乳抽检合格率99.96%；顾客餐后腹泻餐厅无法自证被判赔偿；含未申报过敏原 我国出口蛋糕被通报（2025年07月25日）](https://news.foodmate.net/2025/07/722022.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 15:50:35
 
-- [Meta 开源创新大模型架构 AU-Nets](https://www.oschina.net/news/362169)
-  - 来源: 开源中国
-  - 发布时间: Thu, 24 Jul 2025 18:21:08 +0800
+- [进出口食品一周（7.21-7.25）看点|欧盟食品和饲料类快速预警系统（RASFF）通报（2025年第29周）  我国出口绿茶被检出农药残留超标](https://news.foodmate.net/2025/07/722084.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 15:01:49
 
-- [​美国职场现象：六分之一员工因 AI 焦虑而 “假装” 使用人工智能](https://www.oschina.net/news/362155)
-  - 来源: 开源中国
-  - 发布时间: Thu, 24 Jul 2025 17:22:04 +0800
+- [衡水市桃城区分局开展农村食品安全专项检查](https://news.foodmate.net/2025/07/722081.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 14:52:11
 
-- [OpenAI 透露：ChatGPT 用户每天发送超过 25 亿条提示词](https://www.oschina.net/news/362137)
-  - 来源: 开源中国
-  - 发布时间: Thu, 24 Jul 2025 16:28:53 +0800
+- [2025中国（安徽）低度潮饮与精酿啤酒展览会](https://news.foodmate.net/2025/07/722077.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 14:39:03
 
-- [特朗普希望重命名“人工智能”术语，改为“天才智能”](https://www.oschina.net/news/362115)
-  - 来源: 开源中国
-  - 发布时间: Thu, 24 Jul 2025 14:54:23 +0800
+- [宜春铜鼓县局开展保健食品科普宣传进社区活动](https://news.foodmate.net/2025/07/722075.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 14:33:15
 
-- [中国证明开放权重模型优于 GPU 算力资源](https://www.oschina.net/news/362109)
-  - 来源: 开源中国
-  - 发布时间: Thu, 24 Jul 2025 14:37:59 +0800
+- [内蒙古自治区市场监督管理局关于596批次食品抽检情况的通告（2025年第16期）](https://news.foodmate.net/2025/07/722067.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 14:19:07
 
-- [预计 2029 年中国数据仓库软件市场规模将达 20.9 亿美元](https://www.oschina.net/news/362100)
-  - 来源: 开源中国
-  - 发布时间: Thu, 24 Jul 2025 14:11:49 +0800
+- [贵州省市场监管局关于36批次食品抽检不合格情况的通告（2025年第24期）](https://news.foodmate.net/2025/07/722065.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 14:09:21
 
-- [谷歌 Gemini 增加 Imagen 选项并开放 llms.txt](https://www.oschina.net/news/361980)
-  - 来源: 开源中国
-  - 发布时间: Wed, 23 Jul 2025 19:22:33 +0800
+- [美国车厘子大量涌入香港，价格大降超三成](https://news.foodmate.net/2025/07/722063.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 13:57:18
 
-- [周鸿祎：大模型降低攻击门槛，人人皆可“注入攻击”](https://www.oschina.net/news/361972)
-  - 来源: 开源中国
-  - 发布时间: Wed, 23 Jul 2025 18:25:42 +0800
+- [越南榴莲出口强劲复苏，6月对华出口大增140%](https://news.foodmate.net/2025/07/722062.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 13:55:17
+
+- [韩国批准2项转基因大豆和1项转基因微生物用于食品或饲料](https://news.foodmate.net/2025/07/722051.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 11:13:13
+
+- [安阳市文峰区两部门联合开展托幼机构食品安全突击检查](https://news.foodmate.net/2025/07/722047.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:53:52
+
+- [石家庄市召开2025年上半年食品安全工作会议](https://news.foodmate.net/2025/07/722045.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:45:13
+
+- [通辽市市场监管局、驻市市场监管局纪检监察组联合开展假劣肉制品、农村假冒伪劣食品监督检查](https://news.foodmate.net/2025/07/722044.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:42:36
+
+- [聊城市检验检测中心筑牢“三小”食品安全防线](https://news.foodmate.net/2025/07/722043.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:39:24
+
+- [牡丹江市食安委召开专题会议 加快构建肉类产品全链条监管长效治理机制](https://news.foodmate.net/2025/07/722042.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:38:50
+
+- [在成都，放心吃 | 简阳市市场监督管理局全链条筑牢食品安全防线](https://news.foodmate.net/2025/07/722041.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:30:14
+
+- [“农业重大迁飞性害虫空地一体化监测预警技术”入选农业农村部2025年农业重大引领性技术](https://news.foodmate.net/2025/07/722039.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:28:42
+
+- [中国水产科学研究院珠江所破解罗氏沼虾基因组密码为产业升级注入新动能](https://news.foodmate.net/2025/07/722038.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:27:57
+
+- [小麦抗条锈病基因挖掘与利用研究获进展](https://news.foodmate.net/2025/07/722037.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:27:38
+
+- [四川天府新区组织召开食品安全委员会2025年第一次全体会议](https://news.foodmate.net/2025/07/722024.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 10:14:00
+
+- [四川省市场监督管理局关于食品安全监督抽检情况的通告（2025年第10号）](https://news.foodmate.net/2025/07/722021.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 09:38:01
+
+- [江西省市场监督管理局关于11批次抽检不合格食品情况的通告（2025年第10期）](https://news.foodmate.net/2025/07/722019.html)
+  - 来源: 食品资讯
+  - 发布时间: 2025-07-25 09:36:49
+
+- [Examination of post-exercise microvascular reactivity in healthy adults](https://link.springer.com/article/10.1007/s00421-025-05906-y)
+  - 来源: European Journal of Applied Physiology
+  - 发布时间: 2025-07-22
+
+- [Time-variability of muscle oxygen saturation during graded maximal exercise](https://link.springer.com/article/10.1007/s00421-025-05871-6)
+  - 来源: European Journal of Applied Physiology
+  - 发布时间: 2025-07-21
+
+- [Quantifying metabolic energy contributions in sprint running](https://link.springer.com/article/10.1007/s00421-025-05866-3)
+  - 来源: European Journal of Applied Physiology
+  - 发布时间: 2025-07-21
+
+- [Correction: Neuromuscular, cardiometabolic, and perceptual responses to a short sprint interval training session with different cycling torques](https://link.springer.com/article/10.1007/s00421-025-05892-1)
+  - 来源: European Journal of Applied Physiology
+  - 发布时间: 2025-07-15
+
+- [Heavy strength training effects on physiological determinants of endurance cyclist performance: a systematic review with meta-analysis](https://link.springer.com/article/10.1007/s00421-025-05883-2)
+  - 来源: European Journal of Applied Physiology
+  - 发布时间: 2025-07-09
+
+- [Ground gradient affects stride-to-stride fluctuations and gait variability in overground walking](https://link.springer.com/article/10.1007/s00421-025-05896-x)
+  - 来源: European Journal of Applied Physiology
+  - 发布时间: 2025-07-08
+
+- [Countermovement jump performance after metabolically, but not mechanically demanding exercise: limited sensitivity to prolonged low-frequency force depression](https://link.springer.com/article/10.1007/s00421-025-05882-3)
+  - 来源: European Journal of Applied Physiology
+  - 发布时间: 2025-07-06
 
 - [Efficacy of oral nicotinamide mononucleotide supplementation on glucose and lipid metabolism for adults: a systematic review with meta-analysis on randomized controlled trials](https://www.tandfonline.com/doi/full/10.1080/10408398.2024.2387324?af=R)
   - 来源: tandf: Critical Reviews in Food Science and Nutrition
@@ -201,138 +1469,6 @@
 - [Influence of dietary protein and fiber intake interactions on the human gut microbiota composition and function: a systematic review and network meta-analysis of randomized controlled trials](https://www.tandfonline.com/doi/full/10.1080/10408398.2025.2452362?af=R)
   - 来源: tandf: Critical Reviews in Food Science and Nutrition
 
-- [New insights into the repair mechanisms of sublethally injured <em>Staphylococcus aureus</em> induced by ohmic heating: A joint analysis using transcriptomics and metabolomics unveils wave-like repair pattern](https://www.sciencedirect.com/science/article/pii/S1466856425001699?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Innovative Food Science & Emerging Technologies
-
-- [Influence of low voltage electrostatic field combined with microporous packaging on the quality and physiological metabolism of fresh-cut broccoli (<em>Brassica oleracea</em> L. var. <em>italica</em>)](https://www.sciencedirect.com/science/article/pii/S1466856425001377?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Innovative Food Science & Emerging Technologies
-
-- [Efficient extraction of perfluoroalkyl carboxylic acids from food samples using a fluorinated magnetic metal-organic framework adsorbent](https://www.sciencedirect.com/science/article/pii/S0308814625028754?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Chemistry
-
-- [Identification of rice taste quality markers using metabolomics techniques](https://www.sciencedirect.com/science/article/pii/S0308814625028183?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Chemistry
-
-- [Fatty acid benefit and pesticide exposure risks via consumption of edible insects and other invertebrates in South China](https://www.sciencedirect.com/science/article/pii/S0308814625028298?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Chemistry
-
-- [The screen of the key differential taste substances and its metabolic pathways for different grades of Jinhua hams based on untargeted metabolomics](https://www.sciencedirect.com/science/article/pii/S0308814625028018?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Chemistry
-
-- [A novel preparation method for black rice wine (beer, Huangjiu and sweet wine) and its association with a core nutrient–metabolite network](https://www.sciencedirect.com/science/article/pii/S0308814625028365?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Chemistry
-
-- [Hulled oat (<em>Avena sativa</em> var.Noni) and naked oat (<em>Avena nuda</em> var. Kamil): Distribution of selected secondary metabolites during germination](https://www.sciencedirect.com/science/article/pii/S0308814625027566?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Chemistry
-
-- [<em>Bacillus cereus</em> GW-01 promotes Pak Choi (<em>Brassica chinensis</em> L.) growth by reducing β-Cypermethrin and regulating plant metabolism, phyllosphere and rhizosphere microbial communities](https://www.sciencedirect.com/science/article/pii/S0308814625027724?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Chemistry
-
-- [Explainable AI for Cotton Leaf Disease Classification: A Metaheuristic‐Optimized Deep Learning Approach](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70658?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Tue, 22 Jul 2025 21:09:04 -0700
-
-- [The Dual Role of Conjugated Linoleic Acid in Obesity and Metabolic Disorders](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70582?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Tue, 22 Jul 2025 05:23:54 -0700
-
-- [Dietary Vitamin D Supplementation Improves Hair Follicle Development and Affects Fatty Acid Metabolism in Rex Rabbits](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70675?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Mon, 21 Jul 2025 23:29:42 -0700
-
-- [Evaluation of the Clinical Outcomes Associated With the Use of Fatty Acids and Vitamin D in Rheumatoid Arthritis Patients: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70473?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Mon, 21 Jul 2025 03:25:04 -0700
-
-- [Safety and Nutritional Profile of Traditional Turkish Cheeses: A Comprehensive Study on Their Mineral Content, Heavy Metal Contamination, and Health Risks of Aho, Golot, and Telli](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70560?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Sun, 20 Jul 2025 23:19:59 -0700
-
-- [Effect of Low‐Carbohydrate Diets on C‐Reactive Protein Level in Adults: A Systematic Review and Meta‐Analysis of Randomized Controlled Trials](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70566?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Fri, 18 Jul 2025 21:35:23 -0700
-
-- [ChatGPT‐4o for Weight Management: Comparison of Different Diet Models](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70639?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Wed, 16 Jul 2025 23:49:43 -0700
-
-- [The Burden of Nonmalignant Metabolic Dysfunction‐Associated Steatotic Liver Disease in the Western Pacific Region: A Systematic Analysis From 1990 to 2021](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70627?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Wed, 16 Jul 2025 23:29:25 -0700
-
-- [The Effect of Theobromine Supplementation on HDL‐c Subclasses (HDL‐c2, HDL‐c3), HDL‐c2/HDL‐c3 Ratio, and Gene Expression of PPAR‐α and Sirt1 in Subjects With Metabolic Syndrome: A Randomized Controlled Clinical Trial](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70665?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Wed, 16 Jul 2025 00:08:56 -0700
-
-- [Nutrient‐Synbiotic Complex Ameliorates LPS‐Induced Depressive‐Like Behavior via Modulation of Gut Microbiota and Tryptophan Metabolism in Mice](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70628?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Tue, 15 Jul 2025 21:36:28 -0700
-
-- [Nutritional Influences on Brown and Beige Adipocyte: Unraveling the Molecular Mechanisms and Metabolic Implications](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70613?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Tue, 15 Jul 2025 03:29:26 -0700
-
-- [A Systematic Review and Meta‐Analysis of the Impact of Cornus mas L. on Anthropometric Indices and Body Composition](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70404?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Tue, 15 Jul 2025 03:27:57 -0700
-
-- [Effects of Curcuminoids Plus Piperine Co‐Supplementation on Liver Enzymes and Inflammation in Adults: A GRADE‐Assessed Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70588?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Mon, 14 Jul 2025 04:43:37 -0700
-
-- [Mendelian Randomization Analysis Reveals Causal Effects of Circulating Metabolites on Hyperaldosteronism](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70532?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Mon, 14 Jul 2025 02:19:00 -0700
-
-- [Synbiotic Administration of d‐Tagatose and Lacticaseibacillus casei ATCC 393 Improves Hyperlipidemia in BALB/c Mice by Modulating Gut Microbiota and Metabolic Parameters](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70597?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Thu, 10 Jul 2025 21:23:22 -0700
-
-- [Untargeted Metabolomic Analysis Using UPLC–MS/MS Reveals Metabolic Changes Associated With Lanmaoa asiatica Poisoning](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70583?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Tue, 08 Jul 2025 20:43:48 -0700
-
-- [The Herbal Pair Polygonum hydropiper L‐Coptis chinensis Franch Attenuate DSS‐Induced Ulcerative Colitis by Modulating Metabolism and Intestinal Flora](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70584?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Tue, 08 Jul 2025 04:54:25 -0700
-
-- [Nutritional Properties and Preventive Potential of Leptadenia hastata (Pers) Decne (Apocynaceae) Against Metabolic Diseases](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70468?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Fri, 04 Jul 2025 04:30:43 -0700
-
-- [Effects of Avocado Products on Cardiovascular Risk Factors in Adults: A GRADE‐Assessed Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70547?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Wed, 02 Jul 2025 21:21:02 -0700
-
-- [Molecular Mechanisms, Endurance Athlete, and Synergistic Therapeutic Effects of Marine‐Derived Antioxidant Astaxanthin Supplementation and Exercise in Cancer, Metabolic Diseases, and Healthy Individuals](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70470?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Fri, 27 Jun 2025 21:35:02 -0700
-
-- [The Effects of a Novel Fortified Dairy Product on Weight Loss, Metabolic Profiles, and Endocrine Hormones in Women With Polycystic Ovary Syndrome: A Double‐Blind Randomized Controlled Trial](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.70506?af=R)
-  - 来源: Wiley: Food Science & Nutrition
-  - 发布时间: Fri, 27 Jun 2025 05:03:35 -0700
-
-- [Revisiting the chemical diversity of organic food crops: metabolomics perspectives](https://www.sciencedirect.com/science/article/pii/S2214799325000189?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Current Opinion in Food Science
-
-- [DNA metabarcoding for the identification and relative abundance assessment of general and potentially pathogenic bacteria in Sardinian sheep cheese processing environments](https://www.sciencedirect.com/science/article/pii/S0168160525002983?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: International Journal of Food Microbiology
-
-- [Enhancing small peptide content and improving the microbial community and metabolites in corn gluten meal with solid-state fermentation using keratinase-producing <em>Bacillus</em> strains](https://www.sciencedirect.com/science/article/pii/S016816052500265X?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: International Journal of Food Microbiology
-
-- [Genetic diversity and the prevalence of <em>Listeria monocytogenes</em> in food in Shanghai, China: Insights during 2020–2023 surveillance and the Apriori algorithm approach](https://www.sciencedirect.com/science/article/pii/S0168160525002685?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: International Journal of Food Microbiology
-
-- [Metatranscriptomics and HS-GC-IMS unveils the disparities in gene functions, metabolic traits, and volatile metabolites between highly-preserved and easily-spoiled soybean pastes](https://www.sciencedirect.com/science/article/pii/S0168160525002363?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: International Journal of Food Microbiology
-
-- [Pink discoloration defects associated with microbial structure and metabolome changes in commercial bloomy cheeses](https://www.sciencedirect.com/science/article/pii/S0168160525003083?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: International Journal of Food Microbiology
-
-- [Temperature-mediated shift from competitive to facilitative interactions between lactic acid bacteria and <em>bacillus</em> species in <em>daqu</em> fermentation: Insights from metagenomics, dual RNA-seq, and coculture analysis](https://www.sciencedirect.com/science/article/pii/S0168160525002971?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: International Journal of Food Microbiology
-
 - [Plasma metabolites mediate the association of total and specific fruit intake with incident chronic kidney disease risk](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01906K)
   - 来源: RSC - Food Funct.
 
@@ -348,13 +1484,22 @@
 - [Bioactive release and modulation of urolithin metabotype A phenotype gut microbiota during in vitro digestion and fermentation of ellagic acid-rich fruit polyphenols](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D4FO06221C)
   - 来源: RSC - Food Funct.
 
+- [Development of a bio-functional fermented soy beverage supplemented with microbial exopolysaccharides and its effect on the human gut microbiome in vitro](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01288K)
+  - 来源: RSC - Food Funct.
+
 - [Is moderate beer consumption associated with poor dietary and biochemical parameters of nutritional status in adults? A systematic review of observational and interventional studies with meta-analysis](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01788B)
   - 来源: RSC - Food Funct.
 
 - [The positive effect of a novel protein from Pleurotus eryngii on improving colitis - exploring potential mechanisms from the perspective of intestinal metabolism](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01832C)
   - 来源: RSC - Food Funct.
 
+- [A dietary switch from a high fat to a low fat diet mitigates obesity-induced intestinal barrier dysfunction in mice: implications for pancreatic carcinogenesis](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO02372F)
+  - 来源: RSC - Food Funct.
+
 - [Analysis of human colostrum reveals differential co-occurrence networks of metabolites, microbiota and cytokines in maternal obesity](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D4FO05637J)
+  - 来源: RSC - Food Funct.
+
+- [Probiotics enhance vitamin absorption in the intestine: influencing factors and potential mechanisms](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D4FO04252B)
   - 来源: RSC - Food Funct.
 
 - [Gut microbial metabolites of phenolic compounds inhibit colon cancer cell proliferation by triggering apoptosis and cell cycle arrest](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO02116B)
@@ -366,556 +1511,50 @@
 - [Bifidobacterium breve M-16V alleviates cow's milk allergy by regulating the gut microbiota and metabolites in human microbiota-associated mice](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO02012C)
   - 来源: RSC - Food Funct.
 
+- [Human milk oligosaccharides mitigate infant diarrhea and anxiety-like behaviors via gut microbiota modulation in an EPEC O127 infection model](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01854D)
+  - 来源: RSC - Food Funct.
+
 - [Aloe vera polysaccharides mitigate high-fat high-cholesterol diet-induced atherosclerosis in ApoE-/- mice via regulation of lipid metabolism and gut microbiota](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01995H)
   - 来源: RSC - Food Funct.
 
 - [Molecular mechanisms of aberrant fatty acids metabolism in driving cardiovascular diseases: key regulatory targets and dietary interventions](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01237F)
   - 来源: RSC - Food Funct.
 
+- [Weizmannia coagulans BC99 alleviates hyperuricemia by restoring liver–kidney–gut axis dysfunction caused by hyperuricemia](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO00951K)
+  - 来源: RSC - Food Funct.
+
 - [Human milk metabolites modulate gut barrier and immunity-related genes in an in vitro multicellular model of intestinal epithelium](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01144B)
+  - 来源: RSC - Food Funct.
+
+- [Comprehensive analysis of yak milk residue peptides for anti-hypoxic functional foods: targeting neuroinflammation and apoptosis in hypoxic mice](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01223F)
   - 来源: RSC - Food Funct.
 
 - [Untargeted metabolomics reveals the inhibition effect of a high-fat diet on colorectal cancer tumorigenesis in obesity-resistant mice via regulating bile acid, glutathione, and glycerophospholipid metabolisms](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D4FO06132B)
   - 来源: RSC - Food Funct.
 
+- [Dietary strategies for appetite regulation: satiety and obesity management](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01349F)
+  - 来源: RSC - Food Funct.
+
 - [Enzymatic synthesis of β-galactosylated xylitol derivatives modulates gut microbiota and improves obesity-related metabolic parameters in mice](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO00978B)
+  - 来源: RSC - Food Funct.
+
+- [Biomarkers of fried food intake: a systematic review of in vivo studies](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D4FO05008H)
   - 来源: RSC - Food Funct.
 
 - [Food additive β-caryophyllene mitigates alcoholic steatohepatitis by dual modulation of inflammation and lipid metabolism: a diet-based intervention strategy](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO01083G)
   - 来源: RSC - Food Funct.
 
-- [Quantifying metabolic energy contributions in sprint running](https://link.springer.com/article/10.1007/s00421-025-05866-3)
-  - 来源: European Journal of Applied Physiology
-  - 发布时间: 2025-07-21
-
-- [Correction: Neuromuscular, cardiometabolic, and perceptual responses to a short sprint interval training session with different cycling torques](https://link.springer.com/article/10.1007/s00421-025-05892-1)
-  - 来源: European Journal of Applied Physiology
-  - 发布时间: 2025-07-15
-
-- [Heavy strength training effects on physiological determinants of endurance cyclist performance: a systematic review with meta-analysis](https://link.springer.com/article/10.1007/s00421-025-05883-2)
-  - 来源: European Journal of Applied Physiology
-  - 发布时间: 2025-07-09
-
-- [Countermovement jump performance after metabolically, but not mechanically demanding exercise: limited sensitivity to prolonged low-frequency force depression](https://link.springer.com/article/10.1007/s00421-025-05882-3)
-  - 来源: European Journal of Applied Physiology
-  - 发布时间: 2025-07-06
-
-- [Antimicrobial efficacy of metal-organic framework-modulated nanocomposites in foods and their contact surfaces against <em>Staphylococcus aureus</em>](https://www.sciencedirect.com/science/article/pii/S0956713525004438?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Control
-
-- [Characterization of bacterial microbiota of insect-based products (novel foods) by <em>16S rRNA</em> metabarcoding](https://www.sciencedirect.com/science/article/pii/S0956713525003871?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Control
-
-- [Quantitative risk assessment of <em>Listeria monocytogenes</em> in cooked meat products from retail to consumption in China](https://www.sciencedirect.com/science/article/pii/S0956713525003688?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Control
-
-- [Metal concentrations and health risk assessment of spices and herbs from United Arab Emirates markets](https://www.sciencedirect.com/science/article/pii/S0956713525003470?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Control
-
-- [A comprehensive review of heavy metals in aquatic products and their removal techniques](https://www.sciencedirect.com/science/article/pii/S0956713525003895?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Control
-
-- [Postprandial Metabolism, Inflammation, and Plasma Bile Acid Kinetics in a Rat Model: Implications for Translational Research](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70174?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Tue, 22 Jul 2025 00:23:53 -0700
-
-- [Saucerneol Inhibits the Growth, Migration, and Invasion of Osteosarcoma Cells In Vitro and Prevents Metastasis‐Associated Osteolysis Ex Vivo](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70187?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Sun, 20 Jul 2025 23:21:24 -0700
-
-- [Folic Acid Reduces Insulin Resistance in Mice With Diet‐Induced Obesity by Altering One‐Carbon Metabolism and DNA Methylation Patterns of Hypothalamic and Hepatic Insulin Receptor Gene](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70181?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Wed, 16 Jul 2025 02:03:44 -0700
-
-- [The Regulatory Effects of Pea Protein Hydrolysate on Lipid Metabolism in Gestational Diabetic Mice](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70178?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Wed, 09 Jul 2025 22:39:48 -0700
-
-- [Preferential Therapeutic Potential of Ficus carica Against Monosodium Glutamate and Metanil Yellow‐Evoked Hepato‐Renal Injury: In Vivo and In Silico Approaches](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70030?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Tue, 08 Jul 2025 05:15:32 -0700
-
-- [Tibetan Tea Alleviates the Intestinal Dysfunction in Sleep‐Deprived Mice Through Regulating Oxidative Stress and Inflammation‐Related Intestinal Metabolisms](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70098?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Tue, 08 Jul 2025 05:15:32 -0700
-
-- [Lactobacillus rhamnosus PB01 Oral Supplementation Alleviates Metabolic and Reproductive Dysfunctions in Type 1 Diabetic Male Rats](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70157?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Fri, 04 Jul 2025 04:00:15 -0700
-
-- [Bovine Milk Extracellular Vesicles as a Preventive Treatment for Bone Dysfunction and Metabolic Alterations in Obese Mice Fed a High‐Refined Carbohydrate Diet](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70139?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Wed, 02 Jul 2025 01:34:51 -0700
-
-- [A Moderately High‐Protein Diet During the Critical Development Period Protects Hepatic Functional Integrity and Improves Metabolic Health in Middle‐Aged Offspring via the Gut–Liver Axis](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70169?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Wed, 02 Jul 2025 01:31:07 -0700
-
-- [Postprandial Responses to Meals Enriched With Canola or Coconut Oil in Men and Women With a Risk Phenotype for Cardiometabolic Diseases: A Randomized Crossover Trial](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70147?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Thu, 19 Jun 2025 00:00:54 -0700
-
-- [Flavonoid Polyphenols as Therapeutic Agents for Fatty Liver Disease: Mechanisms, Microbiome Interactions, and Metabolic Insights](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70144?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Mon, 16 Jun 2025 06:43:11 -0700
-
-- [Hidden Hunger: A Forgotten Comorbidity of Metabolic‐Syndrome‐Associated Fatty Liver Disease](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70134?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Mon, 16 Jun 2025 02:03:08 -0700
-
-- [α‐Linolenic Acid‐Rich Flaxseed Oil Improves Polycystic Ovary Syndrome via Regulating Lipid Metabolism by GPR120‐cAMP Pathway and Restoring Gut Microecology](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70136?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Wed, 11 Jun 2025 22:19:52 -0700
-
-- [Gallic Acid Ameliorates Skeletal Muscle Metabolic Inflexibility by Regulating Lactate Metabolism and Promoting Mitochondrial Function](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70106?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Mon, 09 Jun 2025 22:24:52 -0700
-
-- [Carbohydrate Deprivation Improves Glycolipid Metabolism and Activates AMPK/PGC1α Signaling Pathway in Mice](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70123?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Sun, 08 Jun 2025 19:55:32 -0700
-
-- [Multistage Metabolomic Analyses Reveal the Differential Effects of Infant Formula and Breast Milk on the Growth and Development of Human Small Intestinal Organoids](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70068?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Fri, 06 Jun 2025 08:20:20 -0700
-
-- [Association Between Meat Intake and Metabolic Dysfunction‐Associated Steatotic Liver Disease Incidence in a Korean Population From the Health Examinees Study](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70132?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Tue, 03 Jun 2025 07:20:44 -0700
-
-- [Prolonged Fructose Overconsumption Activates Original Biosynthetic and Metabolic Pathways of Endogenous Purine in Rats](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.70122?af=R)
-  - 来源: Wiley: Molecular Nutrition & Food Research
-  - 发布时间: Thu, 29 May 2025 21:26:29 -0700
-
-- [Metal ion–mediated dual–polysaccharide coatings enhanced the microenvironmental homeostasis and adhesion capacity of <em>Lactiplantibacillus plantarum</em>](https://www.sciencedirect.com/science/article/pii/S0268005X25007210?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Hydrocolloids
-
-- [Multi-sites interactions of turmeric-derived curcumin in cyclodextrin metal-organic framework for the enhanced adsorption and solubility in apple juice](https://www.sciencedirect.com/science/article/pii/S0268005X25007076?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Hydrocolloids
-
-- [Potential enhancement of thermal stability in soy protein nanofibrils by metal ions](https://www.sciencedirect.com/science/article/pii/S0268005X25006745?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Food Hydrocolloids
-
-- [Hemp seed oil ameliorates ulcerative colitis in connection with tryptophan metabolism driven by gut microbiota](https://www.sciencedirect.com/science/article/pii/S1756464625003044?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Functional Foods
-
-- [Cis-vaccenic acid exhibits an anti-obesity effect by regulating food intake and lipid metabolism in mammals](https://www.sciencedirect.com/science/article/pii/S1756464625003007?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Functional Foods
-
-- [Insoluble dietary fiber from Chinese cabbage leaves improves glucose and lipid metabolism disorders in HFD-fed mice by mediating gut microbiota](https://www.sciencedirect.com/science/article/pii/S1756464625002907?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Functional Foods
-
-- [Chitosan lactate mitigates metabolic-associated fatty liver disease via TGR5-mediated anti-inflammatory mechanisms and the gut-hepatic-bile acid axis](https://www.sciencedirect.com/science/article/pii/S1756464625002889?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Functional Foods
-
-- [<em>Spirulina</em> supplementation and its effects on inflammation and oxidative stress: A systematic review and Meta-analysis on randomized clinical trials](https://www.sciencedirect.com/science/article/pii/S1756464625002877?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Functional Foods
-
-- [Firmness Loss in Blueberry (Vaccinium corymbosum) Is Associated With Increased PG Activity, Upregulation of Softening‐Related Genes, and Pectin Metabolism](https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.70410?af=R)
-  - 来源: Wiley: Journal of Food Science
-  - 发布时间: Fri, 18 Jul 2025 05:23:17 -0700
-
-- [Assessment of Knowledge, Attitude, and Practice (KAP) Regarding Food Allergen Labeling Among Allergic Population in Jiangxi Province, China](https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.70411?af=R)
-  - 来源: Wiley: Journal of Food Science
-  - 发布时间: Tue, 15 Jul 2025 22:48:20 -0700
-
-- [Lycopene Modulates Glycerophospholipid Metabolism and Promotes N‐Acylethanolamine Production to Alleviate Obesity](https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.70373?af=R)
-  - 来源: Wiley: Journal of Food Science
-  - 发布时间: Tue, 08 Jul 2025 02:36:57 -0700
-
-- [DMC Biotechnologies unveils fermented D-chiro-inositol for hormonal and metabolic health](https://www.nutritioninsight.com/news/dmc-biotechnologies-fermented-d-chiro-inositol-womens-health-metabolic-health.html)
-  - 来源: Nutrition Insight
-  - 发布时间: Tue, 15 Jul 2025 00:00:00 +0000
-
-- [Eating to Downregulate a Gene for Metastatic Cancer](https://nutritionfacts.org/blog/eating-to-downregulate-a-gene-for-metastatic-cancer/)
-  - 来源: NutritionFacts.org
-  - 发布时间: Tue, 15 Jul 2025 12:00:12 +0000
-
-- [Eating to Help Control Cancer Metastasis](https://nutritionfacts.org/blog/eating-to-help-control-cancer-metastasis/)
-  - 来源: NutritionFacts.org
-  - 发布时间: Thu, 10 Jul 2025 12:00:14 +0000
-
-- [Dietary Components That May Cause Cancer to Metastasize](https://nutritionfacts.org/blog/dietary-components-that-may-cause-cancer-to-metastasize/)
-  - 来源: NutritionFacts.org
-  - 发布时间: Tue, 08 Jul 2025 12:00:50 +0000
-
-- [What About Elderberry, Echinacea, and Cranberries for Colds and the Flu?](https://nutritionfacts.org/blog/what-about-elderberry-echinacea-and-cranberries-for-colds-and-the-flu/)
-  - 来源: NutritionFacts.org
-  - 发布时间: Thu, 12 Jun 2025 12:00:27 +0000
-
-- [OliverWyman：2025年政府人工智能行动路线](http://www.199it.com/archives/1774385.html)
-  - 来源: 199IT
-  - 发布时间: Thu, 24 Jul 2025 21:30:04 +0000
-
-- [奥维云网：2025年上半年中国彩电销量1375万台，同比增长1.8%](http://www.199it.com/archives/1775402.html)
-  - 来源: 199IT
-  - 发布时间: Thu, 24 Jul 2025 13:05:28 +0000
-
-- [特斯拉：2025年Autopilot系统每行驶669万英里发生1次事故](http://www.199it.com/archives/1775400.html)
-  - 来源: 199IT
-  - 发布时间: Thu, 24 Jul 2025 13:05:20 +0000
-
-- [三星电子：2025年Galaxy Z Fold7/Flip7韩国预售量104万台，同比增长14%](http://www.199it.com/archives/1775397.html)
-  - 来源: 199IT
-  - 发布时间: Thu, 24 Jul 2025 13:05:09 +0000
-
-- [2025年东南亚消费者购买电动车主要因素预测（附原数据表） ​​​](http://www.199it.com/archives/1775342.html)
-  - 来源: 199IT
-  - 发布时间: Thu, 24 Jul 2025 06:56:23 +0000
-
-- [毕马威：2025年中国租赁业调查报告](http://www.199it.com/archives/1773991.html)
-  - 来源: 199IT
-  - 发布时间: Wed, 23 Jul 2025 21:00:06 +0000
-
-- [华大CEO：2025年中国医疗效率超美国，00后预期寿命达百岁](http://www.199it.com/archives/1774819.html)
-  - 来源: 199IT
-  - 发布时间: Wed, 23 Jul 2025 12:25:03 +0000
-
-- [洛图科技：2025年上半年中国大陆显示器线上销量642万台 同比增长29.7%](http://www.199it.com/archives/1774823.html)
-  - 来源: 199IT
-  - 发布时间: Wed, 23 Jul 2025 12:24:48 +0000
-
-- [特斯拉：2025年全球首家超级充电站餐厅开业6小时营收4.7万美元](http://www.199it.com/archives/1774828.html)
-  - 来源: 199IT
-  - 发布时间: Wed, 23 Jul 2025 12:24:35 +0000
-
-- [2019年-2024年全球生成式人工智能风险投资交易额（附原数据表） ​​​](http://www.199it.com/archives/1774838.html)
-  - 来源: 199IT
-  - 发布时间: Wed, 23 Jul 2025 09:27:02 +0000
-
-- [2025年韩国消费者购买电动车主要因素预测（附原数据表） ​​​](http://www.199it.com/archives/1774832.html)
-  - 来源: 199IT
-  - 发布时间: Wed, 23 Jul 2025 09:25:54 +0000
-
-- [KOS：2025中国薪酬指南](http://www.199it.com/archives/1773598.html)
-  - 来源: 199IT
-  - 发布时间: Tue, 22 Jul 2025 21:00:59 +0000
-
-- [瓴羊推出阿里巴巴首批企业级Agent，超级客服专家上岗](http://www.199it.com/archives/1774853.html)
-  - 来源: 199IT
-  - 发布时间: Tue, 22 Jul 2025 16:01:29 +0000
-
-- [汽车之家：2025年上半年中国SUV销量TOP10 特斯拉Model Y夺冠](http://www.199it.com/archives/1774723.html)
-  - 来源: 199IT
-  - 发布时间: Tue, 22 Jul 2025 12:24:03 +0000
-
-- [2025年Q1中国主要厂商腕戴设备出货量市场份额（附原数据表） ​​​](http://www.199it.com/archives/1774679.html)
-  - 来源: 199IT
-  - 发布时间: Tue, 22 Jul 2025 08:54:12 +0000
-
-- [2025年Q1中国主要厂商腕戴设备出货量及同比（附原数据表） ​​​](http://www.199it.com/archives/1774676.html)
-  - 来源: 199IT
-  - 发布时间: Tue, 22 Jul 2025 08:53:38 +0000
-
-- [小米和比亚迪，终于成了特斯拉的心腹大患](http://www.geekpark.net/news/351885)
-  - 来源: 极客公园
-  - 发布时间: Thu, 24 Jul 2025 20:03:24 +0800
-
-- [微信新功能：创作者可向点赞用户表达感谢；​全球第一网红野兽先生将迎来中国直播首秀；特斯拉营收利润双双下降  ｜极客早知道](http://www.geekpark.net/news/351835)
-  - 来源: 极客公园
-  - 发布时间: Thu, 24 Jul 2025 08:13:56 +0800
-
-- [官方回应北京网约车平台禁燃油车；阿里开源 AI 编程模型 Qwen3-Coder；《阿凡达3》首张宣传海报公布](http://www.geekpark.net/news/351792)
-  - 来源: 极客公园
-  - 发布时间: Wed, 23 Jul 2025 08:50:39 +0800
-
-- [首家京东自营外卖门店开业；小宇宙回应多名高管离职；国产新能源车保值率排名发布：SU7 第一](http://www.geekpark.net/news/351753)
-  - 来源: 极客公园
-  - 发布时间: Tue, 22 Jul 2025 07:21:06 +0800
-
-- [苹果首款折叠屏手机或将于明年发布；Meta 超级智能实验室已招募 44 人：一半来自中国；演唱会出轨男 CEO 已辞职｜极客早知道](http://www.geekpark.net/news/351698)
-  - 来源: 极客公园
-  - 发布时间: Mon, 21 Jul 2025 08:33:19 +0800
-
-- [Manus 以技术回应「撤离中国市场」；李想：理想现金储备 1107 亿；下架大量成人游戏，Steam：支付组织要求](http://www.geekpark.net/news/351696)
-  - 来源: 极客公园
-  - 发布时间: Sun, 20 Jul 2025 08:20:36 +0800
-
-- [美团、京东、饿了么被监管约谈；宇树科技开启上市辅导；NBA 巨星乔丹豪宅上线爱彼迎](http://www.geekpark.net/news/351693)
-  - 来源: 极客公园
-  - 发布时间: Sat, 19 Jul 2025 08:37:42 +0800
-
-- [美团正式推骑手养老保险，不限时长；中国「豪车税」标准降至 90 万；OpenAI 推出 Agent 功能](http://www.geekpark.net/news/351633)
-  - 来源: 极客公园
-  - 发布时间: Fri, 18 Jul 2025 08:17:30 +0800
-
-- [美团王莆中：外卖「卷」没意义，全是泡沫；特斯拉中国特供加长 Model Y 曝光；钟薛高被破产立案审查，资不抵债｜极客早知道](http://www.geekpark.net/news/351602)
-  - 来源: 极客公园
-  - 发布时间: Thu, 17 Jul 2025 09:44:00 +0800
-
-- [美团：本月超 40 万众包骑手日入超 500 元；SpaceX 将向 X.AI 投资 20 亿美元；谷歌 24 亿美元收编 Windsurf](http://www.geekpark.net/news/351462)
-  - 来源: 极客公园
-  - 发布时间: Sun, 13 Jul 2025 08:48:00 +0800
-
-- [OpenList 白嫖网盘空间 (开源 Alist 替代品) - 支持 WebDAV 挂载百度/阿里/夸克/115等](https://www.iplaysoft.com/openlist.html)
-  - 来源: 异次元软件世界
-  - 发布时间: Tue, 24 Jun 2025 14:05:38 +0000
-
-- [ChatWise - 小巧速度快！全功能 AI 助手客户端 (支持 DeepSeek / OpenAI 等模型 API)](https://www.iplaysoft.com/chatwise.html)
-  - 来源: 异次元软件世界
-  - 发布时间: Fri, 20 Jun 2025 16:07:30 +0000
-
-- [离谱！DeepSeek-R1-0528 仅”小版本“升级，居然都这么猛！](https://www.iplaysoft.com/p/deepseek-r1-0528)
-  - 来源: 异次元软件世界
-  - 发布时间: Thu, 29 May 2025 12:18:55 +0000
-
-- [京东 Plus 会员年卡￥49 元开通 / 优惠续费方法 (省钱简单教程)](https://www.iplaysoft.com/p/jd-plus)
-  - 来源: 异次元软件世界
-  - 发布时间: Sun, 18 May 2025 19:42:02 +0000
-
-- [限时！爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥168 元起](https://www.iplaysoft.com/news/4313)
-  - 来源: 异次元软件世界
-  - 发布时间: Fri, 16 May 2025 07:20:32 +0000
-
-- [优麒麟 Ubuntu Kylin 中国版 25.04 操作系统中文版ISO镜像下载 (官方定制版)](https://www.iplaysoft.com/ubuntukylin.html)
-  - 来源: 异次元软件世界
-  - 发布时间: Fri, 11 Apr 2025 18:00:03 +0000
-
-- [美国允许英伟达向中国出售芯片是一个严重错误](https://cn.nytimes.com/opinion/20250725/ai-chips-nvidia-china/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Fri, 25 Jul 2025 02:28:22 +0800
-
-- [中国在太空通信领域为何远远落后于马斯克的星链计划？](https://cn.nytimes.com/technology/20250725/starlink-spacex-musk-china-satellites/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Fri, 25 Jul 2025 09:41:52 +0800
-
-- [从边境小城满洲里看中国如何支撑俄罗斯经济](https://cn.nytimes.com/business/20250724/manzhouli-china-russia-economy/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Thu, 24 Jul 2025 02:59:13 +0800
-
-- [微软称中国黑客利用SharePoint漏洞发起攻击行动](https://cn.nytimes.com/technology/20250724/chinese-hackers-microsoft-sharepoint/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Thu, 24 Jul 2025 11:22:13 +0800
-
-- [美国退出联合国教科文组织，助力中国提升软实力](https://cn.nytimes.com/china/20250724/unesco-china-us/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Thu, 24 Jul 2025 09:47:33 +0800
-
-- [中国汽车巨头进军巴西，梦想称霸南美大陆](https://cn.nytimes.com/business/20250723/china-brazil-electric-vehicles/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Wed, 23 Jul 2025 02:21:56 +0800
-
-- [中国正在抢占未来，美国却陷入焦虑与退缩](https://cn.nytimes.com/opinion/20250723/trump-america-china/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Wed, 23 Jul 2025 01:44:53 +0800
-
-- [富国银行驻美高管被中国限制离境引发商界担忧](https://cn.nytimes.com/china/20250721/china-exit-ban-business-anxiety/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Wed, 23 Jul 2025 11:57:45 +0800
-
-- [压价、内卷、加剧通缩：中国企业过度竞争的恶性循环](https://cn.nytimes.com/business/20250723/china-involution-competition-deflation/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Wed, 23 Jul 2025 10:14:33 +0800
-
-- [年轻选民推动日本右倾，但新右翼政党能走多远？](https://cn.nytimes.com/asia-pacific/20250722/japan-election-analysis/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Tue, 22 Jul 2025 05:04:08 +0800
-
-- [官方报告称中国官员协助掩盖幼儿园学童铅中毒事件](https://cn.nytimes.com/china/20250722/china-lead-poisoning-scandal/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Tue, 22 Jul 2025 10:37:34 +0800
-
-- [中国阻止一名美国商务部雇员离境，盘问其美军服役经历](https://cn.nytimes.com/china/20250722/china-exit-ban-us-government-employee/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Tue, 22 Jul 2025 10:25:23 +0800
-
-- [中国强硬对抗特朗普，对欧洲也毫不退让](https://cn.nytimes.com/world/20250722/china-europe-trade-war/?utm_source=RSS)
-  - 来源: 纽约时报中文网
-  - 发布时间: Tue, 22 Jul 2025 07:46:46 +0800
-
-- [韩国批准2项转基因大豆和1项转基因微生物用于食品或饲料](https://news.foodmate.net/2025/07/722051.html)
-  - 来源: 食品资讯
-  - 发布时间: 2025-07-25 11:13:13
-
-- [安阳市文峰区两部门联合开展托幼机构食品安全突击检查](https://news.foodmate.net/2025/07/722047.html)
-  - 来源: 食品资讯
-  - 发布时间: 2025-07-25 10:53:52
-
-- [石家庄市召开2025年上半年食品安全工作会议](https://news.foodmate.net/2025/07/722045.html)
-  - 来源: 食品资讯
-  - 发布时间: 2025-07-25 10:45:13
-
-- [聊城市检验检测中心筑牢“三小”食品安全防线](https://news.foodmate.net/2025/07/722043.html)
-  - 来源: 食品资讯
-  - 发布时间: 2025-07-25 10:39:24
-
-- [在成都，放心吃 | 简阳市市场监督管理局全链条筑牢食品安全防线](https://news.foodmate.net/2025/07/722041.html)
-  - 来源: 食品资讯
-  - 发布时间: 2025-07-25 10:30:14
-
-- [中国水产科学研究院珠江所破解罗氏沼虾基因组密码为产业升级注入新动能](https://news.foodmate.net/2025/07/722038.html)
-  - 来源: 食品资讯
-  - 发布时间: 2025-07-25 10:27:57
-
-- [四川天府新区组织召开食品安全委员会2025年第一次全体会议](https://news.foodmate.net/2025/07/722024.html)
-  - 来源: 食品资讯
-  - 发布时间: 2025-07-25 10:14:00
-
-- [四川省市场监督管理局关于食品安全监督抽检情况的通告（2025年第10号）](https://news.foodmate.net/2025/07/722021.html)
-  - 来源: 食品资讯
-  - 发布时间: 2025-07-25 09:38:01
-
-- [中国AI芯片维修需求暴增 有商家月修500块英伟达高端GPU](https://m.cnbeta.com.tw/view/1515334.htm)
-  - 来源: cnBeta全文版
-  - 发布时间: Fri, 25 Jul 2025 05:05:39 GMT
-
-- [大举投资AI究竟是不是“智商税”？大摩：三大领域已看到实际回报](https://m.cnbeta.com.tw/view/1515316.htm)
-  - 来源: cnBeta全文版
-  - 发布时间: Fri, 25 Jul 2025 04:35:11 GMT
-
-- [字节一季度收入已反超Meta 登顶全球收入最高社交媒体公司](https://m.cnbeta.com.tw/view/1515302.htm)
-  - 来源: cnBeta全文版
-  - 发布时间: Fri, 25 Jul 2025 02:35:23 GMT
-
-- [特斯拉做得好极了，除了没卖好车](http://www.huxiu.com/article/4615454.html?f=wangzhan)
-  - 来源: 虎嗅网
-  - 发布时间: Fri, 25 Jul 2025 07:30:05 +0800
-
-- [特斯拉进入黑暗隧道 ｜ 车圈脉动 Vol.7](http://www.huxiu.com/article/4614752.html?f=wangzhan)
-  - 来源: 虎嗅网
-  - 发布时间: Thu, 24 Jul 2025 20:58:00 +0800
-
-- [周航：特斯拉真的值万亿美金吗？](http://www.huxiu.com/article/4612829.html?f=wangzhan)
-  - 来源: 虎嗅网
-  - 发布时间: Thu, 24 Jul 2025 11:45:00 +0800
-
-- [Qwen3-Coder火爆全球！阿里千问在知名API平台调用量两天超500亿tokens](https://www.leiphone.com/category/industrynews/s4NnJIWGN87tFYPK.html)
-  - 来源: 雷峰网
-  - 发布时间: Thu, 24 Jul 2025 16:42:00 +0800
-
-- [沙特媒体报道：速卖通AliExpress跃居沙特第二大电商平台](https://www.leiphone.com/category/industrynews/EQUJtEJAmJR6O4Bq.html)
-  - 来源: 雷峰网
-  - 发布时间: Thu, 24 Jul 2025 16:37:00 +0800
-
-- [腾讯云TDSQL蝉联中国金融与银行分布式数据库市场“双料冠军”](https://www.leiphone.com/category/industrynews/A3aXMDaXGLwsE5PG.html)
-  - 来源: 雷峰网
-  - 发布时间: Thu, 24 Jul 2025 10:14:00 +0800
-
-- [阿里Qwen3-Coder开源引发全球AI社区狂欢！HuggingFace CEO 连转带发12条推盛赞](https://www.leiphone.com/category/industrynews/q1vhAfa8RNJhgf9A.html)
-  - 来源: 雷峰网
-  - 发布时间: Thu, 24 Jul 2025 10:10:00 +0800
-
-- [周鸿祎评DeepSeek流量下滑：没花心思，梁文锋一门心思做AGI；影石宣布进军无人机市场；传阿里本周将发布首款自研AI眼镜](https://www.leiphone.com/category/zaobao/IRBH42E1eKTh5eRS.html)
-  - 来源: 雷峰网
-  - 发布时间: Thu, 24 Jul 2025 09:13:00 +0800
-
-- [商汤科技将成立独立的具身智能公司；罗马仕电芯供应商安普瑞斯多位高管变动，公司回应：正常变动；雷军：特斯拉保值率非常不错，这次我们领先了丨雷峰早报](https://www.leiphone.com/category/zaobao/2dF3kWk0TMgPZ89I.html)
-  - 来源: 雷峰网
-  - 发布时间: Wed, 23 Jul 2025 14:47:00 +0800
-
-- [沙特商超巨头Othaim入驻阿里速卖通](https://www.leiphone.com/category/industrynews/UvWzobRad0F8ET6R.html)
-  - 来源: 雷峰网
-  - 发布时间: Wed, 23 Jul 2025 14:16:00 +0800
-
-- [哪吒汽车被曝虚增销量！经销商：厂家说别人都在这么干；黄仁勋：总感觉公司快倒闭了！33年时刻承受压力；京东，一日连投三家机器人企业](https://www.leiphone.com/category/zaobao/eKOuntkQ1fLusjX8.html)
-  - 来源: 雷峰网
-  - 发布时间: Tue, 22 Jul 2025 09:06:00 +0800
-
-- [德国电子产品零售商Ceconomy证实京东潜在收购兴趣，正深入洽谈](https://cn.technode.com/post/2025-07-25/jd-ceconomy/)
-  - 来源: 动点科技
-  - 发布时间: Fri, 25 Jul 2025 05:24:44 +0000
-
-- [京东拟出资约 22 亿欧元洽购德国电商 Ceconomy](https://cn.technode.com/post/2025-07-25/jd-com-is-said-to-near-decision-on-bid-for-germany-s-ceconomy/)
-  - 来源: 动点科技
-  - 发布时间: Fri, 25 Jul 2025 02:36:31 +0000
-
-- [早报｜马斯克：廉价版特斯拉就是 Model Y 简配/大疆扫地机器人官宣/京东回应旗下外卖店入驻其他平台](https://www.ifanr.com/1631803?utm_source=rss&utm_medium=rss&utm_campaign=)
-  - 来源: 爱范儿
-  - 发布时间: Thu, 24 Jul 2025 01:32:10 +0000
-
-- [特斯拉开了家未来餐厅：机器人送来爆米花，我递钱包](https://www.ifanr.com/1631617?utm_source=rss&utm_medium=rss&utm_campaign=)
-  - 来源: 爱范儿
-  - 发布时间: Tue, 22 Jul 2025 08:00:38 +0000
-
-- [早报｜黄仁勋：中国 AI 无论有无英伟达都会进步/摄影师回应小米撞图特斯拉/特斯拉首家餐厅开业](https://www.ifanr.com/1631600?utm_source=rss&utm_medium=rss&utm_campaign=)
-  - 来源: 爱范儿
-  - 发布时间: Tue, 22 Jul 2025 01:47:31 +0000
-
-- [美团王兴：3年狂投30家，中国具身智能最大金主](https://www.tmtpost.com/7637856.html)
-  - 来源: 钛媒体
-  - 发布时间: Fri, 25 Jul 2025 13:53:06 +0800
-
-- [《财富》中国500强中的大宗玩家](https://www.tmtpost.com/7636987.html)
-  - 来源: 钛媒体
-  - 发布时间: Fri, 25 Jul 2025 11:12:45 +0800
-
-- [【钛晨报】治理“内卷式”竞争！价格法拟修订，完善低价倾销认定标准；中金黄金：中国黄金集团内蒙古矿业有限公司已停产；央行今日开展4000亿MLF操作](https://www.tmtpost.com/7637492.html)
-  - 来源: 钛媒体
-  - 发布时间: Fri, 25 Jul 2025 07:20:00 +0800
-
-- [中国 AI 芯片维修需求激增，深圳某商家月修 500 块英伟达高端 GPU](https://www.ithome.com/0/870/686.htm)
-  - 来源: IT之家
-  - 发布时间: Fri, 25 Jul 2025 06:20:06 GMT
-
-- [蚂蚁集团人工智能企业服务总部、西部研发中心落地成都](https://www.ithome.com/0/870/673.htm)
-  - 来源: IT之家
-  - 发布时间: Fri, 25 Jul 2025 05:41:15 GMT
-
-- [讯飞星火 X1 升级版模型宣布上线：整体效果对标 OpenAI o3 等国内外一流大模型](https://www.ithome.com/0/870/672.htm)
-  - 来源: IT之家
-  - 发布时间: Fri, 25 Jul 2025 05:38:15 GMT
-
-- [消息称台积电日本 JASM 第二晶圆厂延至 2029 年上半年投运，推迟 18 个月](https://www.ithome.com/0/870/671.htm)
-  - 来源: IT之家
-  - 发布时间: Fri, 25 Jul 2025 05:37:43 GMT
-
-- [小马智行在北京、广州、深圳三城开启 7×24 全天候自动驾驶测试](https://www.ithome.com/0/870/646.htm)
-  - 来源: IT之家
-  - 发布时间: Fri, 25 Jul 2025 03:44:05 GMT
-
-- [2025《英雄联盟》全球总决赛重返中国：10 月 14 日至 11 月 9 日在北京、上海、成都举行](https://www.ithome.com/0/870/611.htm)
-  - 来源: IT之家
-  - 发布时间: Fri, 25 Jul 2025 01:55:15 GMT
+- [Impact of ferulic and vanillic acids on soluble and insoluble dietary fiber utilization from maize bran by the human gut microbiota](http://pubs.rsc.org/en/Content/ArticleLanding/2025/FO/D5FO00005J)
+  - 来源: RSC - Food Funct.
+
+- [俄这架客机的失事，很不幸在预料之中](https://www.guancha.cn/ZhangZhongZuo/2025_07_25_784238.shtml)
+  - 来源: 观察者网
 
 - [土耳其引进“台风”战斗机，早听中国的就好了](https://www.guancha.cn/YouJinShaoJiang/2025_07_25_784233.shtml)
   - 来源: 观察者网
 
-- [Multimicronutrient and omega-3 fatty acid supplementation reduces low-grade inflammation in older participants: An exploratory study](https://www.sciencedirect.com/science/article/pii/S0271531725000818?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [Higher serum carotenoid concentrations are associated with lower mortality in adults with advanced cardiovascular-kidney-metabolic syndrome](https://www.sciencedirect.com/science/article/pii/S0271531725000788?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [Low dietary intake of marine n-3 fatty acids and seafood significantly contributes to metabolic syndrome burden in China](https://www.sciencedirect.com/science/article/pii/S0271531725000673?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [Metabolic syndrome is associated with increased vitamin C requirements in the US National Health and Nutrition Examination Survey](https://www.sciencedirect.com/science/article/pii/S0271531725000922?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [Dietary total antioxidant capacity and polyphenol intake benefit the inflammatory profile and HDL-C concentrations in individuals with metabolic syndrome](https://www.sciencedirect.com/science/article/pii/S0271531725000703?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [The Brazilian traditional dietary pattern was associated with a lower risk of advanced steatosis in patients with metabolic dysfunction-associated steatotic liver disease](https://www.sciencedirect.com/science/article/pii/S0271531725000661?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [Beneficial changes in total cholesterol, LDL-C, biomarkers of intestinal inflammation, and vitamin E status in adults with metabolic syndrome consuming almonds as snack foods: a randomized controlled clinical trial](https://www.sciencedirect.com/science/article/pii/S0271531725000636?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [Oral vitamin C supplementation decreased low-density lipoprotein in adults on hemodialysis: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0271531724001283?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [Vitamin E is Associated with Inflammatory Biomarkers and Metabolic Syndrome: Insights from a Population Study.](https://www.sciencedirect.com/science/article/pii/S0271531725000879?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Nutrition Research
-
-- [A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain](https://www.sciencedaily.com/releases/2025/05/250528131843.htm)
-  - 来源: Nutrition Research News
-  - 发布时间: Wed, 28 May 2025 13:18:43 EDT
-
-- [Scientists discover key gene impacts liver energy storage, affecting metabolic disease risk](https://www.sciencedaily.com/releases/2025/05/250516165134.htm)
-  - 来源: Nutrition Research News
-  - 发布时间: Fri, 16 May 2025 16:51:34 EDT
-
-- [Influence of maternal metabolism on neonate eating behaviour](https://www.sciencedirect.com/science/article/pii/S0195666325003599?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Appetite
-
-- [The home food environment for children in Northern China](https://www.sciencedirect.com/science/article/pii/S0195666325003289?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Appetite
-
-- [Metabolic profile of healthy, normal-weight adults with low satiety responsiveness](https://www.sciencedirect.com/science/article/pii/S0195666325001849?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Appetite
-
-- [Determinants of minimum dietary diversity attainment among infants aged 6–11 months in rural China: a COM-B model-based Bayesian network analysis](https://www.sciencedirect.com/science/article/pii/S0195666325002971?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Appetite
+- [为什么毛泽东亲自为他执绋抬棺？](https://www.guancha.cn/wanglihua/2025_07_25_784225.shtml)
+  - 来源: 观察者网
 
 - [Dietary diversity and metabolic health among people in Västerbotten, Sweden](https://www.nature.com/articles/s41430-025-01649-3)
   - 来源: European Journal of Clinical Nutrition
@@ -923,111 +1562,17 @@
 - [Efficacy and safety of nutrition therapy for patients undergoing abdominal surgery: a systematic review and network meta-analysis](https://www.nature.com/articles/s41430-025-01637-7)
   - 来源: European Journal of Clinical Nutrition
 
-- [Associations between coexposure to bisphenols mixture and metabolic diseases: based on three statistical models](https://onlinelibrary.wiley.com/doi/10.1002/oby.24327?af=R)
-  - 来源: Wiley: Obesity
-  - 发布时间: Thu, 10 Jul 2025 21:19:38 -0700
-
-- [Prepregnancy GLP‐1RA use improves maternal lipid metabolism via liver‐secreted FGF21 during pregnancy in HFD‐fed dams](https://onlinelibrary.wiley.com/doi/10.1002/oby.24328?af=R)
-  - 来源: Wiley: Obesity
-  - 发布时间: Wed, 09 Jul 2025 21:49:50 -0700
-
-- [Spatial–temporal analysis and spatial drivers of childhood obesity in China from 1985 to 2019](https://onlinelibrary.wiley.com/doi/10.1002/oby.24303?af=R)
-  - 来源: Wiley: Obesity
-  - 发布时间: Tue, 01 Jul 2025 00:00:00 -0700
-
-- [Association of tirzepatide with cardiometabolic benefits in Chinese adults: post hoc subgroup analysis of SURMOUNT‐CN study](https://onlinelibrary.wiley.com/doi/10.1002/oby.24306?af=R)
-  - 来源: Wiley: Obesity
-  - 发布时间: Tue, 01 Jul 2025 00:00:00 -0700
-
-- [Metabolic clearance rate of insulin across the glucose tolerance spectrum by race and ethnicity in youth with obesity](https://onlinelibrary.wiley.com/doi/10.1002/oby.24317?af=R)
-  - 来源: Wiley: Obesity
-  - 发布时间: Tue, 01 Jul 2025 00:00:00 -0700
-
-- [Genetic and environmental contributions to the associations between midlife personality and late‐life metabolic health](https://onlinelibrary.wiley.com/doi/10.1002/oby.24268?af=R)
-  - 来源: Wiley: Obesity
-  - 发布时间: Thu, 01 May 2025 00:00:00 -0700
-
-- [Nutrients, Vol. 17, Pages 2415: Iodized Salt Coverage and Influencing Factors in Chinese Out-of-Home Dining Venues: A Large Cross-Sectional Study from 31 Provinces of China](https://www.mdpi.com/2072-6643/17/15/2415)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-24
-
-- [Nutrients, Vol. 17, Pages 2413: Effects of Leucine Supplementation in Older Adults with Sarcopenia: A Meta-Analysis](https://www.mdpi.com/2072-6643/17/15/2413)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-24
-
-- [Nutrients, Vol. 17, Pages 2410: Serum 25-Hydroxyvitamin D Is Decreased with Metabolic Syndrome Following Anterior Cruciate Ligament Reconstruction](https://www.mdpi.com/2072-6643/17/15/2410)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-24
-
-- [Nutrients, Vol. 17, Pages 2392: Comparative Effectiveness of Exercise, Protein Supplementation, and Combined Interventions for Sarcopenia Management in Women: A Network Meta-Analysis](https://www.mdpi.com/2072-6643/17/15/2392)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-22
-
-- [Nutrients, Vol. 17, Pages 2388: The Effects of Intermittent Fasting on Inflammatory Markers in Adults: A Systematic Review and Pairwise and Network Meta-Analyses](https://www.mdpi.com/2072-6643/17/15/2388)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-22
-
-- [Nutrients, Vol. 17, Pages 2376: Reply to Trexler, E.T. Common Errors in Sports Nutrition Meta-Analyses Lead to Distortion of Pooled Effect Estimates. Comment on &ldquo;Viribay et al. Effects of Arginine Supplementation on Athletic Performance Based on Energy Metabolism: A Systematic Review and Meta-Analysis. Nutrients 2020, 12, 1300&rdquo;](https://www.mdpi.com/2072-6643/17/14/2376)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-21
-
-- [Nutrients, Vol. 17, Pages 2375: Common Errors in Sports Nutrition Meta-Analyses Lead to Distortion of Pooled Effect Estimates. Comment on Viribay et al. Effects of Arginine Supplementation on Athletic Performance Based on Energy Metabolism: A Systematic Review and Meta-Analysis. Nutrients 2020, 12, 1300](https://www.mdpi.com/2072-6643/17/14/2375)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-21
-
-- [Nutrients, Vol. 17, Pages 2374: The Visceral Adiposity Index and Its Usefulness in the Prediction of Cardiometabolic Disorders](https://www.mdpi.com/2072-6643/17/14/2374)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-20
-
-- [Nutrients, Vol. 17, Pages 2371: A Randomized Double-Blind Trial of the Effect of Liupao Tea on Metabolic Parameters, Body Composition, and Gut Microbiota in Adults with Metabolic Syndrome](https://www.mdpi.com/2072-6643/17/14/2371)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-19
-
-- [Nutrients, Vol. 17, Pages 2367: Orchestrating Nutrient Homeostasis: RNA-Binding Proteins as Molecular Conductors in Metabolic Disease Pathogenesis](https://www.mdpi.com/2072-6643/17/14/2367)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-19
-
-- [Nutrients, Vol. 17, Pages 2364: Mediterranean Diet and Metabolic Syndrome](https://www.mdpi.com/2072-6643/17/14/2364)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-18
-
-- [Nutrients, Vol. 17, Pages 2363: Systemic and Retinal Protective Effects of Butyrate in Early Type 2 Diabetes via Gut Microbiota&ndash;Lipid Metabolism Interaction](https://www.mdpi.com/2072-6643/17/14/2363)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-18
-
-- [Nutrients, Vol. 17, Pages 2342: Exercise and Nutrition for Sarcopenia: A Systematic Review and Meta-Analysis with Subgroup Analysis by Population Characteristics](https://www.mdpi.com/2072-6643/17/14/2342)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-17
-
-- [Nutrients, Vol. 17, Pages 2338: Micronutrient Deficiencies and Determinants Among Pregnant Women and Children in Nigeria: Systematic Review and Meta-Analysis](https://www.mdpi.com/2072-6643/17/14/2338)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-17
-
-- [Nutrients, Vol. 17, Pages 2335: Consumption of Barley, Buckwheat and Quinoa in the United States: Associations with Diet and Metabolic Health](https://www.mdpi.com/2072-6643/17/14/2335)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-17
-
-- [Nutrients, Vol. 17, Pages 2331: Lifestyle Intervention Improves Metabolic Dysfunction-Associated Steatotic Liver Disease in Children with Down Syndrome](https://www.mdpi.com/2072-6643/17/14/2331)
-  - 来源: Nutrients
-  - 发布时间: 2025-07-16
-
-- [Unraveling the complexities of diet induced obesity and glucolipid dysfunction in metabolic syndrome](https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-025-01837-y)
-  - 来源: Diabetology & Metabolic Syndrome
-  - 发布时间: Tue, 22 Jul 2025 00:00:00 GMT
-
-- [Effects of concurrent continuous aerobic and short rest resistance exercise training on metabolic biomarkers in type 2 diabetes patients: a systematic review and meta-analysis](https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-025-01838-x)
-  - 来源: Diabetology & Metabolic Syndrome
-  - 发布时间: Mon, 21 Jul 2025 00:00:00 GMT
-
-- [Creatine ameliorates the adverse effects of high-fat diet on hepatic lipid metabolism, intestinal health, muscle growth and flesh quality in juvenile largemouth bass (Micropterus salmoides)](https://dx.doi.org/10.1017/S0007114525000315?rft_dat=source%3Ddrss)
+- [Metabolomics profiling of hypervitaminosis A in South African preschoolers is characterised by modified serum lysophospholipids and oxylipins](https://dx.doi.org/10.1017/S0007114525103656?rft_dat=source%3Ddrss)
   - 来源: British Journal of Nutrition
 
-- [Mental health and health-related quality of life response to curcumin-probiotic drink powder co-supplementation in adults with overweight/obesity and metabolic syndrome: a four-arm randomised, double-blind, placebo-controlled, clinical trial](https://dx.doi.org/10.1017/S0007114525000923?rft_dat=source%3Ddrss)
+- [Diet’s total antioxidant capacity and women’s health: systematic review and meta-analysis](https://dx.doi.org/10.1017/S0007114525000443?rft_dat=source%3Ddrss)
   - 来源: British Journal of Nutrition
 
-- [Vitamin A, C and/or E Intake During Pregnancy and Offspring Respiratory Health: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1111/jhn.70086?af=R)
-  - 来源: Journal of Human Nutrition and Dietetics
-  - 发布时间: Wed, 02 Jul 2025 21:23:45 -0700
+- [Comment on ‘Diet’s total antioxidant capacity and women’s health: systematic review and meta-analysis’](https://dx.doi.org/10.1017/S0007114525103632?rft_dat=source%3Ddrss)
+  - 来源: British Journal of Nutrition
+
+- [Reply to ‘Comment on “Diet’s total antioxidant capacity and women’s health: systematic review and meta-analysis”’](https://dx.doi.org/10.1017/S0007114525103644?rft_dat=source%3Ddrss)
+  - 来源: British Journal of Nutrition
 
 - [Interactions among nutrition, metabolism and the immune system in the context of starvation and nutrition-stimulated obesity](https://www.nature.com/articles/s41387-025-00383-w)
   - 来源: Nutrition & Diabetes
@@ -1035,13 +1580,8 @@
 - [Dietary protein and risk of type 2 diabetes: findings from a registry-based cohort study and a meta-analysis of prospective cohort studies](https://www.nature.com/articles/s41387-025-00380-z)
   - 来源: Nutrition & Diabetes
 
-- [Parents' metabolic traits can affect the child's health over time](https://www.sciencedaily.com/releases/2025/04/250408121706.htm)
-  - 来源: Obesity News
-  - 发布时间: Tue, 08 Apr 2025 12:17:06 EDT
-
-- [How to trick the body's metabolism](https://www.sciencedaily.com/releases/2025/03/250303141253.htm)
-  - 来源: Obesity News
-  - 发布时间: Mon, 03 Mar 2025 14:12:53 EST
+- [Prospective associations of breastfeeding parents’ postpartum dietary intake with infant gut microbiome at 6 months in the Pregnancy Eating Attributes Study](https://www.jandonline.org/article/S2212-2672(25)00530-1/fulltext?rss=yes)
+  - 来源: Journal of the Academy of Nutrition and Dietetics
 
 - [Impact of Resveratrol Supplementation on Human Sirtuin 1: A Grading of Recommendations Assessment, Development and Evaluation–Assessed Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials](https://www.jandonline.org/article/S2212-2672(25)00114-5/fulltext?rss=yes)
   - 来源: Journal of the Academy of Nutrition and Dietetics
@@ -1052,13 +1592,8 @@
 - [WITHDRAWN: Is ChatGPT Really Helpful for Nutrition and Dietetics?](https://www.jandonline.org/article/S2212-2672(23)01593-9/fulltext?rss=yes)
   - 来源: Journal of the Academy of Nutrition and Dietetics
 
-- [Comparison of treatment patterns, efficacy and safety between generic and branded atorvastatin users in China: a multicenter, retrospective propensity score-matched cohort study](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-025-02673-9)
-  - 来源: Lipids in Health and Disease
-  - 发布时间: Tue, 22 Jul 2025 00:00:00 GMT
-
-- [The association of dietary fat intake before and during pregnancy with the risk of gestational diabetes mellitus and impaired glucose intolerance: a systematic review and dose–response meta-analysis on observational investigations](https://nutritionj.biomedcentral.com/articles/10.1186/s12937-025-01186-6)
-  - 来源: Nutrition Journal
-  - 发布时间: Tue, 22 Jul 2025 00:00:00 GMT
+- [Sex-specific association of serum phospholipid very-long-chain saturated fatty acids with cognitive performance among elderly adults](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00192-X/fulltext?rss=yes)
+  - 来源: Clinical Nutrition
 
 - [ASSOCIATION BETWEEN BODY COMPOSITION, EATING BEHAVIOR, DIETARY INTAKE, AND METABOLIC DYSFUNCTION-ASSOCIATED STEATOTIC LIVER DISEASE IN LIVER TRANSPLANT RECIPIENTS](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00190-6/fulltext?rss=yes)
   - 来源: Clinical Nutrition
@@ -1072,10 +1607,16 @@
 - [Plasma kynurenine pathway metabolites in association with diabetes: A cross-sectional study](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00179-7/fulltext?rss=yes)
   - 来源: Clinical Nutrition
 
+- [Thank you, Mick](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00166-9/fulltext?rss=yes)
+  - 来源: Clinical Nutrition
+
 - [The effects of Mediterranean diet with and without exercise on body composition in adults with chronic disease: A systematic review and meta-analysis of clinical trials](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00173-6/fulltext?rss=yes)
   - 来源: Clinical Nutrition
 
 - [Characterization of metabolomic associated with pancreatic cancer patients with overweight and obesity](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00169-4/fulltext?rss=yes)
+  - 来源: Clinical Nutrition
+
+- [Strategic carbohydrate feeding improves performance in ketogenic trained athletes](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00170-0/fulltext?rss=yes)
   - 来源: Clinical Nutrition
 
 - [The anti-tumour role of ketogenic diet based on energy metabolism](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00160-8/fulltext?rss=yes)
@@ -1096,145 +1637,51 @@
 - [Systematic review and meta-analysis of randomized controlled trials on pre-, pro-, post- and synbiotic supplementation in follow-on formula](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00150-5/fulltext?rss=yes)
   - 来源: Clinical Nutrition
 
-- [Gut microbiota in patients with metabolic, dysfunction-associated steatotic liver disease](https://journals.lww.com/co-clinicalnutrition/fulltext/2025/07000/gut_microbiota_in_patients_with_metabolic,.4.aspx)
-  - 来源: Current Opinion in Clinical Nutrition & Metabolic Care
-  - 发布时间: Wed, 23 Apr 2025 00:00:00 GMT-05:00
-
-- [The effects of terpenes on metabolism: a comprehensive review on recent updates](https://journals.lww.com/co-clinicalnutrition/fulltext/2025/07000/the_effects_of_terpenes_on_metabolism__a.6.aspx)
-  - 来源: Current Opinion in Clinical Nutrition & Metabolic Care
-  - 发布时间: Tue, 29 Apr 2025 00:00:00 GMT-05:00
-
-- [The effectiveness and safety of specific dietary supplements in modulating uric acid levels, oxidative stress, and lipid metabolism in patients: a network meta-analysis of 13 interventions](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-025-00977-2)
-  - 来源: Nutrition & Metabolism
-  - 发布时间: Wed, 23 Jul 2025 00:00:00 GMT
-
-- [Omega-3 supplementation and cardiometabolic risk factors in obese/overweight children and adolescents: a GRADE assessed systematic review and meta-analysis](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-025-00952-x)
-  - 来源: Nutrition & Metabolism
-  - 发布时间: Thu, 17 Jul 2025 00:00:00 GMT
+- [Effect of aerobic or resistance exercise, or both on insulin secretion, ciliary neurotrophic factor, and insulin-like growth factor-1 in dieting older adults with obesity](https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00144-X/fulltext?rss=yes)
+  - 来源: Clinical Nutrition
 
 - [Sleep deprivation in development of obesity, effects on appetite regulation, energy metabolism, and dietary choices](https://dx.doi.org/10.1017/S0954422423000264?rft_dat=source%3Ddrss)
+  - 来源: Nutrition Research Reviews
+
+- [Nutritional considerations in major depressive disorder: current evidence and functional testing for clinical practice](https://dx.doi.org/10.1017/S0954422423000276?rft_dat=source%3Ddrss)
   - 来源: Nutrition Research Reviews
 
 - [Effect of tomato, tomato-derived products and lycopene on metabolic inflammation: from epidemiological data to molecular mechanisms](https://dx.doi.org/10.1017/S095442242300029X?rft_dat=source%3Ddrss)
   - 来源: Nutrition Research Reviews
 
+- [Emerging evidence on selenoneine and its public health relevance in coastal populations: a review and case study of dietary Se among Inuit populations in the Canadian Arctic](https://dx.doi.org/10.1017/S0954422424000039?rft_dat=source%3Ddrss)
+  - 来源: Nutrition Research Reviews
+
 - [Effect of vegetable consumption on risk of gastric cancer: a systematic review and multi-level meta-analysis of prospective studies](https://dx.doi.org/10.1017/S0954422424000040?rft_dat=source%3Ddrss)
+  - 来源: Nutrition Research Reviews
+
+- [Impact of dietary carbohydrate, fat or protein restriction on the human gut microbiome: a systematic review](https://dx.doi.org/10.1017/S0954422424000131?rft_dat=source%3Ddrss)
   - 来源: Nutrition Research Reviews
 
 - [Ceramides as the molecular link between impaired lipid metabolism, saturated fatty acid intake and insulin resistance: are all saturated fatty acids to be blamed for ceramide-mediated lipotoxicity?](https://dx.doi.org/10.1017/S0954422424000179?rft_dat=source%3Ddrss)
   - 来源: Nutrition Research Reviews
 
+- [The influence of zinc levels on osteoarthritis: A comprehensive review](https://dx.doi.org/10.1017/S0954422424000234?rft_dat=source%3Ddrss)
+  - 来源: Nutrition Research Reviews
+
+- [Nutrition and health effects of pectin: A systematic scoping review of human intervention studies](https://dx.doi.org/10.1017/S0954422424000180?rft_dat=source%3Ddrss)
+  - 来源: Nutrition Research Reviews
+
+- [Review of the facilitators and barriers to adoption of biofortified foods and food products](https://dx.doi.org/10.1017/S0954422424000258?rft_dat=source%3Ddrss)
+  - 来源: Nutrition Research Reviews
+
 - [Impact of coffee-derived chlorogenic acid on cognition: a systematic review and meta-analysis](https://dx.doi.org/10.1017/S0954422424000209?rft_dat=source%3Ddrss)
   - 来源: Nutrition Research Reviews
 
-- [Dual roles of tannins as polyphenols and metal complexing agents in the prevention and treatment of Alzheimer's disease: Exploring the potential of dietary interventions](https://www.sciencedirect.com/science/article/pii/S0924224425003139?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Trends in Food Science & Technology
+- [New Guidance for Identifying and Risk-Stratifying Patients with MASLD](https://www.jwatch.org/na58957/2025/07/15/new-guidance-identifying-and-risk-stratifying-patients)
+  - 来源: NEJM Journal Watch: Nutrition Obesity
 
-- [From berry to benefit: Harnessing the bioactive properties of red raspberries for combatting metabolic syndrome](https://www.sciencedirect.com/science/article/pii/S0924224425002420?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Trends in Food Science & Technology
-
-- [Metal-organic frameworks-based photoelectrochemical Biosensors: From material design to intelligent detection](https://www.sciencedirect.com/science/article/pii/S0924224425002390?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Trends in Food Science & Technology
-
-- [Deciphering cheese taste formation: Core microorganisms, enzymatic catalysis, and metabolic mechanisms](https://www.sciencedirect.com/science/article/pii/S0924224425002250?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Trends in Food Science & Technology
-
-- [Plasma kynurenine pathway metabolites in association with diabetes: A cross-sectional study](https://www.sciencedirect.com/science/article/pii/S0261561425001797?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [Characterization of metabolomic associated with pancreatic cancer patients with overweight and obesity](https://www.sciencedirect.com/science/article/pii/S0261561425001694?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [Functional food lycopene mitigates obesity-related cognitive decline via lipid metabolism regulation and neuroprotection via taurine and glutathione pathway](https://www.sciencedirect.com/science/article/pii/S0261561425001591?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [Activating nuclear receptor subfamily 2 group F member 2 in adipocyte stem cells rescues beige adipocyte metabolism impaired by excess early-life omega-6 fatty acids](https://www.sciencedirect.com/science/article/pii/S0261561425001578?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [The effects of Mediterranean diet with and without exercise on body composition in adults with chronic disease: A systematic review and meta-analysis of clinical trials](https://www.sciencedirect.com/science/article/pii/S0261561425001736?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [Systematic review and meta-analysis of randomized controlled trials on pre-, pro-, post- and synbiotic supplementation in follow-on formula](https://www.sciencedirect.com/science/article/pii/S0261561425001505?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [Standard continuous feeding versus intermittent feeding among mechanically ventilated patients in intensive care: A systematic review and meta-analysis of randomized controlled trials](https://www.sciencedirect.com/science/article/pii/S0261561425001529?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [Impact of nutritional status on the mortality and clinical outcomes of children admitted to the pediatric intensive care unit: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0261561425001566?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [The impact of <em>Bifidobacterium breve</em> BBr60 (BBr60) on metabolic and gastrointestinal health in healthy adults: A combined in vitro metabolomic and randomized, double-blind, placebo-controlled study](https://www.sciencedirect.com/science/article/pii/S0261561425001803?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [The anti-tumour role of ketogenic diet based on energy metabolism](https://www.sciencedirect.com/science/article/pii/S0261561425001608?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [ASSOCIATION BETWEEN BODY COMPOSITION, EATING BEHAVIOR, DIETARY INTAKE, AND METABOLIC DYSFUNCTION-ASSOCIATED STEATOTIC LIVER DISEASE IN LIVER TRANSPLANT RECIPIENTS](https://www.sciencedirect.com/science/article/pii/S0261561425001906?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
-
-- [Characterising the diversity of plant-based food and beverage consumption in adults, and exploring associations with cardiometabolic health outcomes: a cross-sectional study](https://www.sciencedirect.com/science/article/pii/S0261561425001876?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Clinical Nutrition
+- [How Effective Is Intermittent Fasting for Weight Loss?](https://www.jwatch.org/na58915/2025/07/02/how-effective-intermittent-fasting-weight-loss)
+  - 来源: NEJM Journal Watch: Nutrition Obesity
 
 - [Is Metabolic Syndrome Associated with Young-Onset Dementia?](https://www.jwatch.org/na58770/2025/06/05/metabolic-syndrome-associated-with-young-onset-dementia)
   - 来源: NEJM Journal Watch: Nutrition Obesity
 
-- [Leucine and glutamic acid attenuate the dextran sulfate sodium-induced colitis in mice by modulating the inflammatory response and energy metabolism processes](https://www.sciencedirect.com/science/article/pii/S0955286325001792?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Myo-inositol supplementation in diet-induced obese lactating rats mitigates metabolic dysregulation and improves offspring health in early life](https://www.sciencedirect.com/science/article/pii/S0955286325001755?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Untargeted metabolomics reveals the mechanisms of luteolin and exercise combination treatment against cognitive impairments in AD mice through modulating autophagy](https://www.sciencedirect.com/science/article/pii/S0955286325001743?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [AMPK-mediated energy metabolism disorders are associated with impaired type IIB muscle fiber regeneration in broiler chickens with wooden breast myopathy](https://www.sciencedirect.com/science/article/pii/S095528632500172X?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Role of vitamin D and omega 3 fatty acids in improving HDL biogenesis among multiple sclerosis patients via orchestrating CHROME/APOA1-AS/ABCA1/APOA1 milieu](https://www.sciencedirect.com/science/article/pii/S0955286325001706?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [The impact of pasture-fed <em>versus</em> total mixed ration derived whole milk powder (WMP) on circulating fatty acid concentrations and cardiometabolic health in healthy adults: Results from a randomized controlled crossover trial](https://www.sciencedirect.com/science/article/pii/S0955286325001676?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Insufficient iodine intake based on 24-h urinary iodine excretion leads to significant metabolic changes in pregnant women at early stages of pregnancy](https://www.sciencedirect.com/science/article/pii/S0955286325001585?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Microbial–purine metabolic crosstalk regulates colitis-related intestinal fibrosis: A multiomics and cohort analysis approach](https://www.sciencedirect.com/science/article/pii/S0955286325001470?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Resveratrol protection against cardiac remodeling and ischemia-reperfusion injury associated with hepatic lipid metabolism ameliorations and adipose tissue autotaxin pathway inhibition in a diet induced prediabetic female rat model](https://www.sciencedirect.com/science/article/pii/S095528632500155X?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Differences in mature human milk metabolic profiles based on delivery mode and parity](https://www.sciencedirect.com/science/article/pii/S0955286325001305?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Exploring the crosstalk between gut microbiota and stool metabolome in omnivorous, vegetarian, and vegan diets: A pilot study](https://www.sciencedirect.com/science/article/pii/S0955286325001287?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Network pharmacology and transcriptomics reveal complanatoside A regulates lipid metabolism in hyperlipidemia and nonalcoholic fatty liver disease via the AMPK pathway](https://www.sciencedirect.com/science/article/pii/S0955286325001238?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Dietary cannabidiol oil mitigates metabolic dysfunction in mice with high-fat diet-induced obesity](https://www.sciencedirect.com/science/article/pii/S0955286325002037?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Tetrahydrocurcumin ameliorates metabolic disorders associated with obesity by regulating gut microbiota homeostasis](https://www.sciencedirect.com/science/article/pii/S0955286325001974?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Multi-omics analyses revealed the distinct effects of calorie restriction diets with different fat-to-energy ratios on body weight and glycolipid metabolism in rats](https://www.sciencedirect.com/science/article/pii/S0955286325001895?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Dietary supplementation with eugenol modulates lipid metabolism in finishing pigs through the TRPV1/AMPK signaling pathway](https://www.sciencedirect.com/science/article/pii/S0955286325001901?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Early postnatal overnutrition as a contributor to metabolic dysregulation: insights into hepatic epigenetic mechanisms](https://www.sciencedirect.com/science/article/pii/S0955286325001858?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Calycosin-7-O-β-D-glucoside alleviates non-alcoholic fatty liver disease by regulating short-chain fatty acids metabolism and metabolic regulators](https://www.sciencedirect.com/science/article/pii/S0955286325001810?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Impact of infant nutrition on gut and brain nitrogenous metabolomes: Comparison of human milk and infant formula feeding in the minipiglet model](https://www.sciencedirect.com/science/article/pii/S0955286325001780?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
-
-- [Cannabidiol and sphingolipid metabolism – an unexplored link offering a novel therapeutic approach against high-fat diet-induced hepatic insulin resistance.](https://www.sciencedirect.com/science/article/pii/S0955286325000282?dgcid=rss_sd_all)
-  - 来源: ScienceDirect: Journal of Nutritional Biochemistry
+- [Does Vitamin D Lower Risk for Acute Respiratory Infections?](https://www.jwatch.org/na58739/2025/05/06/does-vitamin-d-lower-risk-acute-respiratory-infections)
+  - 来源: NEJM Journal Watch: Nutrition Obesity
 

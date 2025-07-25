@@ -1,0 +1,1598 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>小众软件官方论坛 - 最新话题</title>
+    <link>https://meta.appinn.net/latest</link>
+    <description>最新话题</description>
+    
+      <lastBuildDate>Fri, 25 Jul 2025 07:46:46 +0000</lastBuildDate>
+      <atom:link href="https://meta.appinn.net/latest.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>CasaOS - 您的个人云？不，你的傻瓜式 Docker 安装器。自带应用市场，可一键安装 135 个开源项目</title>
+          <dc:creator><![CDATA[Qingwa]]></dc:creator>
+          <category>青蛙的应用</category>
+          <description><![CDATA[
+            <p><small>原始链接在：			<a href="https://www.appinn.com/casaos/" class="inline-onebox">CasaOS - 您的个人云？不，你的傻瓜式 Docker 安装器。自带应用市场，可一键安装 135 个开源项目 - 小众软件</a><br>
+</small><br></p>
+
+<p>对于不愿意折腾的同学，根本不想自己搭建开源项目。</p>
+
+
+<p>但如果有一个项目，它像一个完整的操作系统，有漂亮的界面，有应用商店，能一键搭建诸如 Calibre、Dify、Emby、handbrake、Home、Assistant、Jellfin、Komga、n8n、Nextcloud、Ollama、Plex、qBittorrent、Syncthing、Vaultwarden、Wallabag 这样的开源项目，有没有感兴趣一点点？</p>
+
+
+<p>差不多有 135 个开源项目！</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Copy-of-appinn-homework-2025-07-25T153948.507.jpg" alt="" width="700" height="304">
+
+
+<h2>CasaOS</h2>
+
+
+<p>CasaOS 就是这样的一个项目，只需要先在你的小主机、旧电脑、NAS、树莓派、Linux 虚拟机等机器上安装（一行命令）：</p>
+
+
+<pre>curl -fsSL https://get.casaos.io | sudo bash</pre>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725143523@2x.avif" alt="" width="" height="">
+
+
+<p>如果和青小蛙一样碰到网络问题，会这样：</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725145948@2x.avif" alt="" width="700" height="402">
+
+
+<p>如果没有碰到网络问题，就能获得这样一个神奇的界面：</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725144305@2x.avif" alt="" width="682" height="500">
+
+
+<p>这是官网提供的 DEMO 页面，任何人都可以直接尝试：</p>
+
+
+<ul>
+<li><a href="http://demo.casaos.io/">http://demo.casaos.io/</a></li>
+
+
+<li>用户名：<code>casaos</code></li>
+
+
+<li>密码：<code>casaos</code></li>
+</ul>
+
+
+<p>在安装成功之后，你也会得到这样一个页面，并且可以在左上角的设置图标中，修改页面语言为简体中文：</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725150422@2x.avif" alt="" width="417" height="500">
+
+
+<p>然后，就可以正常使用了。</p>
+
+
+<h2>一个例子：安装 Immich</h2>
+
+
+<p>点击 App Store 进入应用商店，一眼就能看到 <a href="https://www.appinn.com/immich/" data-type="post" data-id="44708">Immich</a>，这是一个自托管的相册服务，青小蛙介绍古哦：</p>
+
+
+<ul>
+<li><a href="https://www.appinn.com/immich/" data-type="post" data-id="44708">Immich – 开源自托管的手机照片备份工具[iPhone/Android]</a></li>
+</ul>
+
+
+<p>它可以帮你自动备份手机中的照片到服务器中，并且有 AI 功能，非常的赞。</p>
+
+
+<p>回到 CasaOS，只需点击 Immich 的安装按钮：</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725151023@2x.avif" alt="" width="700" height="344">
+
+
+<p>就开始安装了。并且非常干脆，真一键安装：</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725151427@2x.avif" alt="" width="700" height="320">
+
+
+<p>很快就可以在 App 区域看到 Immich 了，点它：</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725151609@2x.avif" alt="" width="664" height="499">
+
+
+<p>就好了！</p>
+
+
+<p>好了！</p>
+
+
+<p>了！</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725151706@2x.avif" alt="" width="700" height="489">
+
+
+<p>这大概是青小蛙见过的最简单的安装方式了...</p>
+
+
+<p>你可以用这种方法，安装大概130多种开源工具。</p>
+
+
+<h2>高级用户</h2>
+
+
+<p>对于不在应用商店中的项目，只要是支持 Docker（或者高级用户自己创建镜像），都可以。</p>
+
+
+<p>同样是在应用商店中，只需要<code>自定义安装</code>，就可以了：</p>
+
+
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250725152053@2x.avif" alt="" width="481" height="500">
+
+
+<p>让 Docker 脱离命令行，就这么简单。</p>
+
+
+<p>并且有一个管理页面，再也不需要一个一个记忆地址了。</p>
+
+
+<p>真·方便。</p>
+
+
+<h2>获取</h2>
+
+
+<ul>
+<li><a href="https://casaos.zimaspace.com/">官网</a></li>
+</ul>
+
+
+<hr>
+
+
+<p>原文：https://www.appinn.com/casaos/</p>
+            <p><small>7 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73634">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73634</link>
+          <pubDate>Fri, 25 Jul 2025 07:46:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73634</guid>
+          <source url="https://meta.appinn.net/t/topic/73634.rss">CasaOS - 您的个人云？不，你的傻瓜式 Docker 安装器。自带应用市场，可一键安装 135 个开源项目</source>
+        </item>
+        <item>
+          <title>本周Epic免费游戏领取</title>
+          <dc:creator><![CDATA[Fiend_FEARing]]></dc:creator>
+          <category>讨论分享</category>
+          <description><![CDATA[
+            <p>1、<a href="https://store.epicgames.com/purchase?offers=1-07feb5c4405041818a1f13d6816da51b-3a10cce696ef4d79ba908d383b3ce954&amp;offers=1-07feb5c4405041818a1f13d6816da51b-998844f9ffdb4317b12c6ebd52254673" rel="noopener nofollow ugc">Doodle Mafia: Epic Alchemy（iOS和Android平台）</a><br>
+2、<a href="https://store.epicgames.com/zh-CN/p/legion-td-2-a244b9" rel="noopener nofollow ugc">Legion TD 2（PC）</a><br>
+截止时间都是7月31日 23:00<br>
+手机平台游戏下单后不会有成功提示，可以查看<a href="https://www.epicgames.com/account/transactions?productName=egs" rel="noopener nofollow ugc">订单记录</a>进行确认</p>
+<p>这两个游戏的Steam页面供参考：</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://store.steampowered.com/app/598940/Doodle_Mafia/">
+  <header class="source">
+      <img src="https://store.steampowered.com/favicon.ico" class="site-icon" alt="" width="256" height="256">
+
+      <a href="https://store.steampowered.com/app/598940/Doodle_Mafia/" target="_blank" rel="noopener nofollow ugc">store.steampowered.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:616/353;"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/598940/capsule_616x353.jpg?t=1738059311" class="thumbnail" alt="" width="616" height="353"></div>
+
+<h3><a href="https://store.steampowered.com/app/598940/Doodle_Mafia/" target="_blank" rel="noopener nofollow ugc">Steam 上的 Doodle Mafia</a></h3>
+
+  <p>犯罪一定会付出代价！ 随着游戏的深入，你的犯罪之都将会发展壮大！ Doodle Mafia 是史上最大型的“涂鸦”游戏！超过 500 个谜题等你解决，众多物品等你创造。在游戏中，你可以扮演犯罪头目或警察。游戏如何进行，完全由你做主。在游戏中，你将在多条游戏主线和模式中游玩。</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://store.steampowered.com/app/469600/2__Legion_TD_2/">
+  <header class="source">
+      <img src="https://store.steampowered.com/favicon.ico" class="site-icon" alt="" width="256" height="256">
+
+      <a href="https://store.steampowered.com/app/469600/2__Legion_TD_2/" target="_blank" rel="noopener nofollow ugc">store.steampowered.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:616/353;"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/469600/capsule_616x353.jpg?t=1741363845" class="thumbnail" alt="" width="616" height="353"></div>
+
+<h3><a href="https://store.steampowered.com/app/469600/2__Legion_TD_2/" target="_blank" rel="noopener nofollow ugc">在 Steam 上购买 军团战争2 / Legion TD 2 立省 65%</a></h3>
+
+  <p>拥有无限重玩性的单人以及多人塔防游戏。在潮水般的怪物中抢先于对手之前击败敌方的国王。军团战争2是一款集战略，团队性，预判为一体，独一无二的游戏。可以1-8人游玩</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>4 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73630">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73630</link>
+          <pubDate>Fri, 25 Jul 2025 05:07:58 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73630</guid>
+          <source url="https://meta.appinn.net/t/topic/73630.rss">本周Epic免费游戏领取</source>
+        </item>
+        <item>
+          <title>N8n 工作流程集合: 2,000 多个工作流程</title>
+          <dc:creator><![CDATA[Qingwa]]></dc:creator>
+          <category>青蛙的分享</category>
+          <description><![CDATA[
+            <aside class="onebox githubrepo" data-onebox-src="https://github.com/Zie619/n8n-workflows">
+  <header class="source">
+
+      <a href="https://github.com/Zie619/n8n-workflows" target="_blank" rel="noopener">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+  <img width="695" height="347" src="https://opengraph.githubassets.com/1332dd726abf753c69dd66688fc5ea2f/Zie619/n8n-workflows" class="thumbnail">
+
+  <h3><a href="https://github.com/Zie619/n8n-workflows" target="_blank" rel="noopener">GitHub - Zie619/n8n-workflows: all of the workflows of n8n i could find (also...</a></h3>
+
+    <p><span class="github-repo-description">all of the workflows of n8n i could find (also from the site itself)</span></p>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<h2><a name="p-274271-workflow-collection-1" class="anchor" href="https://meta.appinn.net#p-274271-workflow-collection-1"></a>Workflow Collection 工作流集合</h2>
+<ul>
+<li><strong>2,053 个工作流程</strong> ，具有有意义且可搜索的名称</li>
+<li>跨流行平台的 <strong>365 种独特集成</strong></li>
+<li><strong>总共 29,445 个节点</strong> ，按专业分类</li>
+<li><strong>质量保证</strong> ——所有工作流程都经过分析和分类</li>
+</ul>
+<h2><a name="p-274271-h-2" class="anchor" href="https://meta.appinn.net#p-274271-h-2"></a>特色：</h2>
+<ul>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/high_voltage.png?v=14" title=":high_voltage:" class="emoji" alt=":high_voltage:" loading="lazy" width="20" height="20"> <strong>小于100毫秒响应时间</strong>，基于 SQLite FTS5 实现的搜索</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=14" title=":magnifying_glass_tilted_left:" class="emoji" alt=":magnifying_glass_tilted_left:" loading="lazy" width="20" height="20"> <strong>即时全文检索</strong>，并支持高级过滤</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/mobile_phone.png?v=14" title=":mobile_phone:" class="emoji" alt=":mobile_phone:" loading="lazy" width="20" height="20"> <strong>响应式设计</strong>，完美适配移动端</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/crescent_moon.png?v=14" title=":crescent_moon:" class="emoji" alt=":crescent_moon:" loading="lazy" width="20" height="20"> <strong>深色/浅色主题</strong>，自动检测系统偏好</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/bar_chart.png?v=14" title=":bar_chart:" class="emoji" alt=":bar_chart:" loading="lazy" width="20" height="20"> <strong>实时统计数据</strong>，包含 365 个独特集成和 29,445 个总节点</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/bullseye.png?v=14" title=":bullseye:" class="emoji" alt=":bullseye:" loading="lazy" width="20" height="20"> <strong>按触发类型与复杂度智能分类</strong></li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/bullseye.png?v=14" title=":bullseye:" class="emoji" alt=":bullseye:" loading="lazy" width="20" height="20"> <strong>按服务名称进行实际用例分类，并映射到对应类别</strong></li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/page_facing_up.png?v=14" title=":page_facing_up:" class="emoji" alt=":page_facing_up:" loading="lazy" width="20" height="20"> <strong>随时查看和下载 JSON 数据</strong></li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/link.png?v=14" title=":link:" class="emoji" alt=":link:" loading="lazy" width="20" height="20"> <strong>自动生成 Mermaid 流程图，方便工作流可视化</strong></li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/counterclockwise_arrows_button.png?v=14" title=":counterclockwise_arrows_button:" class="emoji" alt=":counterclockwise_arrows_button:" loading="lazy" width="20" height="20"> <strong>智能格式化，实现实时流程命名</strong></li>
+</ul>
+<p>一个 DEMO</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://n8ndoc.appinn.net/">
+  <header class="source">
+
+      <a href="https://n8ndoc.appinn.net/" target="_blank" rel="noopener">n8ndoc.appinn.net</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://n8ndoc.appinn.net/" target="_blank" rel="noopener">⚡ N8N Workflow Documentation</a></h3>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73627">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73627</link>
+          <pubDate>Fri, 25 Jul 2025 03:48:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73627</guid>
+          <source url="https://meta.appinn.net/t/topic/73627.rss">N8n 工作流程集合: 2,000 多个工作流程</source>
+        </item>
+        <item>
+          <title>【开源自荐】为了确认是网络挂了还是网站崩了，我做了一个服务监控站 PongHub</title>
+          <dc:creator><![CDATA[ch3nyang]]></dc:creator>
+          <category>发现频道</category>
+          <description><![CDATA[
+            <h1><a name="p-274228-h-1" class="anchor" href="https://meta.appinn.net#p-274228-h-1"></a>软件名称</h1>
+<p>PongHub</p>
+<h1><a name="p-274228-h-2" class="anchor" href="https://meta.appinn.net#p-274228-h-2"></a>应用平台</h1>
+<p>简单修改配置文件后即可一键部署到 GitHub Pages 上</p>
+<h2><a name="p-274228-h-3" class="anchor" href="https://meta.appinn.net#p-274228-h-3"></a>一句简介</h2>
+<p>一个<strong>开源</strong>、<strong>0侵入性</strong>且足够<strong>易用</strong>的<strong>服务状态监控</strong>网站，旨在帮助用户监控和验证服务的可用性。</p>
+<h1><a name="p-274228-h-4" class="anchor" href="https://meta.appinn.net#p-274228-h-4"></a>应用简介</h1>
+<p><img src="https://h1.appinn.me/file/1753367581916_browser_CN.png" alt="browser_CN.png" width="700" height="451"></p>
+<h2><a name="p-274228-h-5" class="anchor" href="https://meta.appinn.net#p-274228-h-5"></a>为什么做这个工具？</h2>
+<p>相信不少人有这样的烦恼：</p>
+<ol>
+<li>推特崩了，刷新不出来，还以为是自己那个<em>神秘网络工具</em>的问题</li>
+<li>自己搭建的网站崩了，结果过了好几天有用户提醒才发现</li>
+</ol>
+<p>现有的解决方案有两类：</p>
+<ol>
+<li>以 prometheus 为首的工具，通过在服务器内部安装该工具，可以实现对服务器的监控——但它<em>必须修改服务器代码</em></li>
+<li>uptimerobot、OpenStatus 等网站，它们功能繁多，且无需修改服务器——但使用<em>不是那么方便，而且收费</em></li>
+</ol>
+<p>于是，我就想到了可以仿照后者，但是白嫖 GitHub Actions 的免费资源，再通过 GitHub Pages 发布，最终得到了 PongHub！</p>
+<h2><a name="p-274228-h-6" class="anchor" href="https://meta.appinn.net#p-274228-h-6"></a>为什么向大家推荐这个工具？</h2>
+<p>目前，PongHub 主要有这么几个优点：</p>
+<ul>
+<li><strong><img src="https://meta.appinn.net/images/emoji/twemoji/detective.png?v=14" title=":detective:" class="emoji" alt=":detective:" loading="lazy" width="20" height="20"> 零侵入监控</strong> - 无需改动服务器即可实现全功能监控</li>
+<li><strong><img src="https://meta.appinn.net/images/emoji/twemoji/rocket.png?v=14" title=":rocket:" class="emoji" alt=":rocket:" loading="lazy" width="20" height="20"> 一键免费部署</strong> - 通过 Actions 自动构建，一键部署至 Github Pages</li>
+<li><strong><img src="https://meta.appinn.net/images/emoji/twemoji/globe_with_meridians.png?v=14" title=":globe_with_meridians:" class="emoji" alt=":globe_with_meridians:" loading="lazy" width="20" height="20"> 全平台支持</strong> - 兼容 OpenAI 等公共服务及私有服务接口</li>
+<li><strong><img src="https://meta.appinn.net/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=14" title=":magnifying_glass_tilted_left:" class="emoji" alt=":magnifying_glass_tilted_left:" loading="lazy" width="20" height="20"> 多端口探测</strong> - 单服务支持同时监控多个端口状态</li>
+<li><strong><img src="https://meta.appinn.net/images/emoji/twemoji/robot.png?v=14" title=":robot:" class="emoji" alt=":robot:" loading="lazy" width="20" height="20"> 智能响应验证</strong> - 精准匹配状态码及正则表达式校验响应体</li>
+<li><strong><img src="https://meta.appinn.net/images/emoji/twemoji/hammer_and_wrench.png?v=14" title=":hammer_and_wrench:" class="emoji" alt=":hammer_and_wrench:" loading="lazy" width="20" height="20"> 自定义请求引擎</strong> - 自由配置请求头/体、超时和重试策略</li>
+</ul>
+<h2><a name="p-274228-h-7" class="anchor" href="https://meta.appinn.net#p-274228-h-7"></a>真的好用吗？</h2>
+<p>使用 PongHub 分为两步：</p>
+<ol>
+<li>Fork 走这个仓库</li>
+<li>修改下 <code>config.yaml</code></li>
+</ol>
+<p>然后网站就建好了，再也不用管它了。</p>
+<h1><a name="p-274228-h-8" class="anchor" href="https://meta.appinn.net#p-274228-h-8"></a>备注</h1>
+<p>写这个工具也就花了我两个晚上，它已经能满足我自己所有需求了。但如果要当作一个产品来做，我还没想好开发路线。</p>
+<p>诚挚邀请大家提一提自己的需求和建议！</p>
+<h1><a name="p-274228-h-9" class="anchor" href="https://meta.appinn.net#p-274228-h-9"></a>网址</h1>
+<aside class="onebox githubrepo" data-onebox-src="https://github.com/WCY-dt/ponghub">
+  <header class="source">
+
+      <a href="https://github.com/WCY-dt/ponghub" target="_blank" rel="noopener nofollow ugc">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+  <img width="695" height="347" src="https://opengraph.githubassets.com/6acc8297abaf5ee890c19b2659bce955/WCY-dt/ponghub" class="thumbnail">
+
+  <h3><a href="https://github.com/WCY-dt/ponghub" target="_blank" rel="noopener nofollow ugc">GitHub - WCY-dt/ponghub: An open-source service status monitoring website...</a></h3>
+
+    <p><span class="github-repo-description">An open-source service status monitoring website designed to help users track and verify service availability</span></p>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>不管是否愿意帮忙点个 Star，我都先感谢您看到这里 <img src="https://meta.appinn.net/images/emoji/twemoji/smiling_face_with_three_hearts.png?v=14" title=":smiling_face_with_three_hearts:" class="emoji" alt=":smiling_face_with_three_hearts:" loading="lazy" width="20" height="20">！</p>
+            <p><small>7 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73616">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73616</link>
+          <pubDate>Thu, 24 Jul 2025 15:38:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73616</guid>
+          <source url="https://meta.appinn.net/t/topic/73616.rss">【开源自荐】为了确认是网络挂了还是网站崩了，我做了一个服务监控站 PongHub</source>
+        </item>
+        <item>
+          <title>安卓有没有离线可用的文本合并去重的软件</title>
+          <dc:creator><![CDATA[oldsento]]></dc:creator>
+          <category>问题求助</category>
+          <description><![CDATA[
+            <p>比如窝把两个相似文本合并，只是有轻微的不同，目前貌似只有AI工具能做得但都需要联网，而那些所谓的离线AI，目前窝用过的模型都会对内容要不添油加醋要不精简过分，而且还有文本长度限制，比如AI问答pocketpal用的模型：<br>
+1，Qwen2.5-1.5b-instruct-q8_0.gguf; Filena - filename=qwen2.5-1.5b-instruct-q8_0.gguf</p>
+<p>2，DeepSeek-R1-Distill-Qwen-1.5B-Q2_KL.gguf; filename=DeepSeek-R1-Distill-Q wen-1.5B-Q2_K_L.gguf，</p>
+<p>话说还有个问题，能否把2个文本按数值大小合并重新排序，比如：<br>
+1.<br>
+H5，V0.4.2.66大小0.04MB<br>
+X，大小一直保持在2MB左右<br>
+via，大小一直保持在2MB左右<br>
+米侠，5.4.0/5.5.4.2大小2MB<br>
+荟萃，3.0.1(pro大小2.5MB<br>
+小海，2.1.22大小3.5MB<br>
+MDM，2.1.5大小3.7MB<br>
+2.<br>
+Plato浏览器v1.0.1大小：1.8M，<br>
+lit浏览器3.1.6.2大小：3.2M，<br>
+自动化浏览器v2.98大小：3.6M<br>
+轩哥浏览器1.0(com.android.xgllq)大小3.97m</p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73615">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73615</link>
+          <pubDate>Thu, 24 Jul 2025 12:45:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73615</guid>
+          <source url="https://meta.appinn.net/t/topic/73615.rss">安卓有没有离线可用的文本合并去重的软件</source>
+        </item>
+        <item>
+          <title>CPU-X - Linux 上的 CPU-Z</title>
+          <dc:creator><![CDATA[Qingwa]]></dc:creator>
+          <category>发现频道</category>
+          <description><![CDATA[
+            <p>CPU-X 是一个系统分析和监控应用程序（类似于 Windows 的 CPU-Z），但 CPU-X 是一个专为 GNU/Linux 和 FreeBSD 设计的免费开源软件。</p>
+<p>它可以通过 GTK 在图形模式下使用，也可以通过 NCurses 在文本模式下使用。命令行中提供转储模式。</p>
+<p>CPU-X 报告以下信息：</p>
+<ul>
+<li>处理器</li>
+<li>主板</li>
+<li>内存</li>
+<li>系统</li>
+<li>显卡</li>
+<li>性能</li>
+</ul>
+<p>                    <a href="https://raw.githubusercontent.com/wiki/TheTumultuousUnicornOfDarkness/CPU-X/gallery/screenshots/v5.0.1_CPU_light.png" target="_blank" rel="noopener" class="onebox">
+            <img src="https://raw.githubusercontent.com/wiki/TheTumultuousUnicornOfDarkness/CPU-X/gallery/screenshots/v5.0.1_CPU_light.png" width="483" height="500">
+          </a>
+
+</p>
+<aside class="onebox githubrepo" data-onebox-src="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X">
+  <header class="source">
+
+      <a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" target="_blank" rel="noopener">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+  <img width="695" height="347" src="https://opengraph.githubassets.com/520698888188b8b626fd1d6af9a71664/TheTumultuousUnicornOfDarkness/CPU-X" class="thumbnail">
+
+  <h3><a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" target="_blank" rel="noopener">GitHub - TheTumultuousUnicornOfDarkness/CPU-X: CPU-X is a Free software that gathers information...</a></h3>
+
+    <p><span class="github-repo-description">CPU-X is a Free software that gathers information on CPU, motherboard and more</span></p>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73614">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73614</link>
+          <pubDate>Thu, 24 Jul 2025 12:05:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73614</guid>
+          <source url="https://meta.appinn.net/t/topic/73614.rss">CPU-X - Linux 上的 CPU-Z</source>
+        </item>
+        <item>
+          <title>大伙來瞧瞧看，有人看過這個字嗎?</title>
+          <dc:creator><![CDATA[Duah]]></dc:creator>
+          <category>讨论分享</category>
+          <description><![CDATA[
+            <p><img src="https://h1.appinn.me/file/1753353015614_Clip_20250724_182813.png" alt="Clip_20250724_182813.png" width="375" height="500"></p>
+<p>目前沒有答案，只知道相近的字有一個 「㒪」<br>
+是 錫 的異體字</p>
+            <p><small>5 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73612">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73612</link>
+          <pubDate>Thu, 24 Jul 2025 10:30:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73612</guid>
+          <source url="https://meta.appinn.net/t/topic/73612.rss">大伙來瞧瞧看，有人看過這個字嗎?</source>
+        </item>
+        <item>
+          <title>静态IP设置工具[Windows]</title>
+          <dc:creator><![CDATA[yzhcat]]></dc:creator>
+          <category>alpha</category>
+          <description><![CDATA[
+            <h2><a name="p-274190-h-1" class="anchor" href="https://meta.appinn.net#p-274190-h-1"></a>软件名称</h2>
+<p>ip_config:静态IP 设置工具</p>
+<h2><a name="p-274190-h-2" class="anchor" href="https://meta.appinn.net#p-274190-h-2"></a>应用平台</h2>
+<ul>
+<li>Windows</li>
+</ul>
+<h2><a name="p-274190-h-3" class="anchor" href="https://meta.appinn.net#p-274190-h-3"></a>推荐类型</h2>
+<p>【开发者自荐】</p>
+<h2><a name="p-274190-h-4" class="anchor" href="https://meta.appinn.net#p-274190-h-4"></a>一句简介</h2>
+<p>aardio 开发的静态IP 配置工具 使用Windows 的Netsh 命令实现IP设置</p>
+<h2><a name="p-274190-h-5" class="anchor" href="https://meta.appinn.net#p-274190-h-5"></a>应用简介</h2>
+<p>预设静态IP配置文件,一键切换;显示要配置网卡的IP信息</p>
+<h2><a name="p-274190-h-6" class="anchor" href="https://meta.appinn.net#p-274190-h-6"></a>截图预览：</h2>
+<p>                    <a href="https://foruda.gitee.com/images/1753092899247540308/81a95aa9_9448548.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://foruda.gitee.com/images/1753092899247540308/81a95aa9_9448548.png" width="" height="">
+          </a>
+
+</p>
+<h2><a name="p-274190-h-7" class="anchor" href="https://meta.appinn.net#p-274190-h-7"></a>官方网站</h2>
+<p><a href="https://gitee.com/yzhcat/ip_config" rel="noopener nofollow ugc">https://gitee.com/yzhcat/ip_config</a><br>
+下载：<a href="https://gitee.com/yzhcat/ip_config/releases" rel="noopener nofollow ugc">https://gitee.com/yzhcat/ip_config/releases</a></p>
+<h2><a name="p-274190-h-8" class="anchor" href="https://meta.appinn.net#p-274190-h-8"></a>自言自语</h2>
+<p>最近在调几台设备，每台ip网段都不一样，需要频繁切换ip;试了几个有的win11 不能用,有的切换不方便，最后AI搞了一个bat 脚本 用Netsh命令设置的。最后干脆用aardio套个壳方便使用。<br>
+后面找到了NetSetMan 这个软件，所以这个软件刚写好就被我抛弃了<img src="https://meta.appinn.net/images/emoji/twemoji/rofl.png?v=14" title=":rofl:" class="emoji" alt=":rofl:" loading="lazy" width="20" height="20">。</p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73611">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73611</link>
+          <pubDate>Thu, 24 Jul 2025 10:20:04 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73611</guid>
+          <source url="https://meta.appinn.net/t/topic/73611.rss">静态IP设置工具[Windows]</source>
+        </item>
+        <item>
+          <title>分享一下英文版《三体》的一些字词句的翻译</title>
+          <dc:creator><![CDATA[tempUserName]]></dc:creator>
+          <category>讨论分享</category>
+          <description><![CDATA[
+            <p>这几天在看英文版的《三体》，意料地不难读。</p>
+<h2><a name="p-274184-h-1" class="anchor" href="https://meta.appinn.net#p-274184-h-1"></a>名词</h2>
+<ul>
+<li>三体星：<code>Trisolaris</code></li>
+<li>面壁者，破壁者，执剑人：<code>Wallfacer</code>、<code>Wallbreaker</code>、<code>Swordholder</code></li>
+<li>智子：<code>Sophon</code>。完全不知道啥意思。</li>
+<li>周文王：<code>King Wen of Zhou</code>，维基也是这个翻译，莫名其妙的翻译。查了一下，谥号都是这个翻译格式，比如曹操就是 <code>Emperor Wu of Wei</code>。</li>
+<li>秦始皇：由于有两个译者，所以出现两个翻译：<code>The First Emperor of Qin</code>（后续简称为 <code>The First Emperor</code>），<code>Qin Shi Huang</code>（维基采用此翻译）</li>
+<li>狄奥伦娜：<code>Helena</code>。为啥这么翻译？这音也对不上呀？</li>
+<li>霍尔辛根默斯肯：<code>He’ershingenmosiken</code>。这个翻译总让我想起《哈利波特》的四大学院，也是这么复杂。</li>
+</ul>
+<blockquote>
+<p>中文人名昵称全部采用拼音直译的方式：<code>小罗</code> → <code>Xiao Luo</code>，<code>大史</code> → <code>Da Shi</code>，<code>老苗</code> → <code>Lao Miao</code>。谐音、语言相关的字词全部不翻译，<code>艾AA</code> 就是 <code>艾AA</code></p>
+</blockquote>
+<h2><a name="p-274184-h-2" class="anchor" href="https://meta.appinn.net#p-274184-h-2"></a>句子</h2>
+<blockquote>
+<p>消灭人类暴政，世界属于三体！</p>
+<p>Eliminate human tyranny! The world belongs to Trisolaris!</p>
+</blockquote>
+<blockquote>
+<p>给岁月以文明，而不是给文明以岁月。</p>
+<p>Make time for civilization, for civilization won’t make time.</p>
+</blockquote>
+<blockquote>
+<p>你父亲在回忆这件事后，对我发出这样的感叹：在中国，任何超脱飞扬的思想都会砰然坠地的，现实的引力太沉重了。</p>
+<p>In China, any idea that deard to take flight would only crash back to the ground. The gravity of reality is too strong.</p>
+</blockquote>
+<p>很出名的一句话。</p>
+<blockquote>
+<p>是的，整个人类历史也是偶然，从石器时代到今天都没什么重大变故，真幸运。但既然是幸运，总有结束的一天；现在我告诉你，结束了，做好思想准备吧。</p>
+<p>Yes, the entire history of humankind has been fortunate. From the Stone Age till now, no real crisis has occurred. We’ve been very lucky. But if it’s all luck, then it has to end one day. Let me tell you: It’s ended. Prepare for the worst.</p>
+</blockquote>
+<blockquote>
+<p>应该庆祝一下，我们发现了一个伟大的定律：物理规律在时间和空间上是均匀的。人类历史上的所有物理学理论，从阿基米德原理到弦论，以至人类迄今为止的一切科学发现和思想成果，都是这个伟大定律的副产品，与我们相比，爱因斯坦和霍金才真是搞应用的俗人。</p>
+<p>Come on, let’s celebrate. We’ve discovered a great principle of nature: The laws of physics are invariant across space and time. All the physical laws of human history, from Archimedes’ principle to string theory, and all the scientific discoveries and intellectual fruits of our species are the by-products of this great law. Compared to us two theoreticians, Einstein and Hawking are mere applied engineers.</p>
+</blockquote>
+<blockquote>
+<p>我办过一个杀人案，一个娘们儿把她丈夫的那玩意儿割下来了。知道用的是什么？冰箱里冷冻的罗非鱼！鱼冻硬后，背上的那排刺就跟一把快刀似的……</p>
+<p>I handled a murder case once. Some bitch cut off her hasband’s family jewels. You know waht she used? A frozen tolapia she got out of the freezer! The spines along the back were link rezors-</p>
+</blockquote>
+<p>把 <code>那玩意儿</code> 翻译为 <code>family jewels</code>，蛮有意思的。</p>
+<blockquote>
+<p>这之前罗辑发现了一个规律：他开玩笑时称自己为老弟，稍微认真时称为兄。</p>
+<p>When he was joking, he called him “my boy”, but when he was a little more seriois, it was “my man”.</p>
+</blockquote>
+<p>这个 <code>老兄</code>、<code>老弟</code> 的翻译，感觉有些奇怪。</p>
+<blockquote>
+<p>从传回的影像上看，在剩下的三秒钟时间里，章北海转向东方延绪方向，竟笑了一下，说出了几个字：“没关系的，都一样。”</p>
+<p>The returned images showed that in the three seconds that remained, Zhang Beihai turned to Dongfang Yanxu, flashed her a smile, and spoke: “It doesn’t matter. It’s all the same.”</p>
+</blockquote>
+<blockquote>
+<p>无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</p>
+<p>Silence is the greatest form of contempt, and we have put up with this contempt for two centuries. Now, if you wish, you can continue to remain silent. I will give you thirty seconds.</p>
+</blockquote>
+<blockquote>
+<p>“你很幸运，和你赠与星星的那个女孩一样幸运。”何博士在浓重的夜色中说道。<br>
+“我不幸运，我快死了。”云天明说，同时把视线移开，向何博士的方向看了一眼，然后把视线又投向夜空，居然很轻易地再次找到了 DX3906。<br>
+云天明发现何博士似乎对自己的话并没感到吃惊，只是默默地点了一支烟，也许，他已经察觉到了什么。沉默许久后，他说：“真那样的话，你仍然很幸运，大多数人，到死都没向尘世之外瞥一眼。”</p>
+<p>“You are lucky, as lucky as the girl who received your gift,” said Dr. He.<br>
+“I don’t think I’d call myself fortunate. I’m about to die.”<br>
+Dr. He seemed unsurprised by this revelation. He lit a cigarette and smoked it in silence. After a while, he said, “Even so, I think you’re blessed. Most people don’t cast a glance at the universe beyond the world we live in until the day they die.”</p>
+</blockquote>
+<blockquote>
+<p>别忘了我们有资源！以前航天只是一个边缘化的事业，现在进入主流了，所以我们有以前难以想象的巨大资源可以动用！我们用资源改变原理，把巨大的资源聚焦在那个小小的东西上，用野蛮的力量把它推进到光速的百分之一！</p>
+<p>We Can throw resources at this problem util the laws of physics bend. Rely on brute force if you have to, but we must accelerate the probe to one percent of lightspeed!</p>
+</blockquote>
+<p>把 <code>改变原理</code> 翻译为 <code>util the laws of physics bend</code>，很妙。</p>
+<blockquote>
+<p>他突然一改一贯沉稳冷淡的语调，像发狂的野兽般声嘶力竭地咆哮起来，“前进！前进！不择手段地前进！”</p>
+<p>We’re going to advance! Advance! We’ll stop at nothing to advance!</p>
+</blockquote>
+<p>翻译后感觉没有气势了。</p>
+<blockquote>
+<p>只送大脑。</p>
+<p>We’ll send only a brain。</p>
+</blockquote>
+<p>原著中这句 <code>只送大脑</code> 自带翻译 <code>Send cerebra only</code>，不知道为什么要修改。</p>
+<blockquote>
+<p>“你为什么选择光速飞船？”维德问，转头毫无顾忌地直视着程心。“因为只有在这个选择中，人是大写的。”程心说，勇敢地迎接着他的目光。维德点点头，把雪茄从嘴里拿出来，“很好，你是大写的。”</p>
+<p>“Because that is the only choice that makes humankind grand” Cheng Xin said. She met this gaze fearlessly. Wade nodede and took the cigar out of his mouth. “Very good. You’re grand.”</p>
+</blockquote>
+<p>作为程序员，我还以为 <code>大写</code> 会翻译为 <code>upper case</code>  呢。</p>
+<blockquote>
+<p>维德抬头看着程心，目光中又露出了那种罕见的无助和乞求，他一字一顿地说：“失去人性，失去很多；失去兽性，失去一切。”</p>
+<p>Wade lifted his head and looked at Cheng Xin with rarely seen helplessness and pleading. He spoke slowly. “If we lose our human nature, we lose much, but if we lose our bestial nature, we lose everything.”</p>
+</blockquote>
+<blockquote>
+<p>维德挥挥手让自卫队离开，他们无声地走出去，大厅中像乌云消散般亮起来。维德吃力地起身，绕过高高堆起的反物质子弹链，慢慢掀开了透明罩，对着光洁的曲率驱动平台轻轻吹了一口气，程心的头发被吹走了，他盖上罩后抬头对程心微笑了一下：“小女孩，你看，我遵守了诺言。”</p>
+<p>Wade gestured for the self-defense force to leave. They departed noiselessly, and the hall brightened as though a dark cloud had dissipated. Wade struggled to stand, walked around the pile of antimatter cartridges, and slowly opened the glass dome. He blew at the curvature propulsion platform and Cheng Xin’s hair disappeared. He closed the dome, turned to Cheng Xin, and smiled. “You see, I’ve kept my promise, little girl.”</p>
+</blockquote>
+<blockquote>
+<p>“那你有什么话要对我说吗？”程心最后问出了这句话，让自己吃惊的是，她期望得到回答。<br>
+“谢谢你的雪茄。”<br>
+过了好一会儿，程心才意识到这就是维德要对她说的话，最后的、全部的话。</p>
+<p>“Do you have anything to say to me?” Cheng Xin asked. She was surprised that she wanted to hear his answer.<br>
+“Thank you for the cigars.”<br>
+It took a long while before Cheng Xin understood that this was what Wade wanted to say to her. His last words. All his words.</p>
+</blockquote>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73610">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73610</link>
+          <pubDate>Thu, 24 Jul 2025 09:58:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73610</guid>
+          <source url="https://meta.appinn.net/t/topic/73610.rss">分享一下英文版《三体》的一些字词句的翻译</source>
+        </item>
+        <item>
+          <title>如何关闭浏览器后继续浏览小众论坛？</title>
+          <dc:creator><![CDATA[kkkkkk]]></dc:creator>
+          <category>问题求助</category>
+          <description><![CDATA[
+            <p>列表滚动很长，很长。</p>
+<p>前进/后退能顺利恢复滚动位置。</p>
+<p>关闭再打开就不行了？</p>
+            <p><small>5 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73609">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73609</link>
+          <pubDate>Thu, 24 Jul 2025 09:47:04 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73609</guid>
+          <source url="https://meta.appinn.net/t/topic/73609.rss">如何关闭浏览器后继续浏览小众论坛？</source>
+        </item>
+        <item>
+          <title>如何防止重复收藏小众软件论坛的网址？</title>
+          <dc:creator><![CDATA[kkkkkk]]></dc:creator>
+          <category>问题求助</category>
+          <description><![CDATA[
+            <p>chrome浏览器，有时候收藏了一个帖子，后面会发现重复收藏的情况。<br>
+原来是收藏了子帖（点击子帖会更新url）<br>
+怎么避免重复收藏呢？<br>
+大家用的是什么办法？</p>
+<p>                    <a href="https://h1.appinn.me/file/1753349424474_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753349424474_image.png" width="700" height="139">
+          </a>
+
+</p>
+            <p><small>4 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73608">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73608</link>
+          <pubDate>Thu, 24 Jul 2025 09:31:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73608</guid>
+          <source url="https://meta.appinn.net/t/topic/73608.rss">如何防止重复收藏小众软件论坛的网址？</source>
+        </item>
+        <item>
+          <title>Firefox 是活的，Mozilla 管理层才是「死」的</title>
+          <dc:creator><![CDATA[Qingwa]]></dc:creator>
+          <category>青蛙的应用</category>
+          <description><![CDATA[
+            <p><small>原始链接在：			<a href="https://www.appinn.com/firefox-is-fine/" class="inline-onebox">Firefox 是活的，Mozilla 管理层才是「死」的 - 小众软件</a><br>
+</small><br></p><p>青小蛙看到一篇文章：<a href="https://www.theregister.com/2025/07/08/firefox_isnt_dead" target="_blank" rel="noopener">Firefox is fine. The people running it are not</a>，很有趣，决定翻译一下。</p><br>
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Copy-of-appinn-homework-2025-07-24T164655.679.jpg" width="700" height="304"><h2><strong>Firefox 用户请安心，问题其实全在高层。</strong></h2><p></p>
+<p>最近一篇《<a href="https://www.theregister.com/2025/06/17/opinion_column_firefox/" target="_blank" rel="noopener">Firefox is dead to me</a>》的文章引起了不少骚动，很多人甚至想换浏览器。不过，冷静点：Firefox 其实并没有那么「烂」，甚至比多年来都更快。真正的麻烦在于 Mozilla 的决策层，不是开发团队，更不是软件本身。</p>
+<h2><strong>跑题高手：管理层逆操作年年有</strong></h2>
+<p>近年 Firefox 速度提升明显，开发社群做了不少苦活累活，却赶上了持续裁员潮。与此同时，管理层却撤掉了 Rust 和 Servo 团队——没错，就是那个至今还被极客捧成「最受欢迎语言」的 Rust，本来就是 Mozilla 亲生的，2020 年却一脚踢开。同样命运的还有 Servo 浏览器引擎，如今交给了 Igalia，反而更有起色。</p>
+<p>还有 KaiOS（前身 Firefox OS，Boot2Gecko），被 Mozilla 炒掉以后华丽转身，在 feature phone 市场混得风生水起，全球装机破亿。</p>
+<h2><strong>广告、AI、裁员，管理层「花样作死」</strong></h2>
+<p>正当主流浏览器纷纷内建广告拦截，Mozilla 却收购了广告公司，还悄悄撤掉「不卖用户数据」的承诺。与此同时，领导层热衷于砸钱搞 AI，还在推出 AI 聊天助手的同时裁员、频繁换高管。</p>
+<p>2024 年开始，公司继续在「开源 AI」和广告方向狂奔，却把重心从工程师砍到高层管理，甚至有高管薪水年入六百万美元（被资本主义亲妈都要嫌弃的水平）。</p>
+<h2><strong>只会靠 Google 输血，缺乏自我造血能力</strong></h2>
+<p>自从 Firefox 1.0 以来，Mozilla 几乎就是靠 Google 的搜索引擎分成活着，从没真正需要「像企业一样」赚自己的钱。换句话说，一直没练好内功。</p>
+<h2><strong>真正的出路：别搞花活，专心两件事</strong></h2>
+<p>资深观察家 Jamie Zawinski 早有建议：</p>
+<ul>
+<li>做一款开源、标准的浏览器参考实现</li>
+<li>在标准组织里当搅局「恶犬」捍卫网络开放</li>
+<li>别整第 3 件事，多做都是错</li>
+</ul>
+<p>这或许才是对用户和互联网最大的贡献——别再折腾花里胡哨的商业模式，更别天天追风口。</p>
+<h2><strong>结论</strong></h2>
+<p>Firefox 本体依然值得用，性能、隐私、可玩性都很能打</p>
+<p>问题都出在管理层的方向迷失、逆势而为</p>
+<p>要真「拯救」Mozilla，不如让它像 Linux 基金会那样扮演协作型中立组织，别再当半调子企业。</p>
+            <p><small>18 个帖子 - 11 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73607">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73607</link>
+          <pubDate>Thu, 24 Jul 2025 08:51:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73607</guid>
+          <source url="https://meta.appinn.net/t/topic/73607.rss">Firefox 是活的，Mozilla 管理层才是「死」的</source>
+        </item>
+        <item>
+          <title>网站自荐：极简表格，用于筛选硬盘、显卡和充电宝</title>
+          <dc:creator><![CDATA[4546]]></dc:creator>
+          <category>alpha</category>
+          <description><![CDATA[
+            <p>1.硬盘比价:<a href="https://disk-costs.wzypbh.cn/" rel="noopener nofollow ugc">https://disk-costs.wzypbh.cn/</a></p>
+<p>2.显卡比价:<a href="https://gpu.wzypbh.cn/" rel="noopener nofollow ugc">https://gpu.wzypbh.cn/</a></p>
+<p>3.充电宝比价:<a href="http://powerbank.wzypbh.cn/" rel="noopener nofollow ugc">http://powerbank.wzypbh.cn/</a></p>
+<p>这三个网站都是查询京东平台对应品类的数据，<br>
+以极简表格的形式，对商品核心数据进行展示。</p>
+<p>均支持品牌、参数、价格等的筛选，并支持排序。</p>
+<p>每件商品均提供了直达链接，点击每一行最右侧的“查看/购买”按钮即可直达下单。</p>
+<p>另外，这三个网站也都支持移动端访问。</p>
+            <p><small>5 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73605">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73605</link>
+          <pubDate>Thu, 24 Jul 2025 07:51:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73605</guid>
+          <source url="https://meta.appinn.net/t/topic/73605.rss">网站自荐：极简表格，用于筛选硬盘、显卡和充电宝</source>
+        </item>
+        <item>
+          <title>Web Highlights - 本地网页与 PDF 标记工具[Chrome/Firefox]</title>
+          <dc:creator><![CDATA[Qingwa]]></dc:creator>
+          <category>青蛙的应用</category>
+          <description><![CDATA[
+            <p><small>原始链接在：			<a href="https://www.appinn.com/web-highlights/" class="inline-onebox">Web Highlights - 本地网页与 PDF 标记工具[Chrome/Firefox] - 小众软件</a><br>
+</small><br></p><p><strong>Web Highlights</strong> 是一款本地的网页与 PDF 标记工具，无需注册即可使用。可以为网页上的文本标记颜色、添加备注，以及直接将网页收藏起来。支持标签系统，并将笔记发送到 Notion、Obsidian 或 Capacities 等“第二大脑”应用。@<a href="https://www.appinn.com/web-highlights/">Appinn</a></p><br>
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Copy-of-appinn-homework-2025-07-24T152250.909.jpg" width="700" height="304"><p>来自群里大佬的提问和推荐。</p><p></p>
+<p>青小蛙把 Web Highlights 的官网视频处理了下：</p>
+<p><iframe src="https://player.bilibili.com/player.html?bvid=BV1np8uzWEzW&amp;high_quality=1&amp;autoplay=0" scrolling="no" frameborder="no" width="100%" height="430" allowfullscreen="true" seamless="seamless" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation"></iframe></p>
+
+<p>用起来，还挺顺手。</p>
+<p>在不注册的情况下，直接选择文本，就弹出了标注菜单，包括颜色、备注、标签。</p>
+<p>如果你不注册，数据就在本地。如果注册了，数据就上云了，并且还能付费云同步。</p>
+<p>另外，如果觉得每次选中就弹出菜单，比较干扰。那么还能在设置中将菜单关掉，然后通过右键菜单或者快捷键来激活。</p>
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/disable-popup.DmSL90Pb.avif" width="700" height="244"><p>青小蛙就觉得有点干扰。</p>
+<h2>获取</h2>
+<ul>
+<li><a href="https://web-highlights.com/docs/introduction/installation" target="_blank" rel="noopener">官网</a></li>
+</ul>
+<p>实际上，不止 Chrome 与 Firefox，还支持 Opera、Brave、Vivaldi 浏览器。</p>
+<hr>
+<h2>聊天记录</h2>
+<p>最早，有同学想找一款在网页上做笔记的扩展，青小蛙也找了两款，比如：</p>
+<ul>
+<li><a href="https://www.appinn.com/pagenote/">PageNote – 为网页添加高亮、标记、批注、快照，本地保存数据，一页一记[Chrome/Firefox]</a></li>
+<li><a href="https://www.appinn.com/hamsterbase-highlighter/">Hamsterbase Highlighter – 直接在网页上高亮标记、记笔记，保存至 Notion[Chrome/Edge]</a></li>
+</ul>
+<p>但是，人家选择了 Web Highlights，也是有道理的：</p>
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250724152620@2x-scaled.avif" width="234" height="500"><p>不小心混入了一段18秒的视频，也不知道哪来的…</p>
+<hr>
+<p>原文：https://www.appinn.com/web-highlights/</p>
+            <p><small>5 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73604">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73604</link>
+          <pubDate>Thu, 24 Jul 2025 07:48:01 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73604</guid>
+          <source url="https://meta.appinn.net/t/topic/73604.rss">Web Highlights - 本地网页与 PDF 标记工具[Chrome/Firefox]</source>
+        </item>
+        <item>
+          <title>讨论：开发个『半自动』密码填充app</title>
+          <dc:creator><![CDATA[kkkkkk]]></dc:creator>
+          <category>讨论分享</category>
+          <description><![CDATA[
+            <p>半自动 ： 指的是点击悬浮窗或通知条，然后才自动填充密码。</p>
+<p>半自动填充的优点：</p>
+<ol>
+<li>解锁手机也不担心泄露</li>
+<li>一些“安全键盘”控制的界面也能使用</li>
+</ol>
+<p>缺点：</p>
+<ol>
+<li>需要无障碍权限</li>
+<li>需要手动查找密码</li>
+</ol>
+<p>目前自用：唯一使用场景是华为手机安装apk时帮我填充密码。（断网再联网太麻烦了，尤其逛第三方app市场，频繁安装的时候）</p>
+<p>不知道有没有需要的其他使用场景。或者有没有更简单的工具？</p>
+            <p><small>6 个帖子 - 5 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73600">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73600</link>
+          <pubDate>Thu, 24 Jul 2025 07:03:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73600</guid>
+          <source url="https://meta.appinn.net/t/topic/73600.rss">讨论：开发个『半自动』密码填充app</source>
+        </item>
+        <item>
+          <title>Github仓库文件安卓手机下载不了是啥问题</title>
+          <dc:creator><![CDATA[oldsento]]></dc:creator>
+          <category>问题求助</category>
+          <description><![CDATA[
+            <p>比如：<br>
+<a href="https://github.com/Archmage83/tvapk/blob/master/%E5%8D%83%E5%AF%BB1.0.9.apk" data-bbcode="true" rel="noopener nofollow ugc">https://github.com/Archmage83/tvapk/blob/master/千寻1.0.9.apk</a></p>
+<p><a href="https://github.com/Sky4si/extensions/blob/repo/apk%2Ftachiyomi-ar.manhatic-v1.4.40.apk" data-bbcode="true" rel="noopener nofollow ugc">https://github.com/Sky4si/extensions/blob/repo/apk%2Ftachiyomi-ar.manhatic-v1.4.40.apk</a></p>
+<p>测试软件：<br>
+rains2.7.1.3，<br>
+IDM11.7.2(1dm16同)，<br>
+嗅觉浏览器5.58～6.42，<br>
+alook9.3，<br>
+top浏览器4.6.8，<br>
+adm pro7.6，<br>
+dvget12.0.3，<br>
+ariangGUI安卓版，</p>
+<p>下载的文件都是在仓库里(多层路径，就算是下载成功也会是几百k大小的文件(并不是原大小！文件格式不限？而且不能正常使用/打开，难道非得电脑下载<img src="https://meta.appinn.net/images/emoji/twemoji/red_question_mark.png?v=14" title=":red_question_mark:" class="emoji" alt=":red_question_mark:" loading="lazy" width="20" height="20"></p>
+            <p><small>16 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73598">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73598</link>
+          <pubDate>Thu, 24 Jul 2025 06:43:01 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73598</guid>
+          <source url="https://meta.appinn.net/t/topic/73598.rss">Github仓库文件安卓手机下载不了是啥问题</source>
+        </item>
+        <item>
+          <title>分享一个自己做的安卓快捷指令，可以用AI语音控制</title>
+          <dc:creator><![CDATA[munaiyi66]]></dc:creator>
+          <category>讨论分享</category>
+          <description><![CDATA[
+            <p>一直很羡慕IOS的快捷指令，但我自己使用的安卓手机里，语音助手和快捷指令功能都太不好用了，于是自己动手鼓捣了一个出来，分享给大家一起体验一下。</p>
+<p>语音快捷指令，能够让你在安卓系统中实现类似 iOS 快捷指令的功能。通过语音，轻松解锁更多便捷操作！</p>
+<p>快速开始<br>
+借助语音快捷指令，你可以轻松创建属于自己的快捷指令。<br>
+以下是几个功能示例：<br>
+语音自动化操作：语音执行一套自动化操作流程，例如听歌、播放番剧、导航等。<br>
+语音发送消息：通过语音向 QQ 的某位联系人发送消息。<br>
+语音完成任务：语音打车、购物等一气呵成。</p>
+<p>想快速上手？跟着视频一步步学习，创建属于你的快捷指令！</p>
+<p><iframe src="https://player.bilibili.com/player.html?bvid=BV1ZfgVz1EaN&amp;high_quality=1&amp;autoplay=0" scrolling="no" frameborder="no" width="100%" height="430" allowfullscreen="true" seamless="seamless" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation"></iframe></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73590">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73590</link>
+          <pubDate>Thu, 24 Jul 2025 03:58:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73590</guid>
+          <source url="https://meta.appinn.net/t/topic/73590.rss">分享一个自己做的安卓快捷指令，可以用AI语音控制</source>
+        </item>
+        <item>
+          <title>推荐一个好用的内网穿透代理工具</title>
+          <dc:creator><![CDATA[Meter_Xu]]></dc:creator>
+          <category>发现频道</category>
+          <description><![CDATA[
+            <blockquote>
+<p>如果你是小程序或者公众号网页开发者，是不是在为微信要求的https服务地址焦头烂额，传统方案是让运维在公网服务器上部署一下服务，或者通过公司申请的NAT，把域名映射到本地开发机或者服务器。但这些都些大多需要走相关流程，购买域名或者证书，如果遇到服务错误，还得麻烦运维上去把错误日志导出来，开发进行排查，相当麻烦。如果有这么一款软件，可以让你随时随地把开发环境的服务代理出去，能随时进行开发调试，检索日志，那么开发的效率瞬间提高，那岂不美哉。</p>
+</blockquote>
+<p>xgrok就是这么一款软件，可以实现本地服务穿透至公网，在公网上自由访问。软件本身是基于ngrok进行的二次开发，旨在利用图形化界面方便隧道的管理和配置。</p>
+<p>可以通过此网址下载该软件 <a href="https://www.xdo.icu" rel="noopener nofollow ugc">https://www.xdo.icu</a></p>
+<p>该软件和ngrok还是有点区别的，例如</p>
+<ul>
+<li>自带ssl，可以使用https协议</li>
+<li>可切换不同的服务器</li>
+<li>自定义专属域名</li>
+<li>速度稳定</li>
+<li>图形化配置，简单方便</li>
+<li>后台持久运行，带心跳检查</li>
+<li>代理同一局域网内服务</li>
+<li>提供mac和windows版本</li>
+<li>高速服务器</li>
+</ul>
+<p>界面主打的一个清晰明快，傻瓜式操作。</p>
+<h2><a name="p-274093-h-1" class="anchor" href="https://meta.appinn.net#p-274093-h-1"></a>主界面</h2>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://meta.appinn.net/uploads/default/original/3X/2/9/29246ee6f427d58d18e2064e7361be61b1e7111a.webp" data-download-href="https://meta.appinn.net/uploads/default/29246ee6f427d58d18e2064e7361be61b1e7111a" title="主界面"><img src="https://meta.appinn.net/uploads/default/original/3X/2/9/29246ee6f427d58d18e2064e7361be61b1e7111a.webp" alt="主界面" data-base62-sha1="5RXDjq1loGBfQOqroDkObmw2FiG" width="598" height="500" data-dominant-color="B7BEC6"></a></div><p></p>
+<h2><a name="p-274093-h-2" class="anchor" href="https://meta.appinn.net#p-274093-h-2"></a>配置隧道</h2>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://meta.appinn.net/uploads/default/original/3X/8/9/89614fbfad35a626ea8e5c9c63ac32191b8bd079.webp" data-download-href="https://meta.appinn.net/uploads/default/89614fbfad35a626ea8e5c9c63ac32191b8bd079" title="配置隧道"><img src="https://meta.appinn.net/uploads/default/original/3X/8/9/89614fbfad35a626ea8e5c9c63ac32191b8bd079.webp" alt="配置隧道" data-base62-sha1="jBjTWTz4wh5Ev0zbqQj7BfCIPbz" width="598" height="500" data-dominant-color="8E949D"></a></div><p></p>
+<h2><a name="p-274093-h-3" class="anchor" href="https://meta.appinn.net#p-274093-h-3"></a>服务器选择</h2>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://meta.appinn.net/uploads/default/original/3X/8/a/8a23e61266993ce9344b73ac601dfa22aa805c88.webp" data-download-href="https://meta.appinn.net/uploads/default/8a23e61266993ce9344b73ac601dfa22aa805c88" title="服务器选择"><img src="https://meta.appinn.net/uploads/default/original/3X/8/a/8a23e61266993ce9344b73ac601dfa22aa805c88.webp" alt="服务器选择" data-base62-sha1="jI2NOVvma4HXghj2yeDDidTXuBy" width="598" height="500" data-dominant-color="7D838B"></a></div><p></p>
+<h2><a name="p-274093-h-4" class="anchor" href="https://meta.appinn.net#p-274093-h-4"></a>订阅界面</h2>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://meta.appinn.net/uploads/default/original/3X/8/8/8847060ce227eb57e22b3ca894378a096270bd8e.webp" data-download-href="https://meta.appinn.net/uploads/default/8847060ce227eb57e22b3ca894378a096270bd8e" title="订阅界面"><img src="https://meta.appinn.net/uploads/default/original/3X/8/8/8847060ce227eb57e22b3ca894378a096270bd8e.webp" alt="订阅界面" data-base62-sha1="jrz6pwLni0y00S0IjdlPv0geXwi" width="598" height="500" data-dominant-color="B6BDC5"></a></div><p></p>
+<h2><a name="p-274093-h-5" class="anchor" href="https://meta.appinn.net#p-274093-h-5"></a>联系我们</h2>
+<p>github地址：<a href="https://github.com/meterXu/xgrok" rel="noopener nofollow ugc">https://github.com/meterXu/xgrok</a></p>
+<p>qq群：1035160464</p>
+            <p><small>3 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73587">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73587</link>
+          <pubDate>Thu, 24 Jul 2025 03:53:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73587</guid>
+          <source url="https://meta.appinn.net/t/topic/73587.rss">推荐一个好用的内网穿透代理工具</source>
+        </item>
+        <item>
+          <title>【开发者自荐】通知收发应用的桌面端</title>
+          <dc:creator><![CDATA[xxynet]]></dc:creator>
+          <category>发现频道</category>
+          <description><![CDATA[
+            <h2><a name="p-274084-h-1" class="anchor" href="https://meta.appinn.net#p-274084-h-1"></a>软件名称</h2>
+<p>ntfy-desktop</p>
+<h2><a name="p-274084-h-2" class="anchor" href="https://meta.appinn.net#p-274084-h-2"></a>应用平台</h2>
+<p>Windows/Mac/Linux</p>
+<h2><a name="p-274084-h-3" class="anchor" href="https://meta.appinn.net#p-274084-h-3"></a>项目地址</h2>
+<p><a href="https://github.com/xxynet/ntfy-desktop" rel="noopener nofollow ugc">xxynet/ntfy-desktop: A simple &amp; easy-to-use desktop client for ntfy</a></p>
+<h2><a name="p-274084-h-4" class="anchor" href="https://meta.appinn.net#p-274084-h-4"></a>说明</h2>
+<p>前几天在微信公众号上看到推文“自动刷闲鱼机器人”中出现了一个开源项目“ntfy”可以自托管接收和发送通知</p>
+<p><img src="https://h1.appinn.me/file/1753319910091_640.webp" alt="" role="presentation" width="700" height="457"></p>
+<p>但是我在使用过程中发现了一个问题：官方的桌面端接收通知方案是通过浏览器通知API进行的，但是必须要通过https才行：</p>
+<p><img src="https://h1.appinn.me/file/1753320016589_Snipaste_2025-07-24_09-19-36.png" alt="Snipaste_2025-07-24_09-19-36.png" width="540" height="330"></p>
+<p>但是很多小伙伴可能是在自己局域网中的 NAS/服务器 上部署的，没法使用https，导致桌面端接收不到通知。于是我写了一个简单的程序用于实现无https也能在桌面端接收通知，同时支持了官方的tag-&gt;emoji 映射</p>
+<p><img src="https://h1.appinn.me/file/1753320270095_Screenshot01.png" alt="Screenshot01.png" width="700" height="362"></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73583">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73583</link>
+          <pubDate>Thu, 24 Jul 2025 03:29:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73583</guid>
+          <source url="https://meta.appinn.net/t/topic/73583.rss">【开发者自荐】通知收发应用的桌面端</source>
+        </item>
+        <item>
+          <title>分享个免费的对比图制作工具 - BAGen</title>
+          <dc:creator><![CDATA[ai_inlink]]></dc:creator>
+          <category>alpha</category>
+          <description><![CDATA[
+            <p>最近做了个在线工具，因为自己有需要用到要前后对比的slider视频，所以做了这个专门用来制作前后对比图和视频的，想分享给大家。</p>
+<h2><a name="p-274074-h-1" class="anchor" href="https://meta.appinn.net#p-274074-h-1"></a>这个工具能干啥？</h2>
+<p>简单说就是上传两张图片，一键生成各种对比效果。支持4种布局：</p>
+<ul>
+<li>
+<p>左右对比（最常用）</p>
+</li>
+<li>
+<p>滑动对比（可以拖动查看）</p>
+</li>
+<li>
+<p>分割对比（一张图显示两半）</p>
+</li>
+<li>
+<p>上下对比（垂直排列）</p>
+</li>
+</ul>
+<h2><a name="p-274074-h-2" class="anchor" href="https://meta.appinn.net#p-274074-h-2"></a>主要特点</h2>
+<p><img src="https://meta.appinn.net/images/emoji/twemoji/white_check_mark.png?v=14" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20"> <strong>免费使用</strong> - 没有水印，免费导出</p>
+<p><img src="https://meta.appinn.net/images/emoji/twemoji/white_check_mark.png?v=14" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20"> <strong>操作简单</strong> - 3步搞定：上传图片 → 选布局 → 导出</p>
+<p><img src="https://meta.appinn.net/images/emoji/twemoji/white_check_mark.png?v=14" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20"> <strong>多种格式</strong> - 支持PNG图片和视频导出</p>
+<p><img src="https://meta.appinn.net/images/emoji/twemoji/white_check_mark.png?v=14" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20"> <strong>无需注册</strong> - 打开就能用</p>
+<p><img src="https://meta.appinn.net/images/emoji/twemoji/white_check_mark.png?v=14" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20"> <strong>浏览器运行</strong> - 不用下载软件</p>
+<h2><a name="p-274074-h-3" class="anchor" href="https://meta.appinn.net#p-274074-h-3"></a>适合哪些场景？</h2>
+<ul>
+<li>
+<p>健身前后对比</p>
+</li>
+<li>
+<p>装修改造前后</p>
+</li>
+<li>
+<p>美容护肤效果</p>
+</li>
+<li>
+<p>产品改进对比</p>
+</li>
+<li>
+<p>摄影修图前后</p>
+</li>
+<li>
+<p>其他任何需要展示变化的场景</p>
+</li>
+</ul>
+<h2><a name="p-274074-h-4" class="anchor" href="https://meta.appinn.net#p-274074-h-4"></a>网址</h2>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://beforeafterphotomaker.site">
+  <header class="source">
+      <img src="https://bagen.com/static/bagen_favicon.ico" class="site-icon" alt="" width="32" height="32">
+
+      <a href="https://beforeafterphotomaker.site" target="_blank" rel="noopener nofollow ugc">Bagen Automotive</a>
+  </header>
+
+  <article class="onebox-body">
+    <img width="500" height="500" src="https://bagen.com/static/images/logo-square.png" class="thumbnail onebox-avatar" alt="">
+
+<h3><a href="https://beforeafterphotomaker.site" target="_blank" rel="noopener nofollow ugc">Homepage</a></h3>
+
+  <p>BAGEN Otomotiv ile tüm hafif ticarilerin, kamyonların ve otobüslerin yedek parçalarını bulabilirsiniz.</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>谢谢！有建议也欢迎反馈。</p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73580">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73580</link>
+          <pubDate>Thu, 24 Jul 2025 01:15:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73580</guid>
+          <source url="https://meta.appinn.net/t/topic/73580.rss">分享个免费的对比图制作工具 - BAGen</source>
+        </item>
+        <item>
+          <title>清理占空间超大的 chrome缓存文件而不影响cookie和history？</title>
+          <dc:creator><![CDATA[mimic]]></dc:creator>
+          <category>问题求助</category>
+          <description><![CDATA[
+            <p>chrome选项里面只承认有几百M缓存的图片，但实际缓存应该都10几个G了<br>
+如何把占最大空间的那些缓存文件删掉而不影响cookie和history？</p>
+<p>某个10几个G的profile文件夹，<br>
+大于10M的文件只有20几个，剩下的5万多个小文件总共占了10几个G</p>
+            <p><small>9 个帖子 - 6 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73578">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73578</link>
+          <pubDate>Wed, 23 Jul 2025 22:56:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73578</guid>
+          <source url="https://meta.appinn.net/t/topic/73578.rss">清理占空间超大的 chrome缓存文件而不影响cookie和history？</source>
+        </item>
+        <item>
+          <title>Firefox 支持地址栏换算计量单位</title>
+          <dc:creator><![CDATA[Dalieba]]></dc:creator>
+          <category>Dalieba 的发现</category>
+          <description><![CDATA[
+            <p>Firefox 141.0 增加了换算单位的便民功能，通过在地址栏输入指定的表达式，就可以转换长度、温度、容量、力量、角度、时区等等的单位，就像这样：<br>
+<img src="https://h1.appinn.me/file/1753293246845_141_unit_conversion.webp" alt="141_unit_conversion.webp" width="700" height="90"></p>
+<p><img src="https://meta.appinn.net/images/emoji/twemoji/rolled_up_newspaper.png?v=14" title=":rolled_up_newspaper:" class="emoji" alt=":rolled_up_newspaper:" loading="lazy" width="20" height="20"> <a href="https://www.mozilla.org/en-US/firefox/141.0/releasenotes/" class="inline-onebox">Firefox 141.0, See All New Features, Updates and Fixes</a></p>
+<p>具体说明在这里：</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://support.mozilla.org/zh-CN/kb/solve-math-calculations-directly-your-firefox-addr">
+  <header class="source">
+      <img src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/favicon.abc0153f1a2cc149.png" class="site-icon" alt="" width="196" height="196">
+
+      <a href="https://support.mozilla.org/zh-CN/kb/solve-math-calculations-directly-your-firefox-addr" target="_blank" rel="noopener">support.mozilla.org</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://support.mozilla.org/zh-CN/kb/solve-math-calculations-directly-your-firefox-addr" target="_blank" rel="noopener">在 Firefox 地址栏中直接进行数学计算 | Firefox 帮助</a></h3>
+
+  <p>了解如何直接在 Firefox 地址栏中进行数学运算和单位换算</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73573">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73573</link>
+          <pubDate>Wed, 23 Jul 2025 17:55:21 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73573</guid>
+          <source url="https://meta.appinn.net/t/topic/73573.rss">Firefox 支持地址栏换算计量单位</source>
+        </item>
+        <item>
+          <title>分享一个开源的Chrome扩展：鼠标手势</title>
+          <dc:creator><![CDATA[hey]]></dc:creator>
+          <category>讨论分享</category>
+          <description><![CDATA[
+            <p>具体介绍参考应用商店中的内容</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://chromewebstore.google.com/detail/%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF/nipdbleimjhfpfdkopbfeagjjkmcfhbj?hl=zh-cn">
+  <header class="source">
+      <img src="https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png" class="site-icon" alt="" width="48" height="48">
+
+      <a href="https://chromewebstore.google.com/detail/%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF/nipdbleimjhfpfdkopbfeagjjkmcfhbj?hl=zh-cn" target="_blank" rel="noopener nofollow ugc">chromewebstore.google.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <img width="128" height="128" src="https://lh3.googleusercontent.com/j74fvfQ7ezTQWMZmU2lg-6SmznydbIo0p_r_u7tqKeIIrYCITtS4-T5bWvzsQQyLZCEERKGG3iX64qMy6IpuoXWURg=s128-rj-sc0x00ffffff" class="thumbnail onebox-avatar" alt="">
+
+<h3><a href="https://chromewebstore.google.com/detail/%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF/nipdbleimjhfpfdkopbfeagjjkmcfhbj?hl=zh-cn" target="_blank" rel="noopener nofollow ugc">鼠标手势 - Chrome 应用商店</a></h3>
+
+  <p>支持鼠标手势和超级拖拽功能的Chrome/Edge扩展</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>8 个帖子 - 5 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73571">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73571</link>
+          <pubDate>Wed, 23 Jul 2025 15:09:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73571</guid>
+          <source url="https://meta.appinn.net/t/topic/73571.rss">分享一个开源的Chrome扩展：鼠标手势</source>
+        </item>
+        <item>
+          <title>Folo for research的探讨</title>
+          <dc:creator><![CDATA[qi_gong]]></dc:creator>
+          <category>讨论分享</category>
+          <description><![CDATA[
+            <h2><a name="p-274047-h-1" class="anchor" href="https://meta.appinn.net#p-274047-h-1"></a>声明</h2>
+<ul>
+<li>本文涉及到了有些黑历史的folo，本文并不讨论其作者相关问题，仅仅用于学术讨论，望站长与版主，还有各位读者海涵，聚焦于学术讨论本身，谢谢各位~</li>
+<li>本文原刊于L站，故部分链接和表达未进行转换</li>
+<li>作者研究方向为医学AI，医学影像，BME，下面内容略有体现</li>
+</ul>
+<h2><a name="p-274047-h-2" class="anchor" href="https://meta.appinn.net#p-274047-h-2"></a>背景</h2>
+<p>最近看微信公众号有些腻了，想起来抢邀请码时争先恐后，用时浅尝辄止的 follow（现名为 folo），发现其内订阅的 rss 过少，遂翻了翻热榜，以及坛内的 AI 订阅 list （<a href="https://linux.do/t/topic/725298" rel="noopener nofollow ugc">分享一个开源，AI 领域精选 RSS 订阅源</a> ）</p>
+<h2><a name="p-274047-h-3" class="anchor" href="https://meta.appinn.net#p-274047-h-3"></a>正文</h2>
+<p>但是当我想要看看自己研究方向期刊动向时，发现并没办法在 discover 搜索框中搜索到相关信息</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281817247_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281817247_image.png" width="597" height="446">
+          </a>
+
+</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281845008_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281845008_image.png" width="541" height="426">
+          </a>
+
+</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281882191_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281882191_image.png" width="330" height="500">
+          </a>
+
+</p>
+<p>于是只能墨守陈规将本方向认可的期刊一个个输入</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281916151_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281916151_image.png" width="633" height="500">
+          </a>
+
+</p>
+<p>结果在浏览中发现一些 recent reader 的公开 list 非常值得借鉴，发现在 folo 最好的 list 不是直接搜索 list，而是看其他用户中的榜样，如下面几个用户都对各个期刊有个完整的收集</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281952763_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281952763_image.png" width="700" height="431">
+          </a>
+
+</p>
+<p>对应用户 → <a href="https://app.folo.is/share/users/ka353" rel="noopener nofollow ugc">https://app.folo.is/share/users/ka353</a></p>
+<p>                    <a href="https://h1.appinn.me/file/1753281958924_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281958924_image.png" width="300" height="500">
+          </a>
+
+</p>
+<p>对应用户 → <a href="https://app.folo.is/share/users/168870996960717824" rel="noopener nofollow ugc">https://app.folo.is/share/users/168870996960717824</a></p>
+<p>特别是这个 <span class="mention">@yongkun</span> (<a href="https://app.folo.is/share/users/yongkun" rel="noopener nofollow ugc">https://app.folo.is/share/users/yongkun</a>)（试图在 l 站 @出但失败）</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281970365_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281970365_image.png" width="289" height="499">
+          </a>
+
+</p>
+<p>其对于论文的关注度直接精确到了领域内著名课题组，通过 pubmed，willy 中的关键词搜索转 rss 来订阅匹配到关键词的 paper</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281974227_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281974227_image.png" width="700" height="403">
+          </a>
+
+</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281976454_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281976454_image.png" width="700" height="403">
+          </a>
+
+</p>
+<p>对于 nature，ta 使用主题词中开放的 rss 来进行订阅</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281981938_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281981938_image.png" width="700" height="403">
+          </a>
+
+</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281993124_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281993124_image.png" width="700" height="403">
+          </a>
+
+</p>
+<p>对于这个 rss 不知道他怎么整的 <a href="https://www.nature.com/bcj.rss" rel="noopener nofollow ugc">nature.com/bcj.rss</a><br>
+对于 annualreviewer，不太清楚他如何操作的</p>
+<p>                    <a href="https://h1.appinn.me/file/1753281999081_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753281999081_image.png" width="534" height="500">
+          </a>
+
+</p>
+<p>，但是可以看到这个网站也提供公开 rssfeed<br>
+[Annual Reviews RSS Feeds | Annual Reviews]<br>
+(<a href="https://www.annualreviews.org/page/about/rssfeeds" rel="noopener nofollow ugc">https://www.annualreviews.org/page/about/rssfeeds</a>)</p>
+<p>                    <a href="https://h1.appinn.me/file/1753282000677_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753282000677_image.png" width="700" height="403">
+          </a>
+
+</p>
+<p>鬼儿飘 <span class="mention">@guierpiao</span> (<a href="https://app.folo.is/share/users/guierpiao" rel="noopener nofollow ugc">https://app.folo.is/share/users/guierpiao</a>) 则是喜欢用分类法将预印本，期刊划分为不同分类（arxiv 分类缩写与全称对应表 <a href="https://arxiv.org/category_taxonomy" rel="noopener nofollow ugc">Category Taxonomy</a>）</p>
+<p>                    <a href="https://h1.appinn.me/file/1753282009555_image.png" target="_blank" rel="noopener nofollow ugc" class="onebox">
+            <img src="https://h1.appinn.me/file/1753282009555_image.png" width="253" height="500">
+          </a>
+
+</p>
+<p>然而，遗憾的是，很多期刊官网的 search 界面的搜索词是不能直接通过 rss route 转换为 rss，也不提供 rssfeed 功能（点名匹配爱思维尔，nature），但是还好如上面提到的 pubmed，willy，和 google scholar 都支持搜索词订阅（ <a href="https://docs.rsshub.app/routes/journal#scholar-keywords-monitoring" rel="noopener nofollow ugc"><img src="https://meta.appinn.net/images/emoji/twemoji/microscope.png?v=14" title=":microscope:" class="emoji" alt=":microscope:" loading="lazy" width="20" height="20"> Scientific Journal | scholar-keywords-monitoring</a>），这还是能提高我们不同研究方向的学生对于订阅源的可自定义性</p>
+<h2><a name="p-274047-h-4" class="anchor" href="https://meta.appinn.net#p-274047-h-4"></a>碎碎念</h2>
+<p>写了好一会，但是写的很乱成散文了，感谢各位读者耐心读到此处，希望这些方法论对你们有所帮助，如果你们还有更好的方法，欢迎提出交流 <img src="https://meta.appinn.net/images/emoji/twemoji/smiling_face_with_three_hearts.png?v=14" title=":smiling_face_with_three_hearts:" class="emoji" alt=":smiling_face_with_three_hearts:" loading="lazy" width="20" height="20"></p>
+            <p><small>6 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73567">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73567</link>
+          <pubDate>Wed, 23 Jul 2025 14:50:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73567</guid>
+          <source url="https://meta.appinn.net/t/topic/73567.rss">Folo for research的探讨</source>
+        </item>
+        <item>
+          <title>Ai笔试面试辅助工具安利</title>
+          <dc:creator><![CDATA[ai_offerstar]]></dc:creator>
+          <category>发现频道</category>
+          <description><![CDATA[
+            <h2><a name="p-274015-h-1" class="anchor" href="https://meta.appinn.net#p-274015-h-1"></a>软件名称</h2>
+<p>OfferStar - AI笔试面试辅助工具</p>
+<h2><a name="p-274015-h-2" class="anchor" href="https://meta.appinn.net#p-274015-h-2"></a>应用平台</h2>
+<p>网页 + 客户端（Windows/MacOS）</p>
+<h2><a name="p-274015-h-3" class="anchor" href="https://meta.appinn.net#p-274015-h-3"></a>推荐类型</h2>
+<p>【开发者自荐】</p>
+<h2><a name="p-274015-h-4" class="anchor" href="https://meta.appinn.net#p-274015-h-4"></a>一句简介</h2>
+<p>一款 Ai 笔试面试辅助工具，隐蔽性高，无视屏幕共享，切屏等检测。</p>
+<h2><a name="p-274015-h-5" class="anchor" href="https://meta.appinn.net#p-274015-h-5"></a>应用简介</h2>
+<ol>
+<li>支持邮箱登录（登录后有20元额度免费试用，够支持约1场笔试）</li>
+<li>支持面试、笔试（单选/多选/填空/算法题都ok）</li>
+<li>支持导出面试记录、笔试记录</li>
+<li>支持语音检测预置提示词来触发 Ai 问答</li>
+</ol>
+<h3><a name="p-274015-h-6" class="anchor" href="https://meta.appinn.net#p-274015-h-6"></a>开发中功能：</h3>
+<ol>
+<li>知识库能力</li>
+<li>其他</li>
+</ol>
+<h3><a name="p-274015-h-7" class="anchor" href="https://meta.appinn.net#p-274015-h-7"></a>官方网站</h3>
+<p><a href="https://www.offerstar.cn" rel="noopener nofollow ugc">OfferStar - AI笔试面试辅助工具</a></p>
+            <p><small>3 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73556">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73556</link>
+          <pubDate>Wed, 23 Jul 2025 12:18:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73556</guid>
+          <source url="https://meta.appinn.net/t/topic/73556.rss">Ai笔试面试辅助工具安利</source>
+        </item>
+        <item>
+          <title>【老鼠微硬评】开箱刀和 5050 和 8 字扣</title>
+          <dc:creator><![CDATA[dms]]></dc:creator>
+          <category>稻米鼠的频道</category>
+          <description><![CDATA[
+            <h2><a name="p-274014-h-1" class="anchor" href="https://meta.appinn.net#p-274014-h-1"></a>陶瓷开箱刀</h2>
+<p>一搜就有，刀片是伸缩的，背面可以磁吸。贴在冰箱上用来拆快递还是蛮方便的，而且价钱算是比较便宜。</p>
+<ul>
+<li>确实锋利，开快递的手感和普通美工刀不太一样</li>
+<li>设计了一个可以沿着快递边角进行切割的导向槽，但实际使用中并没有理想那么完美，毕竟快递箱的边角也没有那么完美</li>
+<li>但因为刀片锋利，用它去切割纸箱的感觉要比普通美工刀好得多。</li>
+</ul>
+<h2><a name="p-274014-h-5050-2" class="anchor" href="https://meta.appinn.net#p-274014-h-5050-2"></a>5050</h2>
+<p>这个小手电就超级火了。我在1688上买的，新人拿了个5元券，最后10元到手，据说这一家是正版，但感觉这东西都有点公模的意思了。</p>
+<ul>
+<li>说是增强版但其实拿到的是 M01</li>
+<li>Type-C 充电，充电口的硅胶塞不太服帖，时不时就掉下来</li>
+<li>充电口的硅胶塞和开关的硅胶都是偏软的，可以说是手感好，也可以说是质感不怎么样</li>
+<li>按钮的功能确实用心设计了，长按强光松手关闭，这一个设计就已经是极大的方便了</li>
+<li>双机切换主灯和侧灯</li>
+<li>在开灯状态下长按松手就可以关灯</li>
+<li>但我这个应该是没有状态记忆功能（除了能够记住上次开的是主灯还是侧灯）</li>
+<li>尾部有磁吸，强度是足够用的</li>
+<li>外壳有夜光功能，但主要就是好玩，因为很快就暗了实际作用并不大</li>
+<li>亮度比手机强一点，照明范围也就那样，不可以调焦。各方面都是比手机的闪光灯强一点点</li>
+<li>有一个帽夹，可以快拆，算是很不错的设计</li>
+<li>桶身上有两个帽夹的卡位，帽夹可以从前面或者后面卡进去，再考虑到帽夹的朝向大概是有8种方法。但实际上能用的位置并不多，因为有一些位置会挡到开关，或者挡到充电口，或者挡到侧灯。</li>
+<li>东西确实小，但比5号电池大，大概类似于18650电池的体积……大概15650吧</li>
+<li>10块钱还是有点偏贵了，但设计算比较到位，也就能值这个价。</li>
+<li>尾部有挂环，但上面拴的绳子稍微粗一点他就没办法合上，导致不能使用尾部的磁吸</li>
+</ul>
+<h2><a name="p-274014-h-8-3" class="anchor" href="https://meta.appinn.net#p-274014-h-8-3"></a>8 字扣</h2>
+<p>挺便宜的小东西，当然也确实小。作为快摘快挂还是可以的。我买的没有锁定的，因为很便宜，紧实程度还不错，并不会因为没有锁定而容易脱落。</p>
+<p>挂在小手电或者其他小工具上面，然后再勾在包包内部的钥匙环里，就方便快速找到并快速拿取</p>
+            <p><small>5 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73555">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73555</link>
+          <pubDate>Wed, 23 Jul 2025 12:15:52 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73555</guid>
+          <source url="https://meta.appinn.net/t/topic/73555.rss">【老鼠微硬评】开箱刀和 5050 和 8 字扣</source>
+        </item>
+        <item>
+          <title>大家坐后排会系安全带吗？</title>
+          <dc:creator><![CDATA[CyrusYip]]></dc:creator>
+          <category>讨论分享</category>
+          <description><![CDATA[
+            <p>【坐后座时扣好后座安全带 时速56公里时不扣安全带测试 美国高速安全保险协会-哔哩哔哩】</p>
+<p><iframe src="https://player.bilibili.com/player.html?bvid=BV1Mx411p78c&amp;high_quality=1&amp;autoplay=0" scrolling="no" frameborder="no" width="100%" height="430" allowfullscreen="true" seamless="seamless" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation"></iframe></p>
+<p>最近看到这个后排不系安全带的视频，作为司机感觉后背发凉，真没想到后排乘客就往前面挤。</p>
+<p>大家坐后排会系安全带吗？</p>
+<p>如果你是司机，会不会要求后排乘客系安全带？</p>
+            <p><small>14 个帖子 - 12 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73552">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73552</link>
+          <pubDate>Wed, 23 Jul 2025 11:05:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73552</guid>
+          <source url="https://meta.appinn.net/t/topic/73552.rss">大家坐后排会系安全带吗？</source>
+        </item>
+        <item>
+          <title>闲鱼智能监控机器人 - 开源AI项目，帮你 7x24 小时找到“信用极好”的真·个人好物</title>
+          <dc:creator><![CDATA[Qingwa]]></dc:creator>
+          <category>青蛙的应用</category>
+          <description><![CDATA[
+            <p><small>原始链接在：			<a href="https://www.appinn.com/ai-goofish-monitor/" class="inline-onebox">闲鱼智能监控机器人 - 开源AI项目，帮你 7x24 小时找到“信用极好”的真·个人好物 - 小众软件</a><br>
+</small><br></p><p><strong>闲鱼智能监控机器人</strong>是一个开源的自托管项目，它使用 AI 分析在闲鱼上发布的商品，通过规则决定是否推荐给用户。可同时监控多个关键词、可<strong>使用自然语言描述你的购买需求</strong>。需要大模型的 API Key（OpenAI 兼容 API 接口）。@<a href="https://www.appinn.com/ai-goofish-monitor/">Appinn</a></p><br>
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Copy-of-appinn-homework-2025-07-23T162650.260.jpg" width="" height=""><p>非常有趣的机器人，支持 Docker 部署。</p><p></p>
+<p>原理是这样的：</p>
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/Screen-20250723161349@2x.avif" width="353" height="500"><p>部署之后，后台是这样的：</p>
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/img.avif" width="700" height="268"><p>你可以为每一个任务设置不同的 <strong>AI标准</strong>，比如上面提到的 DJI Mini 3 Pro，开发者提供了一个完整的 Prompt 例子：</p>
+<h3><strong>第一部分：核心分析原则 (不可违背)</strong></h3>
+<ol>
+<li><strong>画像优先原则 (PERSONA-FIRST PRINCIPLE) [V6.3 核心升级]</strong>: 这是解决“航拍玩家”与“专业贩子”识别混淆的最高指导原则。在评估卖家时，你的首要任务不是寻找孤立的疑点，而是<strong>构建一个连贯的卖家“行为画像”</strong>。你必须回答核心问题：“这个卖家的所有行为（买、卖、评价、签名）组合起来，讲述的是一个怎样的故事？”
+<ul>
+<li><strong>如果故事是连贯的个人行为</strong>（例如，一个热爱航拍，不断体验、升级、出掉旧设备的发烧友），那么一些表面上的“疑点”（如交易频率略高）可以被合理解释，<strong>不应</strong>作为否决依据。</li>
+<li><strong>如果故事是矛盾的、不连贯的，或者明确指向商业行为</strong>（例如，购买记录是配件和炸机，售卖记录却是大量“几乎全新”的同型号无人机），那么即便卖家伪装得很好，也必须判定为商家。</li>
+</ul>
+</li>
+<li><strong>一票否决硬性原则 (HARD DEAL-BREAKER RULES)</strong>: 以下是必须严格遵守的否决条件。任何一项不满足，<code>is_recommended</code> 必须立即判定为 <code>false</code>。
+<ul>
+<li><strong>型号/套装</strong>: 必须是 <strong>大疆 Mini 3 Pro</strong> 且明确为 <strong>畅飞套装</strong>（或在描述/图片中清晰展示多块电池和充电管家）。</li>
+<li><strong>卖家信用</strong>: <code>卖家信用等级</code> 必须是 <strong>‘卖家信用极好’</strong>。</li>
+<li><strong>邮寄方式</strong>: 必须 <strong>支持邮寄</strong>。</li>
+<li><strong>电池循环硬性门槛</strong>: 若明确提供了电池循环次数，其数值 <strong><code>必须 ≤ 50 次</code></strong>。</li>
+<li><strong>【V6.4 逻辑修正】机器历史</strong>: <strong>不得出现</strong>任何“炸机”、“维修过”、“更换过机臂/云台”、“有暗病”等明确表示有严重事故或拆修历史的描述。</li>
+</ul>
+</li>
+<li><strong>图片至上原则 (IMAGE-FIRST PRINCIPLE)</strong>: 如果图片信息（如截图）与文本描述冲突，<strong>必须以图片信息为最终裁决依据</strong>。</li>
+<li><strong>【V6.4 逻辑修正】信息缺失处理原则 (MISSING-INFO HANDLING)</strong>: 对于可后天询问的关键信息（特指<strong>电池循环次数</strong>和<strong>维修/炸机历史</strong>），若完全未找到，状态应为 <code>NEEDS_MANUAL_CHECK</code>，这<strong>不直接导致否决</strong>。如果卖家画像极为优秀，可以进行“有条件推荐”。</li>
+</ol>
+<hr>
+<h3><strong>第二部分：详细分析指南</strong></h3>
+<p><strong>A. 商品本身评估 (Criteria Analysis):</strong></p>
+<ol>
+<li><strong>型号套装 (<code>model_package</code>)</strong>: 核对所有文本和图片。非 Mini 3 Pro 或非畅飞套装（或等效配件）则 <code>FAIL</code>。</li>
+<li><strong>电池循环 (<code>battery_cycles</code>)</strong>: 单块电池循环次数 ≤ 50 次。若无信息，则为 <code>NEEDS_MANUAL_CHECK</code>。</li>
+<li><strong>成色外观 (<code>condition</code>)</strong>: 最多接受“轻微使用痕迹”。仔细审查图片机身、机臂、桨叶、云台。</li>
+<li><strong>【V6.4 逻辑修正】机器历史 (<code>history</code>)</strong>: 严格审查所有文本和图片，寻找“炸机”、“维修”、“换过”、“进水”、“云台不正常”等负面描述。<strong>若完全未提及，则状态为 <code>NEEDS_MANUAL_CHECK</code></strong>；若有任何炸机或拆修证据，则为 <code>FAIL</code>。</li>
+</ol>
+<p><strong>B. 卖家与市场评估 (核心)</strong></p>
+<ol start="5">
+<li><strong>卖家背景深度分析 (<code>seller_type</code>) – [决定性评估]</strong>:
+<ul>
+<li><strong>核心目标</strong>: 运用“画像优先原则”，判定卖家是【个人玩家】还是【商家/贩子】。</li>
+<li><strong>【V6.3 升级】危险信号清单 (Red Flag List) 及豁免条款</strong>:
+<ul>
+<li><strong>交易频率</strong>: 短期内有密集交易。
+<ul>
+<li><strong>【发烧友豁免条款】</strong>: 如果交易记录时间跨度长（如超过2年），且买卖行为能形成“体验-升级-出售”的逻辑闭环（如玩过FPV、御等其他机型），则此条不适用。一个长期航拍发烧友在几年内有数十次交易是正常的。</li>
+</ul>
+</li>
+<li><strong>商品垂直度</strong>: 发布的商品高度集中于某一特定型号或品类。
+<ul>
+<li><strong>【发烧友豁免条款】</strong>: 如果卖家是该领域的深度玩家（例如，从他的购买记录、评价和发言能看出），专注于无人机是其专业性的体现。关键看他是在“玩”还是在“出货”。</li>
+</ul>
+</li>
+<li><strong>“行话”</strong>: 描述中出现“回收、同行、工作室、置换、量大”等术语。
+<ul>
+<li><strong>【无豁免】</strong>: 此为强烈的商家信号。</li>
+</ul>
+</li>
+<li><strong>物料购买</strong>: 购买记录中出现批量电池、桨叶、维修工具、炸机等。
+<ul>
+<li><strong>【无豁免】</strong>: 此为决定性的商家证据。</li>
+</ul>
+</li>
+<li><strong>图片/标题风格</strong>: 图片背景高度统一、专业；或标题模板化。
+<ul>
+<li><strong>【发烧友豁免条款】</strong>: 如果卖家追求完美，有自己的固定拍摄角落来展示他心爱的无人机，这是加分项。关键看图片传递的是“爱惜感”还是“商品感”。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>邮寄方式 (<code>shipping</code>)</strong>: 明确“仅限xx地面交/自提”则 <code>FAIL</code>。</li>
+<li><strong>卖家信用 (<code>seller_credit</code>)</strong>: <code>卖家信用等级</code> 必须为 <strong>‘卖家信用极好’</strong>。</li>
+</ol>
+<hr>
+<p>你可以根据自己的需求，随意修改这些 Prompt，每一个任务都会不断的让 AI 分析商品。</p>
+<p>所以…AI 的 Token 消耗是另外一个问题，请注意合理的消耗。</p>
+<h2>通知</h2>
+<p>机器人使用了 ntfy 进行通知，这也是一个开源项目，不过其自身提供的服务需要付费使用，既然你都能自托管这个机器人了，想必也能自托管一个 <a href="https://ntfy.sh/" target="_blank" rel="noopener">ntfy</a>…</p>
+<p>😂</p>
+<img src="https://do-cdn.appinn.com/static3/images/2025/07/img_2.avif" width="700" height="457"><h2>获取</h2>
+<ul>
+<li><a href="https://github.com/dingyufei615/ai-goofish-monitor/" target="_blank" rel="noopener">GitHub</a></li>
+</ul>
+<p>青小蛙本来想试试托管一个的，不过似乎需要太多的 AI Token，太费钱了，推荐给需要的同学吧。</p>
+<hr>
+<p>原文：https://www.appinn.com/ai-goofish-monitor/</p>
+<div>
+<div>
+<h2>关注我们</h2>
+<ul>
+<li>微博：<a href="https://weibo.com/appinncom" target="_blank" rel="noopener">https://weibo.com/appinncom</a></li>
+<li>B站：<a href="https://space.bilibili.com/10979326" target="_blank" rel="noopener">https://space.bilibili.com/10979326</a></li>
+<li>小红书：<a href="https://www.xiaohongshu.com/user/profile/61459ee9000000000201fae3" target="_blank" rel="noopener">https://kutt.appinn.com/6QwshF</a></li>
+<li>Facebook：<a href="https://www.facebook.com/appinncom/" target="_blank" rel="noopener">https://www.facebook.com/appinncom/</a></li>
+<li>BlueSky：<a href="https://bsky.app/profile/appinn.bsky.social" target="_blank" rel="noopener">https://bsky.app/profile/appinn.bsky.social</a></li>
+<li>X：<a href="https://x.com/appinn">https://x.com/appinn</a></li>
+<li>微信公众号：搜索「小众软件」</li>
+<li>TG频道：@appinnfeed</li>
+</ul>
+<p>爱发电：<a href="https://afdian.com/a/qingxwa" target="_blank" rel="noopener">https://afdian.com/a/qingxwa</a> （打赏我们，让我们更好的创作）</p>
+</div>
+</div>
+            <p><small>7 个帖子 - 6 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73549">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73549</link>
+          <pubDate>Wed, 23 Jul 2025 09:11:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73549</guid>
+          <source url="https://meta.appinn.net/t/topic/73549.rss">闲鱼智能监控机器人 - 开源AI项目，帮你 7x24 小时找到“信用极好”的真·个人好物</source>
+        </item>
+        <item>
+          <title>【开源自荐】基于Rust构建的自托管电子邮件API</title>
+          <dc:creator><![CDATA[rustmailer]]></dc:creator>
+          <category>发现频道</category>
+          <description><![CDATA[
+            <p>RustMailer是我个人的项目，从官网制作、文档、博客、RustMailer的后端/前端代码、docker，所有事情，都是我+AI大模型，独立完成的，欢迎来我的github给我一个小星星。</p>
+<p>产品网址：<a href="https://rustmailer.com/" rel="noopener nofollow ugc">https://rustmailer.com/</a></p>
+<p>开源项目地址： <a href="https://github.com/rustmailer/rustmailer" class="inline-onebox" rel="noopener nofollow ugc">GitHub - rustmailer/rustmailer: A self-hosted Email API, built in Rust</a></p>
+<p>文档地址： <a href="https://rustmailer.com/docs" class="inline-onebox" rel="noopener nofollow ugc">Quickstart | RustMailer Docs</a></p>
+<h2><a name="p-273965-h-1" class="anchor" href="https://meta.appinn.net#p-273965-h-1"></a><img src="https://meta.appinn.net/images/emoji/twemoji/bullseye.png?v=14" title=":bullseye:" class="emoji" alt=":bullseye:" loading="lazy" width="20" height="20"> 应用场景</h2>
+<p>RustMailer可轻松集成到您的应用程序中，通过提供强大的自托管电子邮件同步和发送后端，帮助您节省开发时间并提升效率。</p>
+<p>典型应用场景和行业包括：</p>
+<ul>
+<li>需要多账户邮件同步的SaaS平台</li>
+<li>带有自动化事务邮件发送功能的CRM系统</li>
+<li>支持动态邮件模板的营销自动化工具</li>
+<li>集成实时邮件通知的客户支持软件</li>
+<li>需要可靠IMAP和SMTP处理的企业应用</li>
+<li>管理订单确认和促销邮件的电商平台</li>
+<li>通过Webhook跟踪邮件打开和点击的数据分析解决方案</li>
+<li>需要安全可审计邮件工作流的金融科技和医疗系统</li>
+</ul>
+<p>RustMailer让开发者无需从零构建复杂邮件基础设施，专注于核心业务逻辑。</p>
+<h2><a name="p-273965-h-2" class="anchor" href="https://meta.appinn.net#p-273965-h-2"></a><img src="https://meta.appinn.net/images/emoji/twemoji/sparkles.png?v=14" title=":sparkles:" class="emoji" alt=":sparkles:" loading="lazy" width="20" height="20"> 功能特性</h2>
+<ul>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/globe_with_meridians.png?v=14" title=":globe_with_meridians:" class="emoji" alt=":globe_with_meridians:" loading="lazy" width="20" height="20"> <strong>现代化API</strong> - 提供gRPC和OpenAPI接口，支持多版本API文档</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/rocket.png?v=14" title=":rocket:" class="emoji" alt=":rocket:" loading="lazy" width="20" height="20"> <strong>高性能&amp;低成本</strong> - 采用Rust编写，内存占用低，无需Redis或外部依赖，极简生产部署成本</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/open_mailbox_with_raised_flag.png?v=14" title=":open_mailbox_with_raised_flag:" class="emoji" alt=":open_mailbox_with_raised_flag:" loading="lazy" width="20" height="20"> <strong>多账户IMAP支持</strong> - 基于UID的增量同步，支持文件夹选择、窗口化或日期范围同步</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/outbox_tray.png?v=14" title=":outbox_tray:" class="emoji" alt=":outbox_tray:" loading="lazy" width="20" height="20"> <strong>SMTP发送</strong> - 通过连接池管理外发邮件</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/receipt.png?v=14" title=":receipt:" class="emoji" alt=":receipt:" loading="lazy" width="20" height="20"> <strong>邮件模板支持</strong> - 支持事务性和营销邮件的动态模板</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/satellite_antenna.png?v=14" title=":satellite_antenna:" class="emoji" alt=":satellite_antenna:" loading="lazy" width="20" height="20"> <strong>灵活MTA集成</strong> - 可通过账户专属SMTP服务器、自托管MTA服务或第三方提供商发送</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/chart_increasing.png?v=14" title=":chart_increasing:" class="emoji" alt=":chart_increasing:" loading="lazy" width="20" height="20"> <strong>打开与点击追踪</strong> - 内置邮件打开和链接点击追踪功能</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/counterclockwise_arrows_button.png?v=14" title=":counterclockwise_arrows_button:" class="emoji" alt=":counterclockwise_arrows_button:" loading="lazy" width="20" height="20"> <strong>Webhook与VRL</strong> - 向外部系统发送Webhook载荷，并通过VRL脚本进行过滤转换</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/electric_plug.png?v=14" title=":electric_plug:" class="emoji" alt=":electric_plug:" loading="lazy" width="20" height="20"> <strong>NATS集成</strong> - 将实时事件推送至NATS，实现下游系统无缝对接</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/desktop_computer.png?v=14" title=":desktop_computer:" class="emoji" alt=":desktop_computer:" loading="lazy" width="20" height="20"> <strong>Web界面&amp;客户端</strong> - 内置基于网页的邮件客户端和管理面板</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/locked_with_key.png?v=14" title=":locked_with_key:" class="emoji" alt=":locked_with_key:" loading="lazy" width="20" height="20"> <strong>OAuth2支持</strong> - 内置带网页授权界面的OAuth2流程，自动管理访问令牌和刷新令牌</li>
+<li><img src="https://meta.appinn.net/images/emoji/twemoji/globe_showing_europe_africa.png?v=14" title=":globe_showing_europe_africa:" class="emoji" alt=":globe_showing_europe_africa:" loading="lazy" width="20" height="20"> <strong>代理支持</strong> - 在受限环境中为IMAP/SMTP/OAuth2连接提供代理支持</li>
+</ul>
+<p><img width="700" height="393" alt="Image" src="https://github.com/user-attachments/assets/81f39485-5688-41ad-8ee7-70752f18ee31"></p>
+<p><img width="700" height="393" alt="Image" src="https://github.com/user-attachments/assets/05a1664a-6a39-4a38-af27-35cba1c32cfb"></p>
+<p><img width="700" height="393" alt="Image" src="https://github.com/user-attachments/assets/fd0a29df-b99b-43e1-a15f-91b3e41e7f19"></p>
+<p><img width="700" height="393" alt="Image" src="https://github.com/user-attachments/assets/64511e18-c4c2-4de5-83cd-a2f8df8ef0b7"></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73542">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73542</link>
+          <pubDate>Wed, 23 Jul 2025 07:03:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73542</guid>
+          <source url="https://meta.appinn.net/t/topic/73542.rss">【开源自荐】基于Rust构建的自托管电子邮件API</source>
+        </item>
+        <item>
+          <title>【网站自荐】一个AI &amp; web3的一站式工具导航网站</title>
+          <dc:creator><![CDATA[HP666]]></dc:creator>
+          <category>alpha</category>
+          <description><![CDATA[
+            <p>大家好，我是一个0编程基础的小白，学习了vibe coding 55天后，我上线了这个导航网站。</p>
+<p>目前已完成了出海第一单<img src="https://meta.appinn.net/images/emoji/twemoji/white_check_mark.png?v=14" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20">，算是迈出了一小步</p>
+<p>我发现出海群体不是很了解web3，web3人群也不是很了解AI，所以我上线了这个AI + web3工具导航网站，希望可以帮助到探索 AI 或 Web3 工具的小伙伴。</p>
+<p>这个导航站主要聚合了全球范围内的 AI 和 Web3 工具，目前已整理收录 100+ 个产品，还在持续上新中，工具主要涵盖两大块：</p>
+<ul>
+<li>AI 工具</li>
+<li>Web3 工具</li>
+</ul>
+<p>面向人群：想了解web3的人群、web3从业者等</p>
+<p>每个条目都带有标签分类、外链、定价说明，支持搜索和筛选，还支持开发者提交自己的产品。</p>
+<p><img src="https://meta.appinn.net/images/emoji/twemoji/rocket.png?v=14" title=":rocket:" class="emoji" alt=":rocket:" loading="lazy" width="20" height="20"> 这个产品源自我自己的需求：</p>
+<ul>
+<li>作为web3从业者我的浏览器标签太多了</li>
+<li>作为AI出海初学者，AI类的各种产品也很多</li>
+</ul>
+<p>所以我希望有一个导航网站，满足我的需求，特别是那些低频使用但又不能没有的网站…</p>
+<p>我希望这个导航网站，可以成为出海开发者们的“灵感库”，看到web3领域更多的需求</p>
+<p>未来计划每周持续更新，欢迎有兴趣的朋友体验、反馈，也欢迎推荐你喜欢的工具、你自己开发的工具上来收录 <img src="https://meta.appinn.net/images/emoji/twemoji/raising_hands.png?v=14" title=":raising_hands:" class="emoji" alt=":raising_hands:" loading="lazy" width="20" height="20"></p>
+<p><img src="https://meta.appinn.net/images/emoji/twemoji/link.png?v=14" title=":link:" class="emoji" alt=":link:" loading="lazy" width="20" height="20"> 访问地址：<br>
+<img src="https://meta.appinn.net/images/emoji/twemoji/backhand_index_pointing_right.png?v=14" title=":backhand_index_pointing_right:" class="emoji" alt=":backhand_index_pointing_right:" loading="lazy" width="20" height="20"> <a href="https://aiweb3atlas.com" rel="noopener nofollow ugc">https://aiweb3atlas.com</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/73533">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://meta.appinn.net/t/topic/73533</link>
+          <pubDate>Wed, 23 Jul 2025 04:08:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">meta.appinn.net-topic-73533</guid>
+          <source url="https://meta.appinn.net/t/topic/73533.rss">【网站自荐】一个AI &amp; web3的一站式工具导航网站</source>
+        </item>
+  </channel>
+</rss>

@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# uri:atypon.com:cms:schema:rdf.xsd">
+   <channel rdf:about="https://www.jandonline.org/issues?publicationCode=jand&amp;rss=yes">
+      <title>Journal of the Academy of Nutrition and Dietetics</title>
+      <description>Journal of the Academy of Nutrition and Dietetics RSS feed. </description>
+      <link>https://www.jandonline.org/issues?publicationCode=jand&amp;rss=yes</link>
+      <dc:publisher>Elsevier Inc.</dc:publisher>
+      <dc:language>en</dc:language>
+      <dc:rights>© 2025 Published by Elsevier Inc. All rights reserved.</dc:rights>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:issn>2212-2672</prism:issn>
+      <prism:publicationDate>2025-07-24-07:00</prism:publicationDate>
+      <prism:copyright>© 2025 Published by Elsevier Inc. All rights reserved.</prism:copyright>
+      <prism:rightsAgent>permissionshelpdesk@elsevier.com</prism:rightsAgent>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00529-5/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00531-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00530-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00511-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00510-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00509-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00497-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00226-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00499-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00498-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00201-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00228-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00256-4/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00255-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00188-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00166-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00254-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00253-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00227-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00150-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00190-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00189-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00159-5/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00167-4/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00148-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00168-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00165-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00155-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00127-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00154-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00153-4/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00152-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00149-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00147-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00143-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00144-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00126-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00125-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00124-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00115-7/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00114-5/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00113-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00112-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00109-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00107-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00106-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00086-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00077-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00076-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00073-5/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00071-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00070-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00069-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00068-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00056-5/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00054-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00041-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00038-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00036-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00035-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00021-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00019-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00001-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(24)01020-7/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(24)00989-4/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(24)00924-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(24)00871-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(23)01593-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(21)00072-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00241-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00240-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.jandonline.org/article/S2212-2672(25)00225-4/fulltext?rss=yes"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00529-5/fulltext?rss=yes">
+      <title>Nutrition-Related Experiences and Perceptions of Pacific Islanders with Diabetes in the United States: A Qualitative Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00529-5/fulltext?rss=yes</link>
+      <description>Pacific Islanders (PI) have a greater risk of developing type 2 diabetes compared to the Non-Hispanic White population. Little is known about PIs’ culture, experiences, and perceptions related to diabetes, especially regarding nutritional healthcare.</description>
+      <dc:title>Nutrition-Related Experiences and Perceptions of Pacific Islanders with Diabetes in the United States: A Qualitative Study</dc:title>
+      <dc:creator>Dailyn K. Tufuaga, Emily V. Patten, Pitovao Gerratt, Sarah G. Bellini</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.07.006</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-24</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-24</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00531-3/fulltext?rss=yes">
+      <title>Cross-sectional associations between family dinner frequency and quality, self-directed parental weight talk during meals, and disordered eating behaviors in adolescents</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00531-3/fulltext?rss=yes</link>
+      <description>Although a higher frequency of family meals is associated with lower levels of disordered eating in adolescents, the quality of family meal interactions and weight-related discourse during mealtimes may play a role in the level of protection.</description>
+      <dc:title>Cross-sectional associations between family dinner frequency and quality, self-directed parental weight talk during meals, and disordered eating behaviors in adolescents</dc:title>
+      <dc:creator>Rachael A. Sabelli, Grace Hajinazarian, Margie R. Skeer, Katherine M. Rancaño, Sara C. Folta, Misha Eliasziw, Kendrin R. Sonneville</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.07.007</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-23</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-23</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00530-1/fulltext?rss=yes">
+      <title>Prospective associations of breastfeeding parents’ postpartum dietary intake with infant gut microbiome at 6 months in the Pregnancy Eating Attributes Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00530-1/fulltext?rss=yes</link>
+      <description>Oligosaccharides in breast milk facilitate colonization of infant gut microbiota that reduce the risk of metabolic disorders. Although diet influences human milk composition, no study to date has examined the association of breastfeeding parents’ dietary intake, exclusively during the postpartum period, with infant gastrointestinal microbiome.</description>
+      <dc:title>Prospective associations of breastfeeding parents’ postpartum dietary intake with infant gut microbiome at 6 months in the Pregnancy Eating Attributes Study</dc:title>
+      <dc:creator>Namrata Sanjeevi, Caitlin Dreisbach, Shyamal Peddada, Anna Maria Siega-Riz, Farnaz Fouladi, Tonja Nansel</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.07.005</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-22</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-22</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00511-8/fulltext?rss=yes">
+      <title>Dietary Fiber Intake and Prostate Cancer Outcomes and All-Cause Mortality: Findings from a Secondary Analysis of the Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00511-8/fulltext?rss=yes</link>
+      <description>Prostate cancer is one of the most common cancers in the United States. Dietary fiber intake may play a role in reducing cancer risk and mortality. However, the relationship of dietary fiber intake with prostate cancer risk and prostate cancer-specific mortality remains uncertain.</description>
+      <dc:title>Dietary Fiber Intake and Prostate Cancer Outcomes and All-Cause Mortality: Findings from a Secondary Analysis of the Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Study</dc:title>
+      <dc:creator>Yanxu Yang, Yuan Wang, Hongke Wu, Nathaniel R. Geyer, Alicia C. McDonald, Ming Wang</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.07.003</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-18</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-18</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00510-6/fulltext?rss=yes">
+      <title>Associations between Perceived Tap Water Safety and Dietary Outcomes among US Adults</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00510-6/fulltext?rss=yes</link>
+      <description>Water safety and insecurity in the US are growing public health concerns. Concerns about water safety may impact consumption and use in food preparation, yet associations between water insecurity indicators and nutrition outcomes remain understudied.</description>
+      <dc:title>Associations between Perceived Tap Water Safety and Dietary Outcomes among US Adults</dc:title>
+      <dc:creator>Melissa J. Slotnick, Cindy W. Leung, Anna Claire Tucker, Andrew D. Jones, Julia A. Wolfson</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.07.004</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-18</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-18</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00509-X/fulltext?rss=yes">
+      <title>(Mis)matches in daily weight stigma perpetrators’ and targets’ genders and races relative to targets’ daily disordered eating behaviors: Examining differences between Black and White women</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00509-X/fulltext?rss=yes</link>
+      <description>Associations between weight stigma (WS) and disordered eating behaviors (DEBs) vary based on the WS source (e.g., family, strangers). However, no research has examined how (mis)matches in WS perpetrators’ and targets’ races and genders relate to targets’ DEBs in the natural environment (e.g., home, work/school).</description>
+      <dc:title>(Mis)matches in daily weight stigma perpetrators’ and targets’ genders and races relative to targets’ daily disordered eating behaviors: Examining differences between Black and White women</dc:title>
+      <dc:creator>Kelly A. Romano, Emily Panza, Carol B. Peterson, Laura Hooper, Tyler B. Mason</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.07.002</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-18</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-18</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00497-6/fulltext?rss=yes">
+      <title>Academy of Nutrition and Dietetics’ Food as Medicine Strategic Roadmap</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00497-6/fulltext?rss=yes</link>
+      <description>Food as Medicine (FAM) interventions are emerging as an effective approach to addressing nutrition security and chronic disease among patients with nutrition-related disease or risk-factors. FAM programs are food-based interventions provided simultaneously with medical nutrition therapy that reaffirm the role food and nutrition play in health outcomes. The Academy of Nutrition and Dietetics (Academy) is taking bold steps to promote registered dietitian nutritionists (RDN) as a requisite of rigorous FAM programming capable of transforming health and improving well-being.</description>
+      <dc:title>Academy of Nutrition and Dietetics’ Food as Medicine Strategic Roadmap</dc:title>
+      <dc:creator>Alison Steiber, Deepa Handu, Karah Mantinan, Rebecca Hagedorn-Hatfield</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.272</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-05</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-05</prism:publicationDate>
+      <prism:section>From the Academy</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00226-6/fulltext?rss=yes">
+      <title>An Overview of Updates to the Commission on Dietetic Registration’s Recertification Processes and Requirements, 2001–2025</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00226-6/fulltext?rss=yes</link>
+      <description>The Commission on Dietetic Registration (CDR), the credentialing agency for the Academy of Nutrition and Dietetics, administers the certification and recertification processes for registered dietitian nutritionists (RDNs) and nutrition and dietetics technicians, registered (NDTRs).</description>
+      <dc:title>An Overview of Updates to the Commission on Dietetic Registration’s Recertification Processes and Requirements, 2001–2025</dc:title>
+      <dc:creator>Sierra Fawn Xie, Samantha Love, Alyssa Beard</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.025</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-03</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-03</prism:publicationDate>
+      <prism:section>From the Academy</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00499-X/fulltext?rss=yes">
+      <title>Poor water quality and food insecurity in Ecuador: Disparities in exposure and associations with young child feeding practices</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00499-X/fulltext?rss=yes</link>
+      <description>Reliable access to adequate food and safe drinking water is essential for child health and development, but food insecurity and water quality issues are common globally. Understanding how these factors are associated with child feeding practices is critical for identifying strategies to mitigate their potential negative impacts.</description>
+      <dc:title>Poor water quality and food insecurity in Ecuador: Disparities in exposure and associations with young child feeding practices</dc:title>
+      <dc:creator>Joshua D. Miller, María Belén Ocampo Ordóñez, Ivonne Headley, Heather Wasser, Amanda L. Thompson</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.274</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-02</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-02</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00498-8/fulltext?rss=yes">
+      <title>Evaluation of caffeinated beverages sold in a national sample of U.S. middle and high schools</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00498-8/fulltext?rss=yes</link>
+      <description>According to recommendations, adolescents should limit caffeine intake to 100 milligrams (mg) per day. High schools (but not middle or elementary schools) participating in the U.S. Department of Agriculture (USDA) National School Lunch Program and School Breakfast Program are allowed to sell beverages with added caffeine to students, but the amount of caffeine is not regulated. The prevalence of caffeinated beverages sold to students, and the amount of caffeine these beverages contain, is unknown.</description>
+      <dc:title>Evaluation of caffeinated beverages sold in a national sample of U.S. middle and high schools</dc:title>
+      <dc:creator>Leah Elizabeth Chapman, Erin R. Hager, Shu Wen Ng, Nan Dou, Juliana FW. Cohen</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.273</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-02</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-02</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00201-1/fulltext?rss=yes">
+      <title>Provision and Access to Nutrition Care for the Prevention and Treatment of Malnutrition in Older Adults Within Long-Term Care and Community Settings: A Consensus Statement of the Academy of Nutrition and Dietetics</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00201-1/fulltext?rss=yes</link>
+      <description>It is the consensus of the Academy of Nutrition and Dietetics that equitable access to nutrition care, including medical nutrition therapy provided or facilitated by registered dietitian nutritionists (RDNs), can improve nutrition and health outcomes for older adults in long-term care and community settings. The target audience includes RDNs, policymakers, insurance providers, and other interested parties. The consensus statement is based on the Evidence Analysis Center’s malnutrition in older adults systematic reviews that evaluated nutrition assessment and nutrition interventions, and the expertise of content experts.</description>
+      <dc:title>Provision and Access to Nutrition Care for the Prevention and Treatment of Malnutrition in Older Adults Within Long-Term Care and Community Settings: A Consensus Statement of the Academy of Nutrition and Dietetics</dc:title>
+      <dc:creator>Judy R. Simon, Nancy Munoz, Shirley Y. Chao, Mary Litchford, Lisa Moloney</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.023</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-07-01</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-07-01</prism:publicationDate>
+      <prism:section>From the Academy</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00228-X/fulltext?rss=yes">
+      <title>Corrigendum</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00228-X/fulltext?rss=yes</link>
+      <description>Corrigendum to: Urban Food Supply Chain Resilience for Crises Threatening Food Security: A Qualitative Study</description>
+      <dc:title>Corrigendum</dc:title>
+      <dc:identifier>10.1016/j.jand.2025.06.027</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-27</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-27</prism:publicationDate>
+      <prism:section>From the Academy</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00256-4/fulltext?rss=yes">
+      <title>Appearance Pressure From the Media Mediates the Relationship Between Internalized Weight Bias and Eating Disorder Risk for Young Women: A Cross-Sectional Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00256-4/fulltext?rss=yes</link>
+      <description>Internalized weight bias (IWB) is the application of negative stereotypes about people in larger bodies to oneself. IWB is associated with numerous negative physical and mental health outcomes, including increased risk of disordered eating. It is possible that this relationship is explained in part by pressure to achieve a so-called ideal body, due to the preponderance of the pro-thin and anti-fat bias often perpetuated in Western media content (ie, appearance pressure from the media).</description>
+      <dc:title>Appearance Pressure From the Media Mediates the Relationship Between Internalized Weight Bias and Eating Disorder Risk for Young Women: A Cross-Sectional Study</dc:title>
+      <dc:creator>Brooke L. Bennett, Allison F. Wagner, Rachel D. Marshall, Janet D. Latner</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.031</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-26</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-26</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00255-2/fulltext?rss=yes">
+      <title>Financial Well-being and Health-Related Quality of Life are Associated with Transitions in Food Insecurity Status among Recipients of Charitable Food Assistance in Atlanta, GA and Houston, TX</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00255-2/fulltext?rss=yes</link>
+      <description>The literature on the determinants of US food insecurity is extensive. Yet, the research on transitions in food insecurity, especially among a group especially at-risk of food insecurity, recipients of charitable food assistance (CFA), is more limited.</description>
+      <dc:title>Financial Well-being and Health-Related Quality of Life are Associated with Transitions in Food Insecurity Status among Recipients of Charitable Food Assistance in Atlanta, GA and Houston, TX</dc:title>
+      <dc:creator>Craig Gundersen, Fred Brooks, Daphne C. Hernandez</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.030</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-26</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-26</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00188-1/fulltext?rss=yes">
+      <title>Young Children’s (Aged 3 to 8 Years) Food and Beverage Brand Exposure on YouTube and YouTube Kids: An Observational Study and Content Analysis</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00188-1/fulltext?rss=yes</link>
+      <description>Children’s exposure to digital food marketing influences their preferences and consumption of unhealthy products. Young children increasingly spend time viewing YouTube videos on mobile devices, where food brands are promoted in popular children’s content. Research is needed to document young children’s exposure to branded food messages on YouTube.</description>
+      <dc:title>Young Children’s (Aged 3 to 8 Years) Food and Beverage Brand Exposure on YouTube and YouTube Kids: An Observational Study and Content Analysis</dc:title>
+      <dc:creator>Frances Fleming-Milici, Haley Gershman, Hanako O. Agresta, Melissa McCann, Jennifer Harris</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.010</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-25</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-25</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00166-2/fulltext?rss=yes">
+      <title>All the Colors of the Rainbow: Synthetic Dyes in US Packaged Foods and Beverages in 2020</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00166-2/fulltext?rss=yes</link>
+      <description>Research over the past 40 or more years has raised questions around the safety of synthetic food dyes approved for use in foods and beverages in the United States, especially in relation to impacts on neurobehavior in some children. Understanding the prevalence of synthetic dyes in US foods and beverages, especially those marketed to children, can help inform policy makers interested in taking legislative or regulatory action.</description>
+      <dc:title>All the Colors of the Rainbow: Synthetic Dyes in US Packaged Foods and Beverages in 2020</dc:title>
+      <dc:creator>Elizabeth K. Dunford, Thomas M. Galligan, Lindsey Smith Taillie, Aviva A. Musicus</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.007</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-24</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-24</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00254-0/fulltext?rss=yes">
+      <title>Examining differences in children’s reported exposure to food advertising in amateur sports settings in Canada’s two policy environments: A cross-sectional study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00254-0/fulltext?rss=yes</link>
+      <description>Food marketing influences children’s diet. Although food companies advertise to children via sports sponsorship, little research has examined this type of advertising.</description>
+      <dc:title>Examining differences in children’s reported exposure to food advertising in amateur sports settings in Canada’s two policy environments: A cross-sectional study</dc:title>
+      <dc:creator>Elise Pauzé, Catherine L. Mah, Monica Taljaard, Monique Potvin Kent</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.029</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-23</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-23</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00253-9/fulltext?rss=yes">
+      <title>Nutrition and Acute Myeloid Leukemia and Myelodysplastic Syndromes in Older Adults (≥60): A Scoping Review</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00253-9/fulltext?rss=yes</link>
+      <description>Acute myeloid leukemia (AML) and myelodysplastic syndromes (MDS) commonly affect older adults (aged ≥60). Treatments are often intensive, with side effects impacting patients’ eating abilities and, consequently, nutritional status, which can influence treatment outcomes.</description>
+      <dc:title>Nutrition and Acute Myeloid Leukemia and Myelodysplastic Syndromes in Older Adults (≥60): A Scoping Review</dc:title>
+      <dc:creator>Victoria Crowder, Ayomide Okanlawon Bankole, Jamie L. Conklin, Amanda S. Sawyer, Amanda M. Holliday, Rebecca Fogle, Lorinda A. Coombs, Daniel R. Richardson, Melissa Batchelor, Anna Beeber, Todd Schwartz, Ashley Leak Bryant</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.028</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-19</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-19</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00227-8/fulltext?rss=yes">
+      <title>Explicit, Implicit, and Internalized Weight Bias: Relationships With Self-Perceptions of Weight and Current Dieting</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00227-8/fulltext?rss=yes</link>
+      <description>Negative attitudes regarding body size, including explicit, implicit, and internalized weight bias, are associated with deleterious outcomes, particularly for those in larger bodies.</description>
+      <dc:title>Explicit, Implicit, and Internalized Weight Bias: Relationships With Self-Perceptions of Weight and Current Dieting</dc:title>
+      <dc:creator>Diane L. Rosenbaum, Meghan M. Gillen, Charlotte H. Markey</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.06.026</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-10</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-10</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00150-9/fulltext?rss=yes">
+      <title>In Memoriam: Mary Belle McDonald, MS, RD</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00150-9/fulltext?rss=yes</link>
+      <description>Former Academy of Nutrition and Dietetics leader and Medallion Award recipient Mary Belle McDonald, MS, RD, passed away on March 15, 2025. She was 86 years old.</description>
+      <dc:title>In Memoriam: Mary Belle McDonald, MS, RD</dc:title>
+      <dc:identifier>10.1016/j.jand.2025.04.011</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-06-03</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-06-03</prism:publicationDate>
+      <prism:section>From the Academy</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00190-X/fulltext?rss=yes">
+      <title>Machine Learning With Ingredient-Level Food Trees Reveals Contributors to Systemic Inflammation Among Adults in the National Health and Nutrition Examination Survey, 2001-2010 and 2015-2018</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00190-X/fulltext?rss=yes</link>
+      <description>Methods for modeling the relationship between self-reported 24-hour dietary recalls and health outcomes are traditionally based on nutrients and/or dietary patterns. Machine learning (ML), combined with hierarchical representations of diet, may help improve estimates of health and identify specific foods associated with diet-induced inflammation.</description>
+      <dc:title>Machine Learning With Ingredient-Level Food Trees Reveals Contributors to Systemic Inflammation Among Adults in the National Health and Nutrition Examination Survey, 2001-2010 and 2015-2018</dc:title>
+      <dc:creator>Jules A. Larke, Danielle G. Lemay</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.012</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-28</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-28</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00189-3/fulltext?rss=yes">
+      <title>Registered Dietitian Nutritionist Consultation Is Associated With Improvement in Nutritional Status in Chronically Ill Children: A Retrospective, Cohort Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00189-3/fulltext?rss=yes</link>
+      <description>The influence of care provided by a registered dietitian nutritionist (RDN) to malnourished children is not well described.</description>
+      <dc:title>Registered Dietitian Nutritionist Consultation Is Associated With Improvement in Nutritional Status in Chronically Ill Children: A Retrospective, Cohort Study</dc:title>
+      <dc:creator>Mary Beth Feuling, Julia Hilbrands, Kyndal Hettich, Jessica Kopesky, Nicole Martin, Regina McCarthy, Kristen Osinski, Rebecca Pipkorn, Amber Smith, Rodney A. Sparapani, Bi Q. Teng, Praveen S. Goday</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.011</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-28</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-28</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00159-5/fulltext?rss=yes">
+      <title>In Memoriam: Demetra "Dee" Faye Pratt, RDN, LDN</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00159-5/fulltext?rss=yes</link>
+      <description>Demetra Faye Pratt, RDN, LDN, affectionately known as "Dee," passed away on April 22, 2025, at the age of 75 years. She dedicated her life to caring for others, particularly as a registered dietitian nutritionist (RDN).</description>
+      <dc:title>In Memoriam: Demetra "Dee" Faye Pratt, RDN, LDN</dc:title>
+      <dc:identifier>10.1016/j.jand.2025.05.005</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-28</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-28</prism:publicationDate>
+      <prism:section>From the Academy</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00167-4/fulltext?rss=yes">
+      <title>Cost-Effectiveness of Installing Water Dispensers in Massachusetts’ Schools to Improve Nutrition Environments, Health, and Health Equity</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00167-4/fulltext?rss=yes</link>
+      <description>Evidence suggests that providing children with water on school lunch lines promotes healthy weight and is cost-effective.</description>
+      <dc:title>Cost-Effectiveness of Installing Water Dispensers in Massachusetts’ Schools to Improve Nutrition Environments, Health, and Health Equity</dc:title>
+      <dc:creator>Angie L. Cradock, Jessica L. Barrett, Stephanie M. McCulloch, Nicole Good, Claire Santarelli, Amy A. Bolton, Jennifer F. Reiner, Zachary J. Ward, Steven L. Gortmaker</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.008</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-19</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-19</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00148-0/fulltext?rss=yes">
+      <title>In Memoriam: Mary Ruth Bedford, PhD, RD</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00148-0/fulltext?rss=yes</link>
+      <description>Mary Ruth Bedford, PhD, RD, a leader, mentor, and philanthropist in the field of nutrition and dietetics, passed away on December 15, 2024 at the age of 101.</description>
+      <dc:title>In Memoriam: Mary Ruth Bedford, PhD, RD</dc:title>
+      <dc:identifier>10.1016/j.jand.2025.04.009</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-05-17</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-17</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>From the Academy</prism:section>
+      <prism:startingPage>1193</prism:startingPage>
+      <prism:endingPage>1194</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00168-6/fulltext?rss=yes">
+      <title>WIC Service Use, Benefit Redemption, and Continued Participation among Participants in California</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00168-6/fulltext?rss=yes</link>
+      <description>The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides nutrition assistance to pregnant and postpartum women in low-income households and their children up to age 5 years. Flexible services (in-person and remote) have been provided since 2020.</description>
+      <dc:title>WIC Service Use, Benefit Redemption, and Continued Participation among Participants in California</dc:title>
+      <dc:creator>Christopher E. Anderson, Catherine E. Yepez, Shannon E. Whaley</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.009</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-16</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-16</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00165-0/fulltext?rss=yes">
+      <title>The Need for and Challenges of Nutrition and Dietetics Registry Studies Part II: A Primer for the Design and Implementation of Registry Studies in the Academy of Nutrition and Dietetics Health Informatics Infrastructure</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00165-0/fulltext?rss=yes</link>
+      <description>Data from real-world medical nutrition therapy (MNT)—delivered by registered dietitian nutritionists—is needed to understand the influence of MNT on patient outcomes and support public policy regarding reimbursement of MNT services. The Academy of Nutrition and Dietetics developed a web-based registry to collect nutrition care data and track MNT-related outcomes. This platform is the Academy of Nutrition and Dietetics Health Informatics Infrastructure. Academy of Nutrition and Dietetics Health Informatics Infrastructure is a tool that uses the Nutrition Care Process and Terminology to investigate nutrition care practices and resulting outcomes.</description>
+      <dc:title>The Need for and Challenges of Nutrition and Dietetics Registry Studies Part II: A Primer for the Design and Implementation of Registry Studies in the Academy of Nutrition and Dietetics Health Informatics Infrastructure</dc:title>
+      <dc:creator>Lindsay Woodcock, Casey R. Colin, Erin Lamers-Johnson, Constantina Papoutsakis</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.006</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-08</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-08</prism:publicationDate>
+      <prism:section>From the Academy</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00155-8/fulltext?rss=yes">
+      <title>Dietitian-Led Swallow Screening and Assessment for Early Detection of Swallow Difficulties and Improved Nutritional Intake: A Commentary</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00155-8/fulltext?rss=yes</link>
+      <description>On average, humans swallow about 600 times daily without effort or thought; however, swallowing is a complex mechanism requiring intricate coordination of several muscles in the oral cavity, pharynx, and esophagus innervated by several pairs of cranial nerves. Any loss of neural control or muscle coordination in any part of the swallowing process may result in swallowing difficulty or dysphagia.</description>
+      <dc:title>Dietitian-Led Swallow Screening and Assessment for Early Detection of Swallow Difficulties and Improved Nutritional Intake: A Commentary</dc:title>
+      <dc:creator>Jennifer Doley, Maureen Janowski, Sunitha Zechariah</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.05.001</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-08</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-08</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00127-3/fulltext?rss=yes">
+      <title>Revised 2025-2030 Essential Practice Competencies for Commission on Dietetic Registration Credentialed Nutrition and Dietetics Practitioners: Supporting Professional Advancement and Competence</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00127-3/fulltext?rss=yes</link>
+      <description>The Commission on Dietetic Registration (CDR) developed the Essential Practice Competencies1 for CDR-credentialed nutrition and dietetics practitioners to provide overarching validated standards for 2 credentials—registered dietitian nutritionist (RDN) and nutrition and dietetic technician, registered (NDTR).2 Practice competencies define the knowledge, skill, judgment, and attitude requirements throughout a practitioner’s career, across practice areas, and within focus areas. Competencies provide a structured guide to help identify, evaluate, and develop the behaviors required for continuing competence.</description>
+      <dc:title>Revised 2025-2030 Essential Practice Competencies for Commission on Dietetic Registration Credentialed Nutrition and Dietetics Practitioners: Supporting Professional Advancement and Competence</dc:title>
+      <dc:creator>Amanda Coufal, Aida Miles, Ashley Paschke, Carrie S. Swift, Lini Alappat, Sean Paladini, ShLanda Rochel Burton, Samantha Love, Dana Buelsing Sowards</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.004</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-05-08</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-08</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>From the Academy</prism:section>
+      <prism:startingPage>1188</prism:startingPage>
+      <prism:endingPage>1192</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00154-6/fulltext?rss=yes">
+      <title>Evaluation of Food Insecurity Programs on Campus: A Scoping Review</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00154-6/fulltext?rss=yes</link>
+      <description>Although the prevalence of food insecurity among higher education students is consistently higher than the general population, and some support is available, the extent to which programs developed to address food insecurity help students in higher education institutions remains unclear.</description>
+      <dc:title>Evaluation of Food Insecurity Programs on Campus: A Scoping Review</dc:title>
+      <dc:creator>Putu Novi Arfirsta Dharmayani, Gantsetseg Ganbold, Nadia Farnaz, Taylah Scutts, Sheralle Kumar, Ariik Ajak, Miriam Williams, Seema Mihrshahi</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.015</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-06</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-06</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00153-4/fulltext?rss=yes">
+      <title>Malnutrition Risk Is Associated With All-Cause Mortality and Chemotherapy Complications Among Adults Diagnosed With Diverse Cancer Types: A Retrospective Cohort Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00153-4/fulltext?rss=yes</link>
+      <description>Studies investigating the association of malnutrition with mortality and complications of cancer treatment in oncology patients are primarily restricted to head and neck and gastrointestinal cancers. Yet, malnutrition risk factors are experienced across cancer types.</description>
+      <dc:title>Malnutrition Risk Is Associated With All-Cause Mortality and Chemotherapy Complications Among Adults Diagnosed With Diverse Cancer Types: A Retrospective Cohort Study</dc:title>
+      <dc:creator>Rachel Hoobler, Manuela Herrera, Kary Woodruff, Alejandro Sanchez, Adriana M. Coletta, Amandine Chaix, Joan Elizondo, Mary C. Playdon</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.014</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-05-05</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-05-05</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00152-2/fulltext?rss=yes">
+      <title>Body- and Fitness-Related Shame Helps Explain the Association Between Internalized Weight Bias and Orthorexia Symptoms Among North American Female Yoga Professionals</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00152-2/fulltext?rss=yes</link>
+      <description>Recently, emerging population-based evidence has revealed that yoga practitioners are particularly vulnerable to engaging in disordered eating behaviors, inclusive of orthorexia symptoms (OS). Although orthorexia tends to be characterized by a hypervigilance over consuming so-called healthy or clean foods based on quality attributes, its associations with variables related to broader diet culture (eg, internalized weight bias [IWB] and body- and fitness-related shame, guilt, and hubristic pride) remain underexamined.</description>
+      <dc:title>Body- and Fitness-Related Shame Helps Explain the Association Between Internalized Weight Bias and Orthorexia Symptoms Among North American Female Yoga Professionals</dc:title>
+      <dc:creator>Jennifer B. Webb, Tran Tran, Lia Bauert, Sophie Pringle</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.013</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-04-28</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-04-28</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00149-2/fulltext?rss=yes">
+      <title>The Accuracy of a SmartBottle Device for Objective Assessment of Changes in Bottle Weight During Infant Feeding</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00149-2/fulltext?rss=yes</link>
+      <description>Current infant feeding assessment methods are often labor-intensive for caregivers and subject to bias.</description>
+      <dc:title>The Accuracy of a SmartBottle Device for Objective Assessment of Changes in Bottle Weight During Infant Feeding</dc:title>
+      <dc:creator>Ellie Blach, Molly M. Ryder, Robert Brewster, Javier de la Fuente, Benjamin G. Hawkins, Alison K. Ventura</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.010</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-04-25</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-04-25</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00147-9/fulltext?rss=yes">
+      <title>A Cross-Sectional Study of the Nutrition and Physical Activity Environment in Australian Family Child Care Services</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00147-9/fulltext?rss=yes</link>
+      <description>The nutrition and physical activity environment in early childhood education and care services impacts children’s diet and physical activity, but this environment is not well understood in family child care (FCC) services.</description>
+      <dc:title>A Cross-Sectional Study of the Nutrition and Physical Activity Environment in Australian Family Child Care Services</dc:title>
+      <dc:creator>Lieke Vorage, Lisa Vincze, Neil Harris</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.008</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-04-24</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-04-24</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00143-1/fulltext?rss=yes">
+      <title>Food Substitution and Waste Reduction Can Reduce the Environmental Impacts and Food Costs of School Meal Programs in the United States: An 2011-2018 NHANES Analysis</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00143-1/fulltext?rss=yes</link>
+      <description>US school meal programs serve billions of meals annually; however, little is known about their environmental impacts.</description>
+      <dc:title>Food Substitution and Waste Reduction Can Reduce the Environmental Impacts and Food Costs of School Meal Programs in the United States: An 2011-2018 NHANES Analysis</dc:title>
+      <dc:creator>David C. Love, Zach Conrad, Daphene Altema-Johnson, Rebecca Ramsing, Karen Bassarab, Andrew L. Thorne-Lyman, D’Ann L. Williams, E.R.H. Moore, Elizabeth M. Nussbaumer, Patti Truant Anderson</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.006</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-04-22</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-04-22</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00144-3/fulltext?rss=yes">
+      <title>Associations Between Length of US Residency and Participation in Child Nutrition Assistance Programs Among Immigrant Families</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00144-3/fulltext?rss=yes</link>
+      <description>Children in US immigrant families experience high rates of food insecurity. Participation in federal child nutrition assistance programs can reduce food insecurity. What remains unknown is whether there are disparities in the participation in these programs among immigrant families based on the length of US residency (LOR). This is an important knowledge gap because there are multiple potential pathways between LOR and common barriers to accessing federal child nutrition assistance programs.</description>
+      <dc:title>Associations Between Length of US Residency and Participation in Child Nutrition Assistance Programs Among Immigrant Families</dc:title>
+      <dc:creator>Nasser Sharareh, Sara Simonsen, Andrea S. Wallace, Jaewhan Kim, Jennie L. Hill, Fernando A. Wilson</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.007</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-04-21</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-04-21</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00126-1/fulltext?rss=yes">
+      <title>Malnutrition Risk among the 2022 National Survey of Older Americans Act Participants: A Cross-Sectional Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00126-1/fulltext?rss=yes</link>
+      <description>Inclusion of malnutrition risk screening information in the 2022 National Survey of Older Americans Act Participants (NSOAAP) provided a first-time opportunity to estimate malnutrition risk in a representative sample of Older Americans Act (OAA) program participants.</description>
+      <dc:title>Malnutrition Risk among the 2022 National Survey of Older Americans Act Participants: A Cross-Sectional Study</dc:title>
+      <dc:creator>Jaime J. Gahche, Lydia McGrath, Shirley Chao, Judy Simon, Laura Borth, Mary Beth Arensberg, Johanna T. Dwyer</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.003</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-04-06</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-04-06</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00125-X/fulltext?rss=yes">
+      <title>Community Engaged Research Strategies Used in Food Retail Interventions: A Scoping Review</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00125-X/fulltext?rss=yes</link>
+      <description>Researchers across the United States often leverage community engagement (CE) as a strategy in interventions aiming to alter the retail food environment (RFE), especially in areas serving racially segregated neighborhoods with low incomes. However, little is known about the full breadth, intensity, and approaches used to engage communities in RFE intervention work.</description>
+      <dc:title>Community Engaged Research Strategies Used in Food Retail Interventions: A Scoping Review</dc:title>
+      <dc:creator>Ravneet Kaur, Kathryn M. Janda-Thomte, Bree Bode, Hadis Dastgerdized, Catherine Kaliszewski, Holly Hudson, Manorama Khare, Megan R. Winkler</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.002</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-04-04</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-04-04</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00124-8/fulltext?rss=yes">
+      <title>Caregiver and Pediatrician Perspectives on a Meal Kit Delivery Program for Children With Food Insecurity and Obesity: A Qualitative Analysis</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00124-8/fulltext?rss=yes</link>
+      <description>The importance of addressing food insecurity in clinical settings has been highlighted in the American Academy of Pediatrics clinical guidelines for the treatment of childhood obesity. There is limited research on food-security interventions for childhood obesity in the health care setting, particularly research that includes caregiver and pediatrician perspectives.</description>
+      <dc:title>Caregiver and Pediatrician Perspectives on a Meal Kit Delivery Program for Children With Food Insecurity and Obesity: A Qualitative Analysis</dc:title>
+      <dc:creator>Kieley L. Chapman, Arlette M. Caballero-Gonzalez, Lauren Fiechtner, Elsie M. Taveras, Allison J. Wu</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.04.001</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-04-04</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-04-04</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00115-7/fulltext?rss=yes">
+      <title>L-shaped Association between Dietary Copper Intake and Chronic Obstructive Pulmonary Disease among American Adults: Findings from the National Health and Nutrition Examination Survey 1999–2018</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00115-7/fulltext?rss=yes</link>
+      <description>Copper plays a vital role in human physiological functions. However, limited epidemiologic evidence exists for an association between dietary copper intake and chronic obstructive pulmonary disease (COPD).</description>
+      <dc:title>L-shaped Association between Dietary Copper Intake and Chronic Obstructive Pulmonary Disease among American Adults: Findings from the National Health and Nutrition Examination Survey 1999–2018</dc:title>
+      <dc:creator>Chengfeng Fu, Junwei Shi, Muhammad Haroon, Jing Luo, Ying Hu, Depeng Jiang</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.012</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-03-29</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-29</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00114-5/fulltext?rss=yes">
+      <title>Impact of Resveratrol Supplementation on Human Sirtuin 1: A Grading of Recommendations Assessment, Development and Evaluation–Assessed Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00114-5/fulltext?rss=yes</link>
+      <description>Resveratrol, a natural polyphenol compound, possesses anti-aging, antitumor, and vascular protective properties. These attributes are believed to stem from its influence on Sirtuin 1 (Sirt1), a member of the human Sirtuin family and a nicotinamide adenine dinucleotide–dependent histone deacetylase.</description>
+      <dc:title>Impact of Resveratrol Supplementation on Human Sirtuin 1: A Grading of Recommendations Assessment, Development and Evaluation–Assessed Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials</dc:title>
+      <dc:creator>Fatemeh Mansouri, Giulia Feliziani, Laura Bordoni, Rosita Gabbianelli</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.011</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-03-28</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-28</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00113-3/fulltext?rss=yes">
+      <title>A Natural Experiment to Evaluate Changes in Kids’ Meal Beverages in Fast-Food Restaurants Following a Healthy Default Policy, 2019-2022</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00113-3/fulltext?rss=yes</link>
+      <description>Jurisdictions have implemented “healthy beverage policies” requiring restaurants to make lower-sugar beverages the default option listed on kids’ menus to improve the nutrition of restaurant offerings for children.</description>
+      <dc:title>A Natural Experiment to Evaluate Changes in Kids’ Meal Beverages in Fast-Food Restaurants Following a Healthy Default Policy, 2019-2022</dc:title>
+      <dc:creator>Angie L. Cradock, Jessica L. Barrett, Jason P. Block, Amy A. Bolton, Carolyn Bresnahan, Lisa Harnack, Stephanie McCulloch, Christina A. Roberto, Kristine Wiant, Alyssa Moran</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.010</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-03-27</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-27</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00112-1/fulltext?rss=yes">
+      <title>Multilevel Factors Influencing Food Purchasing Decisions Among Families With Low Incomes During the COVID-19 Crisis: A Qualitative Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00112-1/fulltext?rss=yes</link>
+      <description>The COVID-19 crisis caused large-scale changes to the US food landscape, including food availability and prices, shopping practices, and food assistance programs. Understanding how these changes converged to influence food choices among families is critical for program and policy design to support children’s healthy development.</description>
+      <dc:title>Multilevel Factors Influencing Food Purchasing Decisions Among Families With Low Incomes During the COVID-19 Crisis: A Qualitative Study</dc:title>
+      <dc:creator>Maggie Beverly, Tyler Munn, Taylor Young, Amy Carroll-Scott, Eliza W. Kinsey, Kelly A. Courts, Matthew Jannetti, Stephanie Ettinger de Cuba, Félice Lê-Scherban</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.009</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-03-27</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-27</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00109-1/fulltext?rss=yes">
+      <title>Association of Dietary Live Microbe Intake With Mortality: Results From the National Health and Nutrition Examination Survey, 1999-2018</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00109-1/fulltext?rss=yes</link>
+      <description>The association between dietary intake of live microbes and mortality remains unclear.</description>
+      <dc:title>Association of Dietary Live Microbe Intake With Mortality: Results From the National Health and Nutrition Examination Survey, 1999-2018</dc:title>
+      <dc:creator>Qingzhen He, Mingshuo Li, Houze Diao, Qingzhao Zheng, Mingyuan Li, Qing Zhu, Weiwei Cui</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.007</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-03-25</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-25</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1108</prism:startingPage>
+      <prism:endingPage>1120</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00107-8/fulltext?rss=yes">
+      <title>Effectiveness of Medical Nutrition Therapy Provided by Registered Dietitian Nutritionists on Nutrition and Health Outcomes in Adults with Protein-Energy Malnutrition: A Systematic Review and Meta-Analysis</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00107-8/fulltext?rss=yes</link>
+      <description>Malnutrition is associated with increased morbidities and mortality.</description>
+      <dc:title>Effectiveness of Medical Nutrition Therapy Provided by Registered Dietitian Nutritionists on Nutrition and Health Outcomes in Adults with Protein-Energy Malnutrition: A Systematic Review and Meta-Analysis</dc:title>
+      <dc:creator>Lisa Moloney, Violeta Chacón, Sri Lakshmi S. Devarakonda, Terese Scollard, Samira Jones, Mary Rozga, Deepa Handu</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.005</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-03-14</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-14</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1144</prism:startingPage>
+      <prism:endingPage>1161.e20</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00106-6/fulltext?rss=yes">
+      <title>The Role of Registered Dietitian Nutritionists within Food Is Medicine: Current and Future Opportunities</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00106-6/fulltext?rss=yes</link>
+      <description>Food Is Medicine (FIM) programs are rapidly expanding as a solution to address the health impacts of food insecurity, experienced by 12.8% of US households.1 FIM encompasses a spectrum of food-based nutrition programs that are typically integrated into the health care system to support disease management, prevention, or optimal health by connecting participants to nutritious foods.2 FIM initiatives include program models such as medically tailored meals (MTMs) or groceries (MTGs) and produce prescriptions (PPRs).</description>
+      <dc:title>The Role of Registered Dietitian Nutritionists within Food Is Medicine: Current and Future Opportunities</dc:title>
+      <dc:creator>Eliza Short, Lisa Akers, Emily A. Callahan, Cara Cliburn Allen, Mayra Crespo-Bellido, Kirsten Deuman, Emily Dimond, Chelsea Hollowell, Miguel Ángel López, Elizabeth Anderson Steeves</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.004</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-03-14</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-14</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1075</prism:startingPage>
+      <prism:endingPage>1084</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00086-3/fulltext?rss=yes">
+      <title>Teams, Partners, or Champions? A Mixed-Methods Exploration of Potential Pathways of Implementation Success for Wellness Initiatives in Schools Using the Quality Implementation Framework</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00086-3/fulltext?rss=yes</link>
+      <description>Local wellness policies (LWPs) promote healthy eating and physical activity practices in US schools. Achieving and sustaining quality implementation of LWPs is challenging, particularly in urban and rural schools which may lack implementation resources.</description>
+      <dc:title>Teams, Partners, or Champions? A Mixed-Methods Exploration of Potential Pathways of Implementation Success for Wellness Initiatives in Schools Using the Quality Implementation Framework</dc:title>
+      <dc:creator>Hannah G. Lane, Hannah G. Calvert, Michaela McQuilkin Lowe, Erin R. Hager, Lindsey Turner</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.002</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-03-07</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-07</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00077-2/fulltext?rss=yes">
+      <title>Dietary Intake of Beta Cryptoxanthin, but not Other Carotenoids, Is Associated With Less Frequent Anxiety Symptoms in US Adults: A Cross-Sectional Analysis of the National Health and Nutrition Examination Surveys 2007 Through 2012</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00077-2/fulltext?rss=yes</link>
+      <description>Oxidative stress contributes to the pathogenesis of anxiety disorders. Carotenoids are a group of liposoluble bioactive compounds with antioxidant properties. Few studies have tested associations between intake of carotenoids from dietary sources and anxiety symptoms.</description>
+      <dc:title>Dietary Intake of Beta Cryptoxanthin, but not Other Carotenoids, Is Associated With Less Frequent Anxiety Symptoms in US Adults: A Cross-Sectional Analysis of the National Health and Nutrition Examination Surveys 2007 Through 2012</dc:title>
+      <dc:creator>Isaías León-Cépeda, Sandra S. Albrecht</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.03.001</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-03-06</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-06</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1177</prism:startingPage>
+      <prism:endingPage>1187.e1</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00076-0/fulltext?rss=yes">
+      <title>Parental Overvaluation of Child Weight/Shape Is Associated With Disordered Eating in Children Beyond Associations With Parental Internalized Weight Bias</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00076-0/fulltext?rss=yes</link>
+      <description>Parental overvaluation (ie, parental identity based on their child’s weight) and parental weight bias internalization (ie, parents’ internalization of societal bias toward people living in larger bodies) are both associated with their children’s disordered eating. Less is known about the extent to which these constructs overlap and how their combination may relate to pediatric disordered eating.</description>
+      <dc:title>Parental Overvaluation of Child Weight/Shape Is Associated With Disordered Eating in Children Beyond Associations With Parental Internalized Weight Bias</dc:title>
+      <dc:creator>Christina M. Sanzari, Janet A. Lydecker</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.015</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-03-05</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-05</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00073-5/fulltext?rss=yes">
+      <title>The Interplay of Food Insecurity, Diet Quality, and Dementia Status in their Association with All-Cause Mortality Among Older US Adults in the Health and Retirement Study 2012–2020</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00073-5/fulltext?rss=yes</link>
+      <description>All-cause mortality risk and dementia occurrence have been previously hypothesized to be linked with food insecurity and poor dietary quality.</description>
+      <dc:title>The Interplay of Food Insecurity, Diet Quality, and Dementia Status in their Association with All-Cause Mortality Among Older US Adults in the Health and Retirement Study 2012–2020</dc:title>
+      <dc:creator>May A. Beydoun, Michael F. Georgescu, Marie T. Fanelli-Kuczmarski, Christian A. Maino Vieytes, Sri Banerjee, Hind A. Beydoun, Michele K. Evans, Alan B. Zonderman</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.012</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-03-04</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-03-04</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1085</prism:startingPage>
+      <prism:endingPage>1107</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00071-1/fulltext?rss=yes">
+      <title>Conducting a Nutrition-Focused Physical Examination on a Transgender Patient: Considerations for Registered Dietitian Nutritionists</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00071-1/fulltext?rss=yes</link>
+      <description>An estimated 1.5% of the adult population and 1.4% of youth ages 13 through 17 identify as transgender in the United States.1 Transgender patients are poorly served by the current health care system. Findings from the United States Transgender Survey showed that 1 in 3 (33.0%) transgender adults who sought medical care in the past year had negative experiences such as having to teach their provider about transgender health care (24%), being asked invasive questions about being transgender unrelated to the visit (15%), or being refused health care related to their transition (8%).</description>
+      <dc:title>Conducting a Nutrition-Focused Physical Examination on a Transgender Patient: Considerations for Registered Dietitian Nutritionists</dc:title>
+      <dc:creator>Whitney Linsenmeyer, Julie McGuire, Maya Patel, Nicholas Theobald, Allison Helein</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.010</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-02-24</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-02-24</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1067</prism:startingPage>
+      <prism:endingPage>1074</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00070-X/fulltext?rss=yes">
+      <title>Men in Dietetics: A Qualitative Study of Cis-Gender Men's Experiences as Registered Dietitian Nutritionists in the United States</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00070-X/fulltext?rss=yes</link>
+      <description>Historically, dietetics has been strongly gendered. Recent data indicates that 94% of practitioners identify as women. The Academy is committed to enhancing diversity and inclusion.</description>
+      <dc:title>Men in Dietetics: A Qualitative Study of Cis-Gender Men's Experiences as Registered Dietitian Nutritionists in the United States</dc:title>
+      <dc:creator>Emily Vaterlaus Patten, J. Mitchell Vaterlaus, Charles Dustin Lybbert, Mckenna Jones</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.009</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-02-19</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-02-19</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1121</prism:startingPage>
+      <prism:endingPage>1130</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00069-3/fulltext?rss=yes">
+      <title>Associations Between Pre- and Post-Diagnosis Dietary Inflammatory Patterns and Ovarian Cancer Survival: Results From the Ovarian Cancer Follow-Up Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00069-3/fulltext?rss=yes</link>
+      <description>Dietary factors impact systemic inflammation, which not only correlates with poorer outcomes in patients with ovarian cancer (OC), but also promotes cancer development through increased cell division, genetic alterations, and malignant transformation of epithelial cells at inflammatory sites. However, evidence between dietary inflammatory patterns and OC survival remains sparse.</description>
+      <dc:title>Associations Between Pre- and Post-Diagnosis Dietary Inflammatory Patterns and Ovarian Cancer Survival: Results From the Ovarian Cancer Follow-Up Study</dc:title>
+      <dc:creator>Jia-Xin Liu, Rui-Han Bao, Meng Luan, Chuan Liu, Lang Wu, Fang-Hua Liu, Yi-Zi Li, He-Li Xu, Yi-Fan Wei, Qian Xiao, Dong-Hui Huang, Xiao-Ying Li, Qi Bao, Jia-Yi Wang, Yu-Han Chen, Jia-Ming Liu, Song Gao, Xiao-Ying Wang, De-Yu Zhang, Ting-Ting Gong, Qi-Jun Wu</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.008</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-02-19</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-02-19</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00068-1/fulltext?rss=yes">
+      <title>Empirical Redundancy? What Is the Distinct Role of Self-Objectification, Thin-Ideal Internalization, and Internalized Weight Stigma on Eating Pathology?</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00068-1/fulltext?rss=yes</link>
+      <description>Sociocultural risk factors predict disordered eating and body dissatisfaction. Three internalized variables (self-objectification, thin-ideal internalization, and internalized weight stigma) have each been shown to relate to body dissatisfaction and disordered eating. Although these 3 variables have distinct conceptualizations and definitions, they show similarity in theoretical definitions, evidence of strong relationships between the 3 variables, and similarity in how they each relate to adverse health outcomes.</description>
+      <dc:title>Empirical Redundancy? What Is the Distinct Role of Self-Objectification, Thin-Ideal Internalization, and Internalized Weight Stigma on Eating Pathology?</dc:title>
+      <dc:creator>Caitlin A. Martin-Wagar, Sarah E. Attaway, Lillian King, Oscar R. Kronenberger, Katelyn A. Melcher</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.007</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-02-17</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-02-17</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00056-5/fulltext?rss=yes">
+      <title>State Laws Leveraging the Community Eligibility Provision to Build Healthy School Meals for All: A Content Analysis</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00056-5/fulltext?rss=yes</link>
+      <description>Federal child nutrition programs are a key part of the nutrition safety net, but cost serves as a key participation barrier for students. This can also lead to meal debt for schools when students are unable to pay for the meals they take. The US Department of Agriculture Community Eligibility Provision (CEP) seeks to address these challenges by providing free meals to all students within lower-income schools or school districts. Whereas pandemic-related waivers provided universal school meals nationwide, once the waivers expired, states were again confronted with meal participation barriers.</description>
+      <dc:title>State Laws Leveraging the Community Eligibility Provision to Build Healthy School Meals for All: A Content Analysis</dc:title>
+      <dc:creator>Elizabeth Piekarz-Porter, Juliana Cohen, Rebecca M. Schermbeck, Julien Leider, Tanya Agurs-Collins, Jamie F. Chriqui</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.006</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-02-11</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-02-11</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00054-1/fulltext?rss=yes">
+      <title>Prevalence of Functional Food Use for Self-Reported Type 2 Diabetes Management in a Cohort of Hispanic Adults: Results of an Online Survey</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00054-1/fulltext?rss=yes</link>
+      <description>Hispanic adults are disproportionately diagnosed with type 2 diabetes mellitus (T2DM) and are more likely to use functional foods for T2DM management compared with non-Hispanic White adults. Functional foods contain biologically active ingredients associated with physiological health benefits for preventing and managing chronic disease. Understanding which functional foods are used for T2DM management among Hispanic adults is essential for planning interventions.</description>
+      <dc:title>Prevalence of Functional Food Use for Self-Reported Type 2 Diabetes Management in a Cohort of Hispanic Adults: Results of an Online Survey</dc:title>
+      <dc:creator>Kellie A. McLean, Angela C.B. Trude, Kristie J. Lancaster</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.004</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-02-11</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-02-11</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1169</prism:startingPage>
+      <prism:endingPage>1176.e2</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00041-3/fulltext?rss=yes">
+      <title>Institutional Determinants of Food Insecurity and Dietary Behaviors Among Postsecondary Students in the United States: A Multilevel Analysis</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00041-3/fulltext?rss=yes</link>
+      <description>US postsecondary education students have disproportionately high rates of food insecurity and sugar-sweetened beverage consumption, and low rates of fruit and vegetable consumption. No large-scale study has investigated institutional factors predictive of these public health challenges.</description>
+      <dc:title>Institutional Determinants of Food Insecurity and Dietary Behaviors Among Postsecondary Students in the United States: A Multilevel Analysis</dc:title>
+      <dc:creator>Sophia L. Freije, Alyssa M. Lederer, Donald Rose, Tabashir Z. Nobari, Alyshia Gálvez, Megan Knapp, M. Pia Chaparro</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.02.001</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-02-06</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-02-06</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1131</prism:startingPage>
+      <prism:endingPage>1143</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00038-3/fulltext?rss=yes">
+      <title>The Relationship Between Fruit Drink Front-of-Package Claims, Fruit Imagery, and Ingredient Disclosures and Consumer Perceptions, Intentions, and Behavior: A Systematic Review</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00038-3/fulltext?rss=yes</link>
+      <description>Fruit drinks are the top source of added sugar in young children’s diets, increasing their risk of chronic disease. It is unclear to what extent front-of-package marketing and disclosures influence parents’ perceptions of fruit drinks and their intentions and decisions to purchase them. These data are needed to inform regulatory and legal action to reduce potentially misleading marketing and help parents make healthier choices for their children.</description>
+      <dc:title>The Relationship Between Fruit Drink Front-of-Package Claims, Fruit Imagery, and Ingredient Disclosures and Consumer Perceptions, Intentions, and Behavior: A Systematic Review</dc:title>
+      <dc:creator>Aviva A. Musicus, Melissa L. Jensen, Carol Mita, Diana R.H. Winters, Michael T. Roberts, Sally Mancini, Jennifer L. Harris, Frances Fleming-Milici, James W. Krieger</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.01.017</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-01-31</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-01-31</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00036-X/fulltext?rss=yes">
+      <title>Rice Intake Among Infants and Toddlers from the Feeding Infants and Toddlers Study 2016</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00036-X/fulltext?rss=yes</link>
+      <description>The Food and Drug Administration’s Closer to Zero Action Plan aims to reduce toxic element exposure from foods infants and toddlers eat. Rice has been identified as a source of inorganic arsenic in the diets of infants and toddlers.</description>
+      <dc:title>Rice Intake Among Infants and Toddlers from the Feeding Infants and Toddlers Study 2016</dc:title>
+      <dc:creator>Susan Pac, Lyndsey R. Huss, Joel C. Hampton, Cheryl Callen, Alison L. Eldridge</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.01.015</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-01-28</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-01-28</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>Research</prism:section>
+      <prism:startingPage>1162</prism:startingPage>
+      <prism:endingPage>1168</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00035-8/fulltext?rss=yes">
+      <title>Household WIC Benefit Redemption Varies by Participant and Household Characteristics in Southern California</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00035-8/fulltext?rss=yes</link>
+      <description>The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides benefits redeemable for select healthy foods, aligned with the 2020-2025 Dietary Guidelines for Americans, to support healthy diets among pregnant and postpartum women, and their children to age 5 years, living in low-income households. WIC benefits are often not fully redeemed, limiting nutritional benefits of participation.</description>
+      <dc:title>Household WIC Benefit Redemption Varies by Participant and Household Characteristics in Southern California</dc:title>
+      <dc:creator>Christopher E. Anderson, Shannon E. Whaley</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.01.014</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-01-27</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-01-27</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00021-8/fulltext?rss=yes">
+      <title>Parental Weight Stigma Associated with Self-Directed Weight Talk and Use of Health-Related Restrictive Feeding Practices</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00021-8/fulltext?rss=yes</link>
+      <description>Parents are important conduits of weight- and health-related messaging. Weight-related communication and approaches to child feeding used by parents may reflect their past experiences with weight stigma and are understudied pathways through which intergenerational weight stigma may be transmitted.</description>
+      <dc:title>Parental Weight Stigma Associated with Self-Directed Weight Talk and Use of Health-Related Restrictive Feeding Practices</dc:title>
+      <dc:creator>Kendrin R. Sonneville, Natasha A. Schvey, Heidi M. Weeks, Michelle E. Clayson, Katherine W. Bauer</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.01.012</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-01-21</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-01-21</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00019-X/fulltext?rss=yes">
+      <title>Water Insecurity Is Associated with Sugar-Sweetened Beverage Consumption in a Small-Scale Population in Lowland Bolivia Experiencing Lifestyle Changes</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00019-X/fulltext?rss=yes</link>
+      <description>Emerging evidence indicates water insecurity (WI) is detrimental to nutritional outcomes and dietary choices.</description>
+      <dc:title>Water Insecurity Is Associated with Sugar-Sweetened Beverage Consumption in a Small-Scale Population in Lowland Bolivia Experiencing Lifestyle Changes</dc:title>
+      <dc:creator>Siddhi M. Deshpande, Tomas Huanca, Esther Conde, Asher Y. Rosinger</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.01.010</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-01-17</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-01-17</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00001-2/fulltext?rss=yes">
+      <title>Opportunities in Programs and Policies to Address the Underlying Drivers of Sugary Drink and Water Consumption in the Washington, DC, Metro Area: A Qualitative Community-Based System Dynamics Approach</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00001-2/fulltext?rss=yes</link>
+      <description>Although the Dietary Guidelines for Americans recommend that individuals drink water instead of sugar-sweetened beverages (SSBs), this behavior is influenced and reinforced by a complex network of structures and systems.</description>
+      <dc:title>Opportunities in Programs and Policies to Address the Underlying Drivers of Sugary Drink and Water Consumption in the Washington, DC, Metro Area: A Qualitative Community-Based System Dynamics Approach</dc:title>
+      <dc:creator>Michelle Estradé, Yeeli Mui, Lillian Witting, Rosalina Burgos-Gil, Larissa Calancie, Joel Gittelsohn, Uriyoán Colón-Ramos</dc:creator>
+      <dc:identifier>10.1016/j.jand.2025.01.001</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2025)</dc:source>
+      <dc:date>2025-01-07</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-01-07</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(24)01020-7/fulltext?rss=yes">
+      <title>Weight Bias Internalization Statistically Mediates the Association Between Positive Body Image and Intuitive Eating: A Cross-Sectional Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(24)01020-7/fulltext?rss=yes</link>
+      <description>Two facets of positive body image, body appreciation and functionality appreciation, are positively associated with an adaptive eating style known as intuitive eating. Little is known about the mechanisms underlying the association between positive body image and intuitive eating, although it is well established that weight bias internalization is associated with unfavorable views of the self and body and interferes with health behavior engagement.</description>
+      <dc:title>Weight Bias Internalization Statistically Mediates the Association Between Positive Body Image and Intuitive Eating: A Cross-Sectional Study</dc:title>
+      <dc:creator>Paula M. Brochu, Janell L. Mensinger, Lauren B. Moss, Stephanie L. Rothenberg</dc:creator>
+      <dc:identifier>10.1016/j.jand.2024.12.007</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2024)</dc:source>
+      <dc:date>2024-12-18</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2024-12-18</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(24)00989-4/fulltext?rss=yes">
+      <title>Longer WIC Participation Is Associated With Higher Diet Quality and Consumption of WIC-Eligible Foods Among Children 2-5 Years Old</title>
+      <link>https://www.jandonline.org/article/S2212-2672(24)00989-4/fulltext?rss=yes</link>
+      <description>Few studies have evaluated trends in diet quality across early childhood, including the extent to which foods and beverages available in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) Food Package contribute to children’s diets.</description>
+      <dc:title>Longer WIC Participation Is Associated With Higher Diet Quality and Consumption of WIC-Eligible Foods Among Children 2-5 Years Old</dc:title>
+      <dc:creator>Lauren E. Au, Hannah R. Thompson, Lorrene D. Ritchie, Brenda Sun, Thea P. Zimmerman, Shannon E. Whaley, Amanda Reat, Kavitha Sankavaram, Christine Borger</dc:creator>
+      <dc:identifier>10.1016/j.jand.2024.11.012</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2024)</dc:source>
+      <dc:date>2024-11-24</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2024-11-24</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(24)00924-9/fulltext?rss=yes">
+      <title>Water First School Water Promotion and Access Intervention: A Cost Analysis Study</title>
+      <link>https://www.jandonline.org/article/S2212-2672(24)00924-9/fulltext?rss=yes</link>
+      <description>Adequate water intake is associated with improved cognitive and physical performance, prevention of dental caries, and overweight and obesity. However, access to free drinking water in schools remains inadequate. Water First, a school-based intervention promoting water consumption, was shown effective in preventing overweight, yet its costs have not been quantified.</description>
+      <dc:title>Water First School Water Promotion and Access Intervention: A Cost Analysis Study</dc:title>
+      <dc:creator>Andrea Pedroza-Tobias, Angie L. Cradock, Lauren Blacker, Lorrene D. Ritchie, Laura A. Schmidt, Charles E. McCulloch, Joshua A. Salomon, Claire D. Brindis, Michael D. Cabana, Anisha I. Patel</dc:creator>
+      <dc:identifier>10.1016/j.jand.2024.10.022</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2024)</dc:source>
+      <dc:date>2024-11-06</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2024-11-06</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(24)00871-2/fulltext?rss=yes">
+      <title>Perceived Influence of a State-Level Universal Free School Meal Policy on Households With Varying Income Levels: An Analysis of Parental Perspectives</title>
+      <link>https://www.jandonline.org/article/S2212-2672(24)00871-2/fulltext?rss=yes</link>
+      <description>In the United States, a means-tested approach is often used to provide free or reduced-price meals (FRPM) to students from lower-income households. However, federal income thresholds do not account for regional cost of living variations. Thus, many ineligible households may be at risk for food insecurity. Universal free school meal (UFSM) policies may help address this issue, especially in states with a higher cost of living.</description>
+      <dc:title>Perceived Influence of a State-Level Universal Free School Meal Policy on Households With Varying Income Levels: An Analysis of Parental Perspectives</dc:title>
+      <dc:creator>Juliana F.W. Cohen, Leah E. Chapman, Deborah A. Olarte, Christina A. Hecht, Kenneth Hecht, Leran Minc, Punam Ohri-Vachaspati, Dania Orta-Aleman, Anisha I. Patel, Michele Polacsek, Lorrene D. Ritchie, Monica D. Zuercher, Wendi Gosliner</dc:creator>
+      <dc:identifier>10.1016/j.jand.2024.10.001</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2024)</dc:source>
+      <dc:date>2024-10-07</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2024-10-07</prism:publicationDate>
+      <prism:section>Research</prism:section>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(23)01593-9/fulltext?rss=yes">
+      <title>WITHDRAWN: Is ChatGPT Really Helpful for Nutrition and Dietetics?</title>
+      <link>https://www.jandonline.org/article/S2212-2672(23)01593-9/fulltext?rss=yes</link>
+      <description>This article has been withdrawn at the request of the author(s) and/or editor. The Publisher apologizes for any inconvenience this may cause.The full Elsevier Policy on Article Withdrawal can be found at https://www.elsevier.com/about/policies/article-withdrawal</description>
+      <dc:title>WITHDRAWN: Is ChatGPT Really Helpful for Nutrition and Dietetics?</dc:title>
+      <dc:creator>Partha Pratim Ray</dc:creator>
+      <dc:identifier>10.1016/j.jand.2023.10.003</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2023)</dc:source>
+      <dc:date>2023-10-06</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2023-10-06</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(21)00072-1/fulltext?rss=yes">
+      <title>TEMPORARY REMOVAL: 2021 Academy Member Benefits Update</title>
+      <link>https://www.jandonline.org/article/S2212-2672(21)00072-1/fulltext?rss=yes</link>
+      <description>The publisher regrets that this article has been temporarily removed. A replacement will appear as soon as possible in which the reason for the removal of the article will be specified, or the article will be reinstated.The full Elsevier Policy on Article Withdrawal can be found at https://www.elsevier.com/about/our-business/policies/article-withdrawal.</description>
+      <dc:title>TEMPORARY REMOVAL: 2021 Academy Member Benefits Update</dc:title>
+      <dc:creator>This content was compiled by the Academy Member Services Team</dc:creator>
+      <dc:identifier>10.1016/j.jand.2021.01.024</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics (2021)</dc:source>
+      <dc:date>2021-03-02</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2021-03-02</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00241-2/fulltext?rss=yes">
+      <title>What's New Online</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00241-2/fulltext?rss=yes</link>
+      <dc:title>What's New Online</dc:title>
+      <dc:identifier>10.1016/S2212-2672(25)00241-2</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-08</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-08</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:startingPage>1063</prism:startingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00240-0/fulltext?rss=yes">
+      <title>Table of Contents</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00240-0/fulltext?rss=yes</link>
+      <dc:title>Table of Contents</dc:title>
+      <dc:identifier>10.1016/S2212-2672(25)00240-0</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-08</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-08</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:startingPage>1059</prism:startingPage>
+      <prism:endingPage>1061</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.jandonline.org/article/S2212-2672(25)00225-4/fulltext?rss=yes">
+      <title>August 2025 People &amp; Events</title>
+      <link>https://www.jandonline.org/article/S2212-2672(25)00225-4/fulltext?rss=yes</link>
+      <dc:title>August 2025 People &amp; Events</dc:title>
+      <dc:identifier>10.1016/j.jand.2025.06.024</dc:identifier>
+      <dc:source>Journal of the Academy of Nutrition and Dietetics 125, 8 (2025)</dc:source>
+      <dc:date>2025-08</dc:date>
+      <prism:publicationName>Journal of the Academy of Nutrition and Dietetics</prism:publicationName>
+      <prism:publicationDate>2025-08</prism:publicationDate>
+      <prism:volume>125</prism:volume>
+      <prism:number>8</prism:number>
+      <prism:issueIdentifier>S2212-2672(25)X0007-1</prism:issueIdentifier>
+      <prism:section>From the Academy</prism:section>
+      <prism:startingPage>1195</prism:startingPage>
+   </item>
+</rdf:RDF>

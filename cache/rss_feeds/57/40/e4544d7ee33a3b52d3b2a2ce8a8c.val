@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# uri:atypon.com:cms:schema:rdf.xsd">
+   <channel rdf:about="https://www.clinicalnutritionjournal.com/issues?publicationCode=yclnu&amp;rss=yes">
+      <title>Clinical Nutrition</title>
+      <description>Clinical Nutrition RSS feed. </description>
+      <link>https://www.clinicalnutritionjournal.com/issues?publicationCode=yclnu&amp;rss=yes</link>
+      <dc:publisher>Elsevier Inc.</dc:publisher>
+      <dc:language>en</dc:language>
+      <dc:rights>© 2025 Published by Elsevier Inc. All rights reserved.</dc:rights>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:issn>0261-5614</prism:issn>
+      <prism:publicationDate>2025-07-24-07:00</prism:publicationDate>
+      <prism:copyright>© 2025 Published by Elsevier Inc. All rights reserved.</prism:copyright>
+      <prism:rightsAgent>permissionshelpdesk@elsevier.com</prism:rightsAgent>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00192-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00190-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00191-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00189-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00188-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00187-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00185-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00184-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00183-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00180-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00179-7/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00175-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00177-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00176-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00166-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00173-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00167-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00169-4/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00174-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00172-4/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00171-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00170-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00168-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00165-7/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00164-5/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00163-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00162-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00160-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00159-1/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00161-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00157-8/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00152-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00158-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00156-6/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00155-4/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00154-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00150-5/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00153-0/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00147-5/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00148-7/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00146-3/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00144-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00140-2/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00104-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00113-X/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00063-9/fulltext?rss=yes"/>
+            <rdf:li rdf:resource="https://www.clinicalnutritionjournal.com/article/S0261-5614(20)30193-X/fulltext?rss=yes"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00192-X/fulltext?rss=yes">
+      <title>Sex-specific association of serum phospholipid very-long-chain saturated fatty acids with cognitive performance among elderly adults</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00192-X/fulltext?rss=yes</link>
+      <description>Lipid metabolism and its impact on cognitive health have become a hot topic in recent years as life expectancy increases and the population ages.</description>
+      <dc:title>Sex-specific association of serum phospholipid very-long-chain saturated fatty acids with cognitive performance among elderly adults</dc:title>
+      <dc:creator>Guoxin Lin, Juan Tang, Ke Pang, Xing Liu, Lei Zhou, Bo Li, Wen Ouyang, Yongzhong Tang</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.016</dc:identifier>
+      <dc:source>Clinical Nutrition (2025)</dc:source>
+      <dc:date>2025-07-24</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-24</prism:publicationDate>
+      <prism:section>Original article</prism:section>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00190-6/fulltext?rss=yes">
+      <title>ASSOCIATION BETWEEN BODY COMPOSITION, EATING BEHAVIOR, DIETARY INTAKE, AND METABOLIC DYSFUNCTION-ASSOCIATED STEATOTIC LIVER DISEASE IN LIVER TRANSPLANT RECIPIENTS</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00190-6/fulltext?rss=yes</link>
+      <description>Metabolic dysfunction-associated steatotic liver disease (MASLD), the hepatic manifestation of metabolic syndrome, can occur after liver transplantation (LT) in a multifactorial way. Eating behavior, dietary intake, body composition and other aspects may contribute to the pathogenesis of MASLD after LT.</description>
+      <dc:title>ASSOCIATION BETWEEN BODY COMPOSITION, EATING BEHAVIOR, DIETARY INTAKE, AND METABOLIC DYSFUNCTION-ASSOCIATED STEATOTIC LIVER DISEASE IN LIVER TRANSPLANT RECIPIENTS</dc:title>
+      <dc:creator>Amanda Cássia da Cruz Cardoso, Samanta Catherine Ferreira, Marcelo Arouca Araújo, Rafael Pereira Freitas Mendes, Leticia Oliveira do Carmo, Luis Henrique de Oliveira Moreira, Livia Manussakis Vaz Ferreira, Claudia Alves Couto, Ilka Afonso Reis, Lucilene Rezende Anastácio, Luciana Costa Faria</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.014</dc:identifier>
+      <dc:source>Clinical Nutrition (2025)</dc:source>
+      <dc:date>2025-07-21</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-21</prism:publicationDate>
+      <prism:section>Original article</prism:section>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00191-8/fulltext?rss=yes">
+      <title>Association between computed tomography-based adipose tissue parameters and liver transplant outcomes in patients with hepatocellular carcinoma</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00191-8/fulltext?rss=yes</link>
+      <description>The prognostic value of skeletal muscle in liver transplant recipients with hepatocellular carcinoma (HCC) has been documented; however, the role of adipose tissue remains ambiguous. This study aimed to evaluate the association between adipose tissue and transplant outcomes in patients with HCC.</description>
+      <dc:title>Association between computed tomography-based adipose tissue parameters and liver transplant outcomes in patients with hepatocellular carcinoma</dc:title>
+      <dc:creator>Zhihang Hu, Hao Chen, Zuyuan Lin, Chiyu He, Wei Shen, Huigang Li, Zhe Yang, Jinzhen Cai, Shusen Zheng, Di Lu, Xiao Xu</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.015</dc:identifier>
+      <dc:source>Clinical Nutrition (2025)</dc:source>
+      <dc:date>2025-07-17</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-17</prism:publicationDate>
+      <prism:section>Original article</prism:section>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00189-X/fulltext?rss=yes">
+      <title>Prevalence and predictive importance for short-term clinical outcomes of GLIM-defined malnutrition among adult inpatients: A nationwide cross-sectional study</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00189-X/fulltext?rss=yes</link>
+      <description>Malnutrition is a significant health issue in hospital settings, with persistent diagnostic challenges. Despite the Global Leadership Initiative on Malnutrition (GLIM) criteria providing a standardised approach, nationwide validation and implementation remain limited. We aimed to estimate the national prevalence of GLIM-defined malnutrition among Chinese adult inpatients and assess the predictive value of the GLIM criteria for short-term clinical outcomes.</description>
+      <dc:title>Prevalence and predictive importance for short-term clinical outcomes of GLIM-defined malnutrition among adult inpatients: A nationwide cross-sectional study</dc:title>
+      <dc:creator>Yan Liu, Yu Wang, Gaiyun Chen, Pianhong Zhang, Zhenqian Cheng, Shiping Liu, Zengning Li, Wenjun Ma, Ying Yao, Fan Lin, Ping Sun, Wanying Shi, Hua Jiang, Xianghua Ma, Weilian Hou, Ting Han, Ying Zhang, Ji Feng, Yi Liang, Yongsheng Zhang, Min Weng, Li Li, Hongxia Xu, Ying Liu, Ruifang Guo, Qian Zhao, Haiyan Zhou, Yumei Qi, Rui Xiong, Rong Liu, Junde Zhou, Yulan Zhao, Chuying Zhang, Shuyan Guo, Chunhua Song, Wei Chen, the China Nutrition Fundamental Data Working Group</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.013</dc:identifier>
+      <dc:source>Clinical Nutrition (2025)</dc:source>
+      <dc:date>2025-07-16</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-16</prism:publicationDate>
+      <prism:section>Original article</prism:section>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00188-8/fulltext?rss=yes">
+      <title>Associations of early life dietary diversity and healthy eating with celiac disease: A prospective cohort study</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00188-8/fulltext?rss=yes</link>
+      <description>The role of early-life overall diet in celiac disease risk is not well explored. The aim was to investigate associations of dietary diversity, and healthy eating in the second year of life with subsequent celiac disease risk.</description>
+      <dc:title>Associations of early life dietary diversity and healthy eating with celiac disease: A prospective cohort study</dc:title>
+      <dc:creator>Elin M. Hård af Segerstad, Annie Guo, Karl Mårild, Lars C. Stene, Anne Lise Brantsæter, Ketil Størdal, HEDIMED Investigator Group</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.012</dc:identifier>
+      <dc:source>Clinical Nutrition (2025)</dc:source>
+      <dc:date>2025-07-16</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-16</prism:publicationDate>
+      <prism:section>Original article</prism:section>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00187-6/fulltext?rss=yes">
+      <title>Characterising the diversity of plant-based food and beverage consumption in adults, and exploring associations with cardiometabolic health outcomes: a cross-sectional study</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00187-6/fulltext?rss=yes</link>
+      <description>A growing body of evidence indicates plant-based food diversity as a potential target for improvement of diet-related health outcomes. This study aimed to characterize the quantity and diversity of plant-based foods consumed in the UK and explore associations between plant-based food diversity and cardiometabolic health outcomes.</description>
+      <dc:title>Characterising the diversity of plant-based food and beverage consumption in adults, and exploring associations with cardiometabolic health outcomes: a cross-sectional study</dc:title>
+      <dc:creator>Alice C. Creedon, Leah Foyle, Natalie McCall, Mary Gracia Arulpragasam, Rachel Gibson, Eirini Dimidi</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.011</dc:identifier>
+      <dc:source>Clinical Nutrition (2025)</dc:source>
+      <dc:date>2025-07-10</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-10</prism:publicationDate>
+      <prism:section>Original article</prism:section>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00185-2/fulltext?rss=yes">
+      <title>Arvid Wretlind Lecture 2024 optimal nutrition in critically ill children: Could less be more?</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00185-2/fulltext?rss=yes</link>
+      <description>This article reflects my journey over the past several decades in challenging the long-held dogma that critically ill children should receive aggressive nutritional support—particularly high protein intake—early in the course of illness to counteract catabolism and promote anabolism. For many years, this belief dominated clinical practice, under the assumption that early and maximal nutritional delivery would improve outcomes in this vulnerable population.However, as new evidence began to emerge, this approach was called into question.</description>
+      <dc:title>Arvid Wretlind Lecture 2024 optimal nutrition in critically ill children: Could less be more?</dc:title>
+      <dc:creator>Koen F. Joosten</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.009</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-07-10</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-10</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Narrative Review</prism:section>
+      <prism:startingPage>373</prism:startingPage>
+      <prism:endingPage>380</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00184-0/fulltext?rss=yes">
+      <title>The effect of oral feeding on gastrointestinal function, motility and appetite-regulating hormones, insulin, glucose and satiety in normal weight individuals and those with obesity</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00184-0/fulltext?rss=yes</link>
+      <description>The primary aim of this study was to evaluate the effect of ingestion of a standardized meal on gastric content volume and gastric emptying time in healthy normal weight people and those with obesity. Secondary aims were to evaluate the effect of the meal on superior mesenteric artery blood flow, small bowel water content, subjective satiety, and concentrations of appetite and motility-regulating hormones (PYY, ghrelin, GLP-1, and GLP-2), blood glucose and insulin in the participants.</description>
+      <dc:title>The effect of oral feeding on gastrointestinal function, motility and appetite-regulating hormones, insulin, glucose and satiety in normal weight individuals and those with obesity</dc:title>
+      <dc:creator>Elizabeth J. Simpson, Sarah Althubeati, Sally Cordon, Caroline Hoad, Debbie Bush, Sally Eldeghaidy, Penny A. Gowland, Ian A. Macdonald, Dileep N. Lobo</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.008</dc:identifier>
+      <dc:source>Clinical Nutrition (2025)</dc:source>
+      <dc:date>2025-07-08</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-08</prism:publicationDate>
+      <prism:section>Original article</prism:section>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00183-9/fulltext?rss=yes">
+      <title>Patient characteristics associated with the provision of nutritional support to older hospitalised patients at risk of malnutrition: A cohort study</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00183-9/fulltext?rss=yes</link>
+      <description>There is a need for knowledge about the factors affecting nutritional support to hospitalised older patients at risk of malnutrition. We aimed to investigate whether patient characteristics are associated with the likelihood of hospitalised older patients at risk of malnutrition receiving nutritional support.</description>
+      <dc:title>Patient characteristics associated with the provision of nutritional support to older hospitalised patients at risk of malnutrition: A cohort study</dc:title>
+      <dc:creator>Kristin I. Folven, Randi J. Tangvik, Roy M. Nilsen, Anne Marie Beck, Kari Sygnestveit, Eli Skeie, Øystein Hetlevik, Eva Biringer</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.007</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-07-07</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-07</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>334</prism:startingPage>
+      <prism:endingPage>341</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00180-3/fulltext?rss=yes">
+      <title>The impact of Bifidobacterium breve BBr60 (BBr60) on metabolic and gastrointestinal health in healthy adults: A combined in vitro metabolomic and randomized, double-blind, placebo-controlled study</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00180-3/fulltext?rss=yes</link>
+      <description>This study aims to evaluate the physiological and psychological health impacts of Bifidobacterium breve BBr60 (BBr60) on healthy adults.</description>
+      <dc:title>The impact of Bifidobacterium breve BBr60 (BBr60) on metabolic and gastrointestinal health in healthy adults: A combined in vitro metabolomic and randomized, double-blind, placebo-controlled study</dc:title>
+      <dc:creator>Yao Dong, Yihui Cai, Hairui Tian, Jian Wen, Mei Han, Yan Tan, Kang Zou</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.004</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-07-07</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-07</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Randomized Control Trials</prism:section>
+      <prism:startingPage>349</prism:startingPage>
+      <prism:endingPage>361</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00179-7/fulltext?rss=yes">
+      <title>Plasma kynurenine pathway metabolites in association with diabetes: A cross-sectional study</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00179-7/fulltext?rss=yes</link>
+      <description>Abnormalities of the kynurenine pathway of tryptophan catabolism have been linked with an increased risk of cardiovascular disease. However, the association between kynurenine pathway metabolism and diabetes remains unclear.</description>
+      <dc:title>Plasma kynurenine pathway metabolites in association with diabetes: A cross-sectional study</dc:title>
+      <dc:creator>Yingjun Mu, Zijian Gu, Qingyao Wang, Xudong Wang, Jiayao Zhu, Junyao Huang, Qiaoliang Huang, Hui Zuo</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.003</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-07-07</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-07</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>342</prism:startingPage>
+      <prism:endingPage>348</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00175-X/fulltext?rss=yes">
+      <title>The impact of dietary fiber consumption on human health: An umbrella review of evidence from 17,155,277 individuals</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00175-X/fulltext?rss=yes</link>
+      <description>Dietary fiber plays a crucial role in disease prevention through multiple protective mechanisms. While previous reviews have examined its health effects, recent advances necessitate an updated synthesis of the evidence.</description>
+      <dc:title>The impact of dietary fiber consumption on human health: An umbrella review of evidence from 17,155,277 individuals</dc:title>
+      <dc:creator>Nicola Veronese, Vincenza Gianfredi, Marco Solmi, Mario Barbagallo, Ligia J. Dominguez, Caterina Mandalà, Carla Di Palermo, Luca Carruba, Luisa Solimando, Brendon Stubbs, Alberto Castagna, Stefania Maggi, Michela Zanetti, Nasser Al-Daghri, Shaun Sabico, Daniele Nucci, Corentin Gosling, Luigi Fontana</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.021</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-07-07</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-07</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Meta-analyses</prism:section>
+      <prism:startingPage>325</prism:startingPage>
+      <prism:endingPage>333</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00177-3/fulltext?rss=yes">
+      <title>Determinants of bone mineral density in healthy term-born children at age 6 months and 3 years</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00177-3/fulltext?rss=yes</link>
+      <description>The first 6 months of life are a critical window for adiposity programming, which could potentially also be true for bone mineral density (BMD) development. It is, however, currently unknown which determinants associate with BMD during early childhood. Our objective was to assess which determinants associate with BMD at 6 months and 3 years of age, with focus on growth during the first 6 months of life and macronutrient intake.</description>
+      <dc:title>Determinants of bone mineral density in healthy term-born children at age 6 months and 3 years</dc:title>
+      <dc:creator>D.J. Dorrepaal, I.A.L.P. van Beijsterveldt, E.H.H.M. Rings, A.C.S. Hokken-Koelega</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.07.001</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-07-02</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-02</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>304</prism:startingPage>
+      <prism:endingPage>313</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00176-1/fulltext?rss=yes">
+      <title>A review of the implications of maternal monosodium glutamate consumption on offspring health</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00176-1/fulltext?rss=yes</link>
+      <description>Monosodium glutamate (MSG), a globally used food additive for over a century, is considered generally safe. Although inconsistent, many animal studies have shown that MSG is associated with multiple health conditions, necessitating a closer examination of its potential health impact, especially on fetal development. Human data on MSG's effects on offspring during pregnancy are lacking. This review examines existing literature to assess the impact of maternal MSG consumption on offspring health.</description>
+      <dc:title>A review of the implications of maternal monosodium glutamate consumption on offspring health</dc:title>
+      <dc:creator>Maggie Wang, Yijia Zhang, Meghan Angley, Ka Kahe</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.022</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-07-01</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-07-01</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Narrative Review</prism:section>
+      <prism:startingPage>314</prism:startingPage>
+      <prism:endingPage>324</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00166-9/fulltext?rss=yes">
+      <title>Thank you, Mick</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00166-9/fulltext?rss=yes</link>
+      <description>Professor Nicolaas (Mick) Deutz (Fig. 1) has stepped down as Editor-in-Chief of Clinical Nutrition after over 18 eventful years at the helm. The European Society for Clinical Nutrition and Metabolism (ESPEN), the journal and Elsevier Publishers would like to express our gratitude to him and wish him the very best in his future endeavours.</description>
+      <dc:title>Thank you, Mick</dc:title>
+      <dc:creator>Dileep N. Lobo, Stanislaw Klek</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.012</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-29</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-29</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Editorial</prism:section>
+      <prism:startingPage>388</prism:startingPage>
+      <prism:endingPage>389</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00173-6/fulltext?rss=yes">
+      <title>The effects of Mediterranean diet with and without exercise on body composition in adults with chronic disease: A systematic review and meta-analysis of clinical trials</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00173-6/fulltext?rss=yes</link>
+      <description>The Mediterranean diet (MedDiet), with and without energy restriction, has been associated with reduced risk of numerous chronic diseases, including type 2 diabetes and cardiovascular disease. Exercise is well known to improve various health outcomes in individuals with chronic diseases and emerging evidence indicates that combining diet and exercise may be superior to individual interventions. The primary aim of this systematic review and meta-analysis was to assess the effects of all MedDiet interventions (regardless of exercise or energy restriction), as well as MedDiet alone (and in hypocaloric and isocaloric subgroups) on body composition outcomes [weight, waist circumference (WC), body mass index (BMI), body fat (BF), lean mass (LM) and visceral adipose tissue (VAT)] in adults with chronic disease.</description>
+      <dc:title>The effects of Mediterranean diet with and without exercise on body composition in adults with chronic disease: A systematic review and meta-analysis of clinical trials</dc:title>
+      <dc:creator>Surbhi Sood, Amy Lauren Sylivris, Ayesha Sualeheen, David Scott, Sze-Yen Tan, Anthony Villani, Brenton J. Baguley, Gavin Abbott, Nicole Kiss, Robin M. Daly, Elena S. George</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.019</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-27</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-27</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Meta-analyses</prism:section>
+      <prism:startingPage>222</prism:startingPage>
+      <prism:endingPage>239</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00167-0/fulltext?rss=yes">
+      <title>The moderating effect of dietary patterns on the association of depression and anxiety with cognitive function</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00167-0/fulltext?rss=yes</link>
+      <description>Investigating modifiable risk factors, such as diet, is crucial in understanding their effects on the relationship between Alzheimer’s disease (AD)-related cognitive decline and related conditions. This study assesses whether dietary patterns moderate the relationship between symptoms of depression, anxiety, and cognitive function in older adults. Given that biological and psychosocial differences between sexes may influence dietary behaviours, mental health symptoms, and cognitive outcomes, conducting sex-stratified analyses will allow for identification of differential associations.</description>
+      <dc:title>The moderating effect of dietary patterns on the association of depression and anxiety with cognitive function</dc:title>
+      <dc:creator>Hilal Salim Said Al Shamsi, Samantha L. Gardener, Hamid R. Sohrabi, Kevin Taddei, Colin L. Masters, Stephanie R. Rainey-Smith, Ralph N. Martins, W.M.A.D.B. Fernando</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.013</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-27</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-27</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>278</prism:startingPage>
+      <prism:endingPage>286</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00169-4/fulltext?rss=yes">
+      <title>Characterization of metabolomic associated with pancreatic cancer patients with overweight and obesity</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00169-4/fulltext?rss=yes</link>
+      <description>The near equal incidence and mortality rates of pancreatic cancer, combined with projections that by 2050 pancreatic cancer will be the second-most fatal cancer, underscore the need to identify patients with early disease and thus interrupt this trajectory. Obesity, weight gain and waistline have been implicated in increasing the risk of pancreatic cancer. Factors such as inflammation, insulin resistance, and changes in intestinal microbiome have been suggested to be involved in obesity. Although metabolomic analyses of pancreatic cancer patients have established correlations between phospholipids, lysophospholipids with treatment outcomes, the association between metabolites, obesity, and pancreatic cancer remains largely understudied.</description>
+      <dc:title>Characterization of metabolomic associated with pancreatic cancer patients with overweight and obesity</dc:title>
+      <dc:creator>Rita Ghosh, Pinpin Sui, Danielle Fritze, Sarahi Fernandez, Audrie Torres, Jillian Woodworth, Francisco G. Cigarroa, Glenn A. Halff, Addanki P. Kumar</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.015</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-26</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-26</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>240</prism:startingPage>
+      <prism:endingPage>251</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00174-8/fulltext?rss=yes">
+      <title>Micronutrient supplementation influences the composition and diet-originating function of the gut microbiome in healthy adults</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00174-8/fulltext?rss=yes</link>
+      <description>Studies in-vitro and in animals propose that vitamins and minerals can alter the human gut microbiome. Human trials replicating these findings are scarce or used micronutrient supplementation in supraphysiological doses. We explored the effect of multivitamin/multimineral (MVMM) supplementation on the gut microbiome, and how participant's background diet can modify this effect.</description>
+      <dc:title>Micronutrient supplementation influences the composition and diet-originating function of the gut microbiome in healthy adults</dc:title>
+      <dc:creator>Shona Mckirdy, Athanasios Koutsos, Ben Nichols, Maris Anderson, Sumet Dhami, Chandrama Roy Chowdhury, Anna Mascellani Bergo, Jaroslav Havlik, Konstantinos Gerasimidis</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.020</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-25</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-25</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Randomized Control Trials</prism:section>
+      <prism:startingPage>293</prism:startingPage>
+      <prism:endingPage>303</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00172-4/fulltext?rss=yes">
+      <title>Raw bioelectrical impedance parameters as informative markers of body composition in youth</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00172-4/fulltext?rss=yes</link>
+      <description>Raw bioelectrical impedance analysis (BIA) parameters, particularly phase angle (PhA), are essential clinical and performance markers. However, their potential as body composition markers remains underexplored in youth. This investigation examined the associations between PhA and other series- and parallel-transformed raw BIA parameters and multiple body components organized at the molecular, cellular, and tissue levels in youth.</description>
+      <dc:title>Raw bioelectrical impedance parameters as informative markers of body composition in youth</dc:title>
+      <dc:creator>Gil B. Rosa, Ruben Francisco, Analiza M. Silva, Henry C. Lukaski, Ana V. Bernardino, Luís B. Sardinha</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.018</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-25</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-25</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>266</prism:startingPage>
+      <prism:endingPage>277</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00171-2/fulltext?rss=yes">
+      <title>The association between serum zonulin levels and sarcopenia in older adults: How does intestinal permeability affect sarcopenia?</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00171-2/fulltext?rss=yes</link>
+      <description>Sarcopenia, characterized by the progressive loss of muscle mass and function, significantly reduces the quality of life and increases mortality risk in older individuals. Recent evidence highlights the role of intestinal permeability and its associated biomarker, zonulin, in the development of sarcopenia via chronic inflammation pathways. However, the relationship between serum zonulin levels and sarcopenia remains unclear. This study aims to investigate the association between serum zonulin levels and sarcopenia in elderly individuals and to assess the potential of zonulin as a diagnostic biomarker for sarcopenia.</description>
+      <dc:title>The association between serum zonulin levels and sarcopenia in older adults: How does intestinal permeability affect sarcopenia?</dc:title>
+      <dc:creator>Kübra Erdoğan, Betül Gülsüm Yavuz Veizi, Selim Demirci, Semih Sezer, Özgür Kara</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.017</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-25</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-25</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>206</prism:startingPage>
+      <prism:endingPage>211</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00170-0/fulltext?rss=yes">
+      <title>Strategic carbohydrate feeding improves performance in ketogenic trained athletes</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00170-0/fulltext?rss=yes</link>
+      <description>Ketogenic diets (KDs) induce significant metabolic adaptations related to exercise performance and alter the glycaemic response to carbohydrates. Research examining the efficacy of KDs on endurance performance is mixed, with sub-elite athletes showing no impairment in endurance performance following a KD intervention. Despite the increased volume of KD research, no one has explored the metabolic and performance impacts of carbohydrate re-introduction before exercise in chronically ketogenic (≥12 months) individuals.</description>
+      <dc:title>Strategic carbohydrate feeding improves performance in ketogenic trained athletes</dc:title>
+      <dc:creator>Matthew Carpenter, James Brouner, Owen Spendiff</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.016</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-25</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-25</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>212</prism:startingPage>
+      <prism:endingPage>221</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00168-2/fulltext?rss=yes">
+      <title>Evaluation of new predictive equations for energy requirements in older adults: A comparison with doubly labeled water</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00168-2/fulltext?rss=yes</link>
+      <description>The National Academies of Sciences, Engineering, and Medicine recently updated the Dietary Reference Intakes (DRIs) for Energy using doubly labeled water (DLW) data from several international studies. The lack of energy estimation equations for older adults remains a knowledge gap. Therefore, recent specific equations for this age group have been suggested, such as the proposed by Porter et al. This study aimed to evaluate the accuracy of two new equations developed for estimated energy requirements in older adults.</description>
+      <dc:title>Evaluation of new predictive equations for energy requirements in older adults: A comparison with doubly labeled water</dc:title>
+      <dc:creator>Dennis Gustavo Alves Mello, Eduardo Ferriolli, Karina Pfrimer</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.014</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-24</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-24</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>287</prism:startingPage>
+      <prism:endingPage>292</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00165-7/fulltext?rss=yes">
+      <title>Psychiatric and psychological adverse effects associated with dulaglutide, semaglutide, and liraglutide: A vigibase study</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00165-7/fulltext?rss=yes</link>
+      <description>Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are crucial in managing type 2 diabetes mellitus (T2DM) and obesity. Agents like dulaglutide, semaglutide, and liraglutide mimic endogenous GLP-1, enhancing insulin secretion and promoting satiety. Beyond glycemic control, they offer cardioprotective and neuroprotective benefits. However, concerns about psychiatric adverse effects have emerged, necessitating a systematic assessment of their safety profile.Material &amp; Methods: This multinational pharmacovigilance study utilized VigiBase® data up to December 1, 2024, focusing on adverse drug reaction (ADR) reports for GLP-1 RAs.</description>
+      <dc:title>Psychiatric and psychological adverse effects associated with dulaglutide, semaglutide, and liraglutide: A vigibase study</dc:title>
+      <dc:creator>Kazuki Nishida, Basile Chrétien, Charles Dolladille, Takumi Ebina, Branko Aleksic, Nicolas Cabé, Véronique Savey, Takeshi Onoue, Hiroshi Yatsuya</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.011</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-22</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-22</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>252</prism:startingPage>
+      <prism:endingPage>265</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00164-5/fulltext?rss=yes">
+      <title>Zinc supplementation among zinc-deficient vegetarians and vegans restores antiviral interferon-α response by upregulating interferon regulatory factor 3</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00164-5/fulltext?rss=yes</link>
+      <description>Sufficient zinc status is crucial for undisturbed immune function. Further, dietary zinc requirements are mainly covered by animal products. Consequently, plant-based diets have been repeatedly linked to zinc deficiency. In the light of increasing popularity of plant-based diets, elucidating the impact of zinc deficiency on the innate immune system of vegetarians and vegans is of great interest. Although it has been previously shown that interferon (IFN) -α response towards viral stimuli can be enhanced by administering zinc in vitro, the underlying molecular process remains unknown.</description>
+      <dc:title>Zinc supplementation among zinc-deficient vegetarians and vegans restores antiviral interferon-α response by upregulating interferon regulatory factor 3</dc:title>
+      <dc:creator>Fynn Vallboehmer, Hannah Schoofs, Lothar Rink, Jana Jakobs</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.010</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-20</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-20</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>161</prism:startingPage>
+      <prism:endingPage>173</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00163-3/fulltext?rss=yes">
+      <title>Osteosarcopenic obesity: A systematic review and a call for consensus on definitions and diagnostic criteria</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00163-3/fulltext?rss=yes</link>
+      <description>Osteosarcopenic obesity (OSO) is a clinical and functional condition characterized by the coexistence of osteopenia/osteoporosis, sarcopenia, and obesity (excess adiposity). Currently, the lack of consensus on diagnostic criteria and cut-off values complicates prevalence estimates and limits its potential role as a predictor for various diseases. This systematic review aimed at examining current definitions and diagnostic criteria adopted in individuals with OSO.</description>
+      <dc:title>Osteosarcopenic obesity: A systematic review and a call for consensus on definitions and diagnostic criteria</dc:title>
+      <dc:creator>Olivia Di Vincenzo, Claudia Piciocchi, Luca Muzzioli, Eleonora Poggiogalle, Francesco Frigerio, Marianna Minnetti, Rocco Barazzoni, Maria Luisa Brandi, Luca Busetto, Giovanni Iolascon, Antimo Moretti, Luca Scalfi, Lorenzo Maria Donini, Silvia Migliaccio</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.009</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-15</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-15</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Meta-analyses</prism:section>
+      <prism:startingPage>146</prism:startingPage>
+      <prism:endingPage>160</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00162-1/fulltext?rss=yes">
+      <title>The intricate interplay between acute pancreatitis and small intestinal bacterial overgrowth: Unraveling the unknown</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00162-1/fulltext?rss=yes</link>
+      <description>Small intestinal bacterial overgrowth (SIBO) refers to the overcolonization of bacteria in the small intestine. Multiple studies have shown a correlation between SIBO and the occurrence and development of various diseases. This review focuses on the relationship between SIBO and acute pancreatitis (AP), summarizing the current research on the interaction and development between SIBO, AP, and gut microbiota translocation. It is emphasized that AP may lead to the generation of SIBO by prolonging the migrating motor complex (MMC) time and weakening the intestinal barrier.</description>
+      <dc:title>The intricate interplay between acute pancreatitis and small intestinal bacterial overgrowth: Unraveling the unknown</dc:title>
+      <dc:creator>Xiaorui Cui, Huaizhu Guo, Zhen Liu, Yuanyuan Lei, Yunxiong Wei, Guangyong Sun, Dong Zhang, Jianyu Hao, Donglei Zhang, Xinjuan Liu</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.008</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-15</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-15</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Narrative Review</prism:section>
+      <prism:startingPage>362</prism:startingPage>
+      <prism:endingPage>372</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00160-8/fulltext?rss=yes">
+      <title>The anti-tumour role of ketogenic diet based on energy metabolism</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00160-8/fulltext?rss=yes</link>
+      <description>Unlike the energy metabolism of normal cells, tumour cells favor aerobic glycolysis to meet their unique energy demands, while disrupting normal mitochondrial metabolism. This specialized energy metabolic pathway promotes tumour growth, proliferation, and metastasis. The ketogenic diet (KD) is a high-fat diet inducing ketone bodies (KBs) for energy metabolism by restricting carbohydrate intake and promoting fatty acid breakdown. Due to the unique energy metabolism of tumours, KD has the potential to counteract tumour energy metabolism.</description>
+      <dc:title>The anti-tumour role of ketogenic diet based on energy metabolism</dc:title>
+      <dc:creator>Jiasheng Wu, Xinyu Sun, Hanmou Luo, Xiaoqi Luo, Suxia Sun</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.006</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-13</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-13</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Narrative Review</prism:section>
+      <prism:startingPage>174</prism:startingPage>
+      <prism:endingPage>186</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00159-1/fulltext?rss=yes">
+      <title>Functional food lycopene mitigates obesity-related cognitive decline via lipid metabolism regulation and neuroprotection via taurine and glutathione pathway</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00159-1/fulltext?rss=yes</link>
+      <description>Obesity has emerged as a critical global public health challenge, contributing not only to metabolic disorders but also to neurological complications, including cognitive decline. Lycopene, a carotenoid found abundantly in tomatoes, has gained attention as a functional food due to its potent antioxidant and anti-inflammatory properties. This study explores the neuroprotective effects of lycopene against obesity-related cognitive impairment in male C57BL/6 mice. Mice were fed a high-fat diet (HFD) for four months to induce obesity, followed by supplementation with lycopene (50 mg/kg).</description>
+      <dc:title>Functional food lycopene mitigates obesity-related cognitive decline via lipid metabolism regulation and neuroprotection via taurine and glutathione pathway</dc:title>
+      <dc:creator>Yuqing Wu, Jingfang Liu</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.005</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-12</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-12</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>136</prism:startingPage>
+      <prism:endingPage>145</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00161-X/fulltext?rss=yes">
+      <title>Therapeutic advances in sarcopenia management: From traditional interventions to personalized medicine</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00161-X/fulltext?rss=yes</link>
+      <description>Sarcopenia, a progressive decline in skeletal muscle mass and function, has emerged as a critical geriatric syndrome affecting 10–40% of older adults, contributing to increased disability and mortality. This comprehensive review evaluates evidence-based strategies for sarcopenia management, from established interventions to emerging personalized approaches. Pathophysiological insights reveal multifactorial mechanisms involving anabolic resistance, chronic inflammation (elevated IL-6, TNF-α), hormonal imbalances (e.g., testosterone/IGF-1 decline), neuromuscular junction dysfunction, mitochondrial impairment, and novel mediators like GDF-15, which drive proteolysis and appetite suppression.</description>
+      <dc:title>Therapeutic advances in sarcopenia management: From traditional interventions to personalized medicine</dc:title>
+      <dc:creator>Xiangliang Liu, Xinqiao Chen, Jiuwei Cui</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.007</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-11</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-11</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Narrative Review</prism:section>
+      <prism:startingPage>187</prism:startingPage>
+      <prism:endingPage>197</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00157-8/fulltext?rss=yes">
+      <title>Activating nuclear receptor subfamily 2 group F member 2 in adipocyte stem cells rescues beige adipocyte metabolism impaired by excess early-life omega-6 fatty acids</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00157-8/fulltext?rss=yes</link>
+      <description>Developmental exposure to an elevated ratio of omega-6 (n6) to omega-3 (n3) fatty acids (FA) is linked to increased infant body fat and risk of future childhood obesity. We demonstrated in mice that the high n6/n3 developmental exposure reduced nuclear receptor subfamily 2 group F member 2 (NR2F2) in Adipocyte Stem Cells (ASCs), coincident with an altered ASC mitochondrial expression profile and increased white adipose accumulation in pups. This suggested that NR2F2-low ASCs might adopt a nutrient-storage phenotype.</description>
+      <dc:title>Activating nuclear receptor subfamily 2 group F member 2 in adipocyte stem cells rescues beige adipocyte metabolism impaired by excess early-life omega-6 fatty acids</dc:title>
+      <dc:creator>Snehasis Das, Rohan R. Varshney, Jacob W. Farriester, Gertrude Kyere-Davies, Alexandrea E. Martinez, Kaitlyn B. Hill, Michael Kinter, Gregory P. Mullen, Prabhakara R. Nagareddy, Michael C. Rudolph</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.003</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-09</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-09</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>63</prism:startingPage>
+      <prism:endingPage>80</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00152-9/fulltext?rss=yes">
+      <title>Standard continuous feeding versus intermittent feeding among mechanically ventilated patients in intensive care: A systematic review and meta-analysis of randomized controlled trials</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00152-9/fulltext?rss=yes</link>
+      <description>Previous meta-analyses on the mode of enteral nutrition in intensive care unit (ICU) have not explored whether the standard practice of continuous enteral feeding is superior to intermittent or bolus feeding among mechanically ventilated patients. Large feed volumes maybe one of the barriers for the use of intermittent feeding. However, intermittent feeding when routinely paired with right lateral tilt positioning may be better tolerated. Aligning feeding-fasting periods with circadian patterns may also be beneficial during critical illness in relation to important patient-centered clinical outcomes.</description>
+      <dc:title>Standard continuous feeding versus intermittent feeding among mechanically ventilated patients in intensive care: A systematic review and meta-analysis of randomized controlled trials</dc:title>
+      <dc:creator>Rakshit Panwar, Nikhil Kumar, Harshel Parikh, Sananta Dash, Sumeet Rai</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.024</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-07</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-07</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Meta-analyses</prism:section>
+      <prism:startingPage>40</prism:startingPage>
+      <prism:endingPage>49</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00158-X/fulltext?rss=yes">
+      <title>Prognostic impact of segmental extracellular water to total body water ratio in cardiovascular surgery patients</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00158-X/fulltext?rss=yes</link>
+      <description>Perioperative fluid management is a key component of care for patients undergoing cardiovascular surgery. The ratio of extracellular water to total body water (ECW/TBW) has been recognized as a valuable biomarker for perioperative assessment, as it integrates information regarding fluid retention, muscle wasting, and nutritional status. However, evidence regarding the clinical utility of ECW/TBW and its association with long-term postoperative outcomes in cardiovascular surgery remains limited. This study aimed to investigate the prognostic value of ECW/TBW for long-term mortality in patients undergoing cardiovascular surgery.</description>
+      <dc:title>Prognostic impact of segmental extracellular water to total body water ratio in cardiovascular surgery patients</dc:title>
+      <dc:creator>Kenichi Shibata, Takuji Adachi, Masataka Kameshima, Hisako Kito, Chikako Tanaka, Taisei Sano, Mizuki Tanaka, Masayuki Ida, Haruna Jinno, Hideki Kitamura</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.004</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-05</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-05</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>81</prism:startingPage>
+      <prism:endingPage>89</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00156-6/fulltext?rss=yes">
+      <title>Impact of nutritional status on the mortality and clinical outcomes of children admitted to the pediatric intensive care unit: A systematic review and meta-analysis</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00156-6/fulltext?rss=yes</link>
+      <description>Malnutrition has been associated with poor outcomes in hospitalized patients; however, previous studies reported variable results due to different periods, height and weight standards, interventions, and possible confounding factors. We aimed to evaluate the association of nutritional status with the clinical outcomes in children admitted to the Pediatric Intensive Care Unit (PICU).</description>
+      <dc:title>Impact of nutritional status on the mortality and clinical outcomes of children admitted to the pediatric intensive care unit: A systematic review and meta-analysis</dc:title>
+      <dc:creator>Amit Agrawal, Shweta Sharma, Dalwinder Janjua, Gaurav Jadon, Roshan Chanchlani, Viola Dsouza</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.002</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-05</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-05</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Meta-analyses</prism:section>
+      <prism:startingPage>28</prism:startingPage>
+      <prism:endingPage>39</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00155-4/fulltext?rss=yes">
+      <title>Food addiction severity is associated with decreased functional connectivity and responses to palatable food pictures in brain areas involved in emotion and cognitive control</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00155-4/fulltext?rss=yes</link>
+      <description>Patients with obesity frequently report impulsivity or loss control of food intake, reflecting the dysfunction of brain regions involved in reward and cognitive control processing related to food addiction (FA). Functional magnetic resonance imaging (fMRI) may help to identify the cognitive processes underlying FA. In patients with obesity, we aimed at identifying (i) fMRI specific responses in brain regions involved in hedonic and motivational processes (striatum), and cognitive control (e.g. prefrontal cortex) according to FA severity; (ii) whether FA severity is related to anxiety and/or depression symptoms.</description>
+      <dc:title>Food addiction severity is associated with decreased functional connectivity and responses to palatable food pictures in brain areas involved in emotion and cognitive control</dc:title>
+      <dc:creator>Nicolas Coquery, Mickael Som, Yann Serrand, Marie-Océane Guittière, Elise Bannier, Fabrice Lainé, Aymery Constant, Romain Moirand, Eric Stice, David Val-Laillet, Ronan Thibault</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.06.001</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-05</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-05</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>115</prism:startingPage>
+      <prism:endingPage>125</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00154-2/fulltext?rss=yes">
+      <title>A flavonoid-rich diet is associated with a lower risk of chronic kidney disease: A prospective cohort study</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00154-2/fulltext?rss=yes</link>
+      <description>Mechanistic data suggests several flavonoids may improve kidney function, but no large-scale prospective cohort study has been conducted. As such, we performed a prospective population-based study on flavonoid intakes, chronic kidney disease (CKD) risk, and all-cause mortality among participants with CKD.</description>
+      <dc:title>A flavonoid-rich diet is associated with a lower risk of chronic kidney disease: A prospective cohort study</dc:title>
+      <dc:creator>William Bell, Alysha S. Thompson, Nicola P. Bondonno, Amy Jennings, Martina Gaggl, Tilman Kühn, Aedín Cassidy</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.026</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-05</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-05</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>126</prism:startingPage>
+      <prism:endingPage>135</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00150-5/fulltext?rss=yes">
+      <title>Systematic review and meta-analysis of randomized controlled trials on pre-, pro-, post- and synbiotic supplementation in follow-on formula</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00150-5/fulltext?rss=yes</link>
+      <description>The remarkable plasticity of the gut microbiome during the first three years of life offers a critical window of opportunity to influence gut health. The aim of this study is to summarize high quality evidence from randomized controlled trials on the health benefits (respiratory tract infections, diarrheal episodes, febrile days, antibiotic use, microbiome modulation and secretory IgA) of prebiotics, probiotics, synbiotics and postbiotics added to follow-on formula.</description>
+      <dc:title>Systematic review and meta-analysis of randomized controlled trials on pre-, pro-, post- and synbiotic supplementation in follow-on formula</dc:title>
+      <dc:creator>Hanne Delcourt, Liesbet Verbrugghe, Yvan Vandenplas, Koen Huysentruyt</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.022</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-05</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-05</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Meta-analyses</prism:section>
+      <prism:startingPage>101</prism:startingPage>
+      <prism:endingPage>114</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00153-0/fulltext?rss=yes">
+      <title>Acute kidney injury in patients undergoing major surgery and clinical practice of intravenous amino acids: A descriptive study in Japan</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00153-0/fulltext?rss=yes</link>
+      <description>The use of aggressive perioperative intravenous amino acid administration to prevent postoperative acute kidney injury (AKI) has been examined. While it is crucial to understand the clinical course of postoperative AKI in order to develop a nutritional strategy, few studies have investigated real-world postoperative AKI after major surgeries and nutrition practices.</description>
+      <dc:title>Acute kidney injury in patients undergoing major surgery and clinical practice of intravenous amino acids: A descriptive study in Japan</dc:title>
+      <dc:creator>Naoki Kanda, Minoru Yoshida, Shizuka Kashiwagi, Hayabusa Takano, Hiroyuki Ohbe, Kensuke Nakamura</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.025</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-04</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-04</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>8</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00147-5/fulltext?rss=yes">
+      <title>High dose arachidonic and docosahexaenoic acid in very preterm infants and neurodevelopment at 2 years - A double-blind randomized controlled trial</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00147-5/fulltext?rss=yes</link>
+      <description>The fatty acids arachidonic acid (ARA) and docosahexaenoic acid (DHA) accumulate in neural tissue in the last trimester, thus preterm infants have lower levels compared to their term-born peers. Our aim was to evaluate the impact of ARA and DHA supplementation in very preterm infants on neurodevelopmental outcomes at two years corrected age (CA). We also wanted to study the effect of in-hospital growth, socioeconomic factors and other possible covariates on neurodevelopmental outcomes for the entire study population.</description>
+      <dc:title>High dose arachidonic and docosahexaenoic acid in very preterm infants and neurodevelopment at 2 years - A double-blind randomized controlled trial</dc:title>
+      <dc:creator>Gunnthorunn Gunnarsdottir, Madelaine Eloranta Rossholt, Tone Nordvik, Kristina Wendel, Marlen Fossan Aas, Anne-Britt Skarbø, Vibeke Smih Aulie, Tom Stiris, Anette Ramm-Pettersen, Helle C. Pfeiffer, Sissel J. Moltu</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.019</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-04</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-04</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Randomized Control Trials</prism:section>
+      <prism:startingPage>198</prism:startingPage>
+      <prism:endingPage>205</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00148-7/fulltext?rss=yes">
+      <title>Taurolidine lock reduces recurrent catheter-related bloodstream infections in patients with chronic intestinal failure: A randomized, placebo-controlled trial in a real-world clinical setting</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00148-7/fulltext?rss=yes</link>
+      <description>Recurrent catheter-related bloodstream infections (CRBSIs) are a frequent, severe, and costly complication of home parenteral support (HPS) in patients with chronic intestinal failure (CIF). While taurolidine-containing catheter locks have shown potential in preventing CRBSIs, real-world data on their effectiveness in reducing recurrent infections remain limited.This study aimed to assess the efficacy and safety of a 1.35% taurolidine-containing catheter lock solution compared to standard-of-care 0.9% saline for the secondary prevention of recurrent CRBSIs in adult CIF patients.</description>
+      <dc:title>Taurolidine lock reduces recurrent catheter-related bloodstream infections in patients with chronic intestinal failure: A randomized, placebo-controlled trial in a real-world clinical setting</dc:title>
+      <dc:creator>Camilla T. Nerstrøm, Thomas Scheike, Claus E. Moser, Siri Tribler, Palle B. Jeppesen</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.020</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-06-03</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-06-03</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Randomized Control Trials</prism:section>
+      <prism:startingPage>90</prism:startingPage>
+      <prism:endingPage>100</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00146-3/fulltext?rss=yes">
+      <title>Association among lean mass, gut microbiome alterations and bone mineral density in high-altitude</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00146-3/fulltext?rss=yes</link>
+      <description>Body composition, particularly lean body mass, plays a pivotal role in skeletal health and has been increasingly linked to the gut microbiota (GM). However, evidence from vulnerable high-altitude populations remains scarce.</description>
+      <dc:title>Association among lean mass, gut microbiome alterations and bone mineral density in high-altitude</dc:title>
+      <dc:creator>Ruijie Xu, Tiemei Li, Zhiyi Wang, Haijing Wang, Mengzi Sun, Jinchen Xie, Li Tong, Wen Peng, Youfa Wang</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.018</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-05-30</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-05-30</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>18</prism:startingPage>
+      <prism:endingPage>27</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00144-X/fulltext?rss=yes">
+      <title>Effect of aerobic or resistance exercise, or both on insulin secretion, ciliary neurotrophic factor, and insulin-like growth factor-1 in dieting older adults with obesity</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00144-X/fulltext?rss=yes</link>
+      <description>Obesity exacerbates age-related changes in metabolic and physical function. The effect of distinct exercise modalities combined with diet-induced weight loss on insulin secretion in older adults with obesity and frailty is unknown, and the potential mediators of the metabolic and functional improvements induced by lifestyle therapy still need to be identified. We aimed to assess the effects of various exercise therapies coupled with diet-induced weight loss on insulin secretion and sensitivity and on the levels of circulating Ciliary Neurotrophic Factor (CNTF), its receptor (CNTFRα), and Insulin-like Growth Factor-1 (IGF-1) in older adults with both obesity and frailty.</description>
+      <dc:title>Effect of aerobic or resistance exercise, or both on insulin secretion, ciliary neurotrophic factor, and insulin-like growth factor-1 in dieting older adults with obesity</dc:title>
+      <dc:creator>Georgia Colleluori, Viola Viola, Siresha Bathina, Reina Armamento-Villareal, Clifford Qualls, Antonio Giordano, Dennis T. Villareal</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.016</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-05-28</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-05-28</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Randomized Control Trials</prism:section>
+      <prism:startingPage>50</prism:startingPage>
+      <prism:endingPage>62</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00140-2/fulltext?rss=yes">
+      <title>Letter to Editor - Reply - Maternal hemoglobin and iron status in early pregnancy and childhood cardiac outcomes</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00140-2/fulltext?rss=yes</link>
+      <description>Thank you for the opportunity to respond to the valuable comments and suggestions provided by Zhang K. et al. [1] in their letter to the editor regarding our recent publication “Maternal hemoglobin and iron status in early pregnancy and childhood cardiac outcomes” [2].</description>
+      <dc:title>Letter to Editor - Reply - Maternal hemoglobin and iron status in early pregnancy and childhood cardiac outcomes</dc:title>
+      <dc:creator>Hugo G. Quezada-Pinedo, Vincent Jaddoe, Susana Santos</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.05.012</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-05-20</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-05-20</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Letter to the Editor</prism:section>
+      <prism:startingPage>386</prism:startingPage>
+      <prism:endingPage>387</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00104-9/fulltext?rss=yes">
+      <title>Tackling disease-related malnutrition in resource-limited settings: An international position paper based on expert consensus</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00104-9/fulltext?rss=yes</link>
+      <description>Considering the challenges of providing nutrition care in resource-limited settings (RLSs), the International Working Group for Patients’ Right to Nutrition Care (WG) organized an expert meeting to propose recommendations and strategies to promote access to nutrition care and address disease-related malnutrition (DRM).</description>
+      <dc:title>Tackling disease-related malnutrition in resource-limited settings: An international position paper based on expert consensus</dc:title>
+      <dc:creator>Diana Cardenas, Ines Ribeiro Ferreira, Maria Isabel Toulson Davisson Correia, Mario-David Barbagallo, Simon Lal, Rocco Barazzoni, Filomena Gomes, the Working Group</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.04.010</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-05-16</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-05-16</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>381</prism:startingPage>
+      <prism:endingPage>385</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00113-X/fulltext?rss=yes">
+      <title>Automated three-dimensional body composition analysis identifies visceral adipose tissue radiodensity as a predictor of mortality and recurrence in colorectal cancer</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00113-X/fulltext?rss=yes</link>
+      <description>Artificial intelligence enables automated three-dimensional (3D) volumetric body composition (BC) analysis from computed tomography (CT), opposed to single third lumbar vertebra (L3) slices alone. This study aimed to identify relationships between 3D BC and postoperative colorectal cancer (CRC) outcomes utilising Voronoi Health Analytics’ Data Analysis Facilitation Suite software.</description>
+      <dc:title>Automated three-dimensional body composition analysis identifies visceral adipose tissue radiodensity as a predictor of mortality and recurrence in colorectal cancer</dc:title>
+      <dc:creator>Dinh Van Chi Mai, Ioanna Drami, Edward T. Pring, Laura Gould, Jason Rai, George Malietzis, Phillip Lung, Vincent Chow, Karteek Popuri, Mirza F. Beg, Thanos Athanasiou, John T. Jenkins, the BiCyCLE Research Group</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.04.019</dc:identifier>
+      <dc:source>Clinical Nutrition 51,  (2025)</dc:source>
+      <dc:date>2025-05-13</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-05-13</prism:publicationDate>
+      <prism:volume>51</prism:volume>
+      <prism:issueIdentifier>S0261-5614(25)X0007-8</prism:issueIdentifier>
+      <prism:section>Original article</prism:section>
+      <prism:startingPage>9</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00063-9/fulltext?rss=yes">
+      <title>WITHDRAWN: Tackling disease-related malnutrition in resource-limited settings: An international position paper</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(25)00063-9/fulltext?rss=yes</link>
+      <description>The Publisher regrets that this article is an accidental duplication of an article that has already been published, https://doi.org/10.1016/j.clnu.2025.04.010. The duplicate article has therefore been withdrawn.The full Elsevier Policy on Article Withdrawal can be found at https://www.elsevier.com/about/policies-and-standards/article-withdrawal.</description>
+      <dc:title>WITHDRAWN: Tackling disease-related malnutrition in resource-limited settings: An international position paper</dc:title>
+      <dc:creator>Diana Cardenas, Ines Ribeiro Ferreira, Maria Isabel Toulson Davisson Correia, Mario Barbagallo, Simon Lal, Rocco Barazzoni, Filomena Gomes, the Working Group</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2025.02.028</dc:identifier>
+      <dc:source>Clinical Nutrition (2025)</dc:source>
+      <dc:date>2025-02-24</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2025-02-24</prism:publicationDate>
+   </item>
+   <item rdf:about="https://www.clinicalnutritionjournal.com/article/S0261-5614(20)30193-X/fulltext?rss=yes">
+      <title>WITHDRAWN: Reply - Letter to the Editor - Malnutrition according to the ESPEN definition and falls in general older population: findings in the EPIDOS study-Toulouse cohort</title>
+      <link>https://www.clinicalnutritionjournal.com/article/S0261-5614(20)30193-X/fulltext?rss=yes</link>
+      <description>The Publisher regrets that this article is an accidental duplication of an article that has already been published, https://doi.org/10.1016/j.clnu.2020.02.026. The duplicate article has therefore been withdrawn.The full Elsevier Policy on Article Withdrawal can be found at https://www.elsevier.com/about/our-business/policies/article-withdrawal.</description>
+      <dc:title>WITHDRAWN: Reply - Letter to the Editor - Malnutrition according to the ESPEN definition and falls in general older population: findings in the EPIDOS study-Toulouse cohort</dc:title>
+      <dc:creator>T. Cederholm, P. Singer</dc:creator>
+      <dc:identifier>10.1016/j.clnu.2020.04.022</dc:identifier>
+      <dc:source>Clinical Nutrition (2020)</dc:source>
+      <dc:date>2020-04-22</dc:date>
+      <prism:publicationName>Clinical Nutrition</prism:publicationName>
+      <prism:publicationDate>2020-04-22</prism:publicationDate>
+   </item>
+</rdf:RDF>
