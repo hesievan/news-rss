@@ -41,7 +41,7 @@ def collect_rss_feeds():
         if not enabled:
             logging.info(f"源 {name} 已手动禁用，跳过处理")
             continue
-        
+            
         # 健康检查功能处理
         if health_check_enabled:
             # 获取源的健康状态
@@ -106,9 +106,8 @@ def collect_rss_feeds():
         if not url:
             logging.warning(f"跳过无效源: {name}")
             continue
-        
+            
         logging.info(f"正在收集: {name}")
-        
         try:
             # 初始化缓存，设置1小时超时
             with Cache('cache/rss_feeds', timeout=3600) as cache:
@@ -125,7 +124,7 @@ def collect_rss_feeds():
                     # 存入缓存
                     cache.set(url, content)
                     feed = feedparser.parse(content)
-
+            
             # 检查RSS解析错误
             if feed.bozo > 0:
                 logging.warning(f"{name} RSS解析警告: {feed.bozo_exception}")
@@ -147,7 +146,7 @@ def collect_rss_feeds():
                     'published': entry.get('published', ''),
                     'source': name,
                     'category': category,
-                    'collected_at': format_datetime(datetime.now())
+                    'collected_at': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                 }
                 
                 # 尝试获取内容
@@ -174,10 +173,8 @@ def collect_rss_feeds():
 def main():
     """主函数"""
     print("开始收集RSS内容...")
-    
     # 收集RSS内容
     news_data = collect_rss_feeds()
-    
     if news_data:
         # 保存原始数据
         output_file = 'output/raw_news.json'

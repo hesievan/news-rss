@@ -9,26 +9,31 @@ import requests
 import time
 from datetime import datetime
 from typing import Dict, List, Any
-from src.utils import load_json_config, format_datetime
+import re
+
+# 添加当前目录到Python路径
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from utils import load_json_config, format_datetime
+
 
 class FeishuNotifier:
     """飞书消息通知器"""
     
-    def __init__(self):
+    def __init__(self, webhook_url=None):
         """
         初始化飞书通知器
         """
-        self.webhook_url = os.getenv('FEISHU_WEBHOOK_URL')
+        self.webhook_url = webhook_url or os.getenv('FEISHU_WEBHOOK_URL')
         if not self.webhook_url:
-            raise ValueError("请设置FEISHU_WEBHOOK_URL环境变量")
+            raise ValueError("请设置FEISHU_WEBHOOK_URL环境变量或在构造函数中提供webhook_url")
     
     def send_message(self, message: Dict[str, Any]) -> bool:
         """
         发送消息到飞书
-        
         Args:
             message: 消息内容
-            
         Returns:
             bool: 是否发送成功
         """
@@ -41,26 +46,22 @@ class FeishuNotifier:
             )
             response.raise_for_status()
             result = response.json()
-            
             if result.get('StatusCode') == 0:
-                print(f"[{format_datetime(datetime.now())}] 飞书消息发送成功")
+                print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 飞书消息发送成功")
                 return True
             else:
-                print(f"[{format_datetime(datetime.now())}] 飞书消息发送失败: {result}")
+                print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 飞书消息发送失败: {result}")
                 return False
-                
         except Exception as e:
-            print(f"[{format_datetime(datetime.now())}] 发送飞书消息时出错: {e}")
+            print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 发送飞书消息时出错: {e}")
             return False
     
     def create_news_card(self, news_items: List[Dict[str, Any]], summary: Dict[str, Any]) -> Dict[str, Any]:
         """
         创建新闻卡片消息
-        
         Args:
             news_items: 新闻列表
             summary: 摘要信息
-            
         Returns:
             Dict: 飞书卡片消息
         """
@@ -92,7 +93,6 @@ class FeishuNotifier:
                 "content": summary_text
             }
         })
-        
         elements.append({"tag": "hr"})
         
         # 添加新闻列表
@@ -108,7 +108,6 @@ class FeishuNotifier:
                 description = description[:200] + "..."
             
             # 清理HTML标签
-            import re
             description = re.sub(r'<[^>]+>', '', description)
             
             news_content = (
@@ -161,17 +160,14 @@ class FeishuNotifier:
                 "elements": elements
             }
         }
-        
         return card
     
     def create_simple_text(self, news_items: List[Dict[str, Any]], summary: Dict[str, Any]) -> Dict[str, Any]:
         """
         创建简单文本消息
-        
         Args:
             news_items: 新闻列表
             summary: 摘要信息
-            
         Returns:
             Dict: 飞书文本消息
         """
@@ -205,10 +201,8 @@ class FeishuNotifier:
     def notify_filtered_news(self, filtered_news_path: str = "output/filtered_news.json") -> bool:
         """
         发送筛选后的新闻通知
-        
         Args:
             filtered_news_path: 筛选新闻文件路径
-            
         Returns:
             bool: 是否发送成功
         """
@@ -216,7 +210,7 @@ class FeishuNotifier:
             # 加载筛选后的新闻
             news_items = load_json_config(filtered_news_path)
             if not news_items:
-                print(f"[{format_datetime(datetime.now())}] 没有筛选到的新闻，跳过通知")
+                print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 没有筛选到的新闻，跳过通知")
                 return True
             
             # 生成摘要信息
@@ -236,8 +230,9 @@ class FeishuNotifier:
             return self.send_message(message)
             
         except Exception as e:
-            print(f"[{format_datetime(datetime.now())}] 发送新闻通知时出错: {e}")
+            print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 发送新闻通知时出错: {e}")
             return False
+
 
 def main():
     """主函数"""

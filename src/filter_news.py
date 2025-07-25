@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 import json
+import logging
 import sys
-from utils import load_json_config, save_json_data, filter_by_keywords
+from utils import load_config, save_json_data, filter_by_keywords
 
 def filter_news():
     """过滤新闻内容"""
@@ -22,8 +23,12 @@ def filter_news():
         logging.warning("关键词配置为空，使用默认过滤规则")
         return []
     
+    # 提取关键词列表
+    include_keywords = keywords_config.get('include_keywords', [])
+    exclude_keywords = keywords_config.get('exclude_keywords', [])
+    
     # 过滤新闻
-    filtered_news = filter_by_keywords(news_data, keywords_config)
+    filtered_news = filter_by_keywords(news_data, include_keywords, exclude_keywords)
     
     # 按发布时间排序（最新的在前）
     filtered_news.sort(key=lambda x: x.get('published', ''), reverse=True)
@@ -40,23 +45,19 @@ def filter_news():
 def main():
     """主函数"""
     print("开始过滤新闻...")
-    
     # 过滤新闻
     filtered_data = filter_news()
-    
     if filtered_data:
         # 保存过滤后的数据
         output_file = 'output/filtered_news.json'
         if save_json_data(filtered_data, output_file):
             print(f"过滤结果已保存到: {output_file}")
-            
             # 生成摘要报告
             summary = {
                 'total_news': len(filtered_data),
                 'sources': list(set(item['source'] for item in filtered_data)),
                 'generated_at': filtered_data[0]['collected_at'] if filtered_data else None
             }
-            
             summary_file = 'output/summary.json'
             if save_json_data(summary, summary_file):
                 print(f"摘要报告已保存到: {summary_file}")
