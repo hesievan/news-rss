@@ -373,11 +373,16 @@ def main():
             sys.exit(1)
         keywords = keywords_config.get('include_keywords', [])
         
-        html_content = generate_html(news_data, keywords)
+        try:
+            html_content = generate_html(news_data, keywords)
+        except Exception as e:
+            logging.error(f"生成HTML内容失败: {str(e)}")
+            sys.exit(1)
+        
         if save_html_to_pages(html_content):
-            print("GitHub Pages生成成功")
+            logging.info("GitHub Pages生成成功")
         else:
-            print("GitHub Pages生成失败")
+            logging.error("GitHub Pages生成失败")
             sys.exit(1)
     except Exception as e:
         logging.error(f'生成HTML页面失败: {str(e)}')
