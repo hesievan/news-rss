@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "failure_threshold": 3,
+  "check_interval_hours": 24,
+  "timeout_seconds": 10,
+  "auto_disable": true
+}

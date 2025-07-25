@@ -4,30 +4,36 @@ import sys
 from utils import load_json_config, save_json_data, filter_by_keywords
 
 def filter_news():
-    """根据关键词过滤新闻"""
-    # 加载关键词配置
-    keywords_config = load_json_config('config/keywords.json')
-    if not keywords_config:
-        print("未找到关键词配置")
-        return []
-    
-    # 加载原始新闻数据
+    """过滤新闻内容"""
+    # 加载新闻数据
     try:
         with open('output/raw_news.json', 'r', encoding='utf-8') as f:
             news_data = json.load(f)
-    except FileNotFoundError:
-        print("未找到原始新闻数据，请先运行 collect_rss.py")
-        return []
     except json.JSONDecodeError:
-        print("原始新闻数据格式错误")
+        logging.error("原始新闻数据JSON格式错误")
+        return []
+    except Exception as e:
+        logging.error(f"加载原始新闻数据失败: {str(e)}")
         return []
     
-    print(f"开始过滤 {len(news_data)} 条新闻...")
+    # 加载关键词配置
+    keywords_config = load_json_config('config/keywords.json')
+    if not keywords_config:
+        logging.warning("关键词配置为空，使用默认过滤规则")
+        return []
     
-    # 根据关键词过滤
+    # 过滤新闻
     filtered_news = filter_by_keywords(news_data, keywords_config)
     
-    print(f"过滤后得到 {len(filtered_news)} 条相关新闻")
+    # 按发布时间排序（最新的在前）
+    filtered_news.sort(key=lambda x: x.get('published', ''), reverse=True)
+    
+    # 保存过滤后的新闻
+    if save_json_data(filtered_news, 'output/filtered_news.json'):
+        print(f"已过滤 {len(filtered_news)} 条新闻")
+    else:
+        logging.error("保存过滤后新闻失败")
+        return []
     
     return filtered_news
 

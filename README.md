@@ -125,7 +125,7 @@ python run.py
     "name": "36氪",
     "url": "https://36kr.com/feed",
     "category": "科技",
-    "enabled": true
+    "enabled": true  // 新增: 手动启用/禁用开关
   },
   {
     "name": "Solidot",
@@ -134,6 +134,17 @@ python run.py
     "enabled": true
   }
 ]
+```
+
+### 健康检查配置 (`config/health-check.json`) // 新增: 健康检查配置说明
+```json
+{
+  "enabled": false,          // 是否启用健康检查
+  "failure_threshold": 3,    // 失败阈值，连续失败多少次后禁用
+  "check_interval_hours": 24, // 检查间隔(小时)
+  "timeout_seconds": 10,     // 请求超时时间(秒)
+  "auto_disable": true       // 是否自动禁用失败源
+}
 ```
 
 ### 关键词配置 (`config/keywords.json`)
@@ -278,3 +289,18 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 ---
 
 **⭐ 如果这个项目对你有帮助，请给个Star支持一下！**
+
+### RSS源健康检查 // 新增: 健康检查功能说明
+系统支持自动监控RSS源可用性并在多次失败后自动禁用源，防止无效请求浪费资源。
+
+#### 启用方法
+1. 编辑 `config/health-check.json`，设置 `"enabled": true`
+2. 配置参数说明:
+   - `failure_threshold`: 连续失败多少次后自动禁用
+   - `check_interval_hours`: 自动禁用后，每隔多久尝试重新检查
+   - `timeout_seconds`: 每个源的连接超时时间
+   - `auto_disable`: 是否开启自动禁用功能
+
+#### 手动管理
+- 健康状态存储在 `config/rss-health-status.json` (自动生成)
+- 如需手动恢复禁用的源，可删除该文件或修改对应源的 `disabled` 状态为 `false`

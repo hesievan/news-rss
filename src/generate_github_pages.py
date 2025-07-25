@@ -356,31 +356,35 @@ def save_html_to_pages(html_content: str):
     print("✅ GitHub Pages HTML 已生成并保存到 docs/index.html")
 
 def main():
-    """Main function to generate GitHub Pages"""
-    print("🚀 开始生成 GitHub Pages...")
-    
-    # Load keywords
-    with open("config/keywords.json", 'r', encoding='utf-8') as f:
-        keywords_config = json.load(f)
-    
-    include_keywords = keywords_config.get('include_keywords', [])
-    
-    # Load and process news
-    news_data = load_filtered_news()
-    
-    if not news_data:
-        print("⚠️ 没有找到过滤后的新闻数据")
-        return
-    
-    print(f"📊 找到 {len(news_data)} 篇新闻")
-    
-    # Generate HTML
-    html_content = generate_html(news_data, include_keywords)
-    
-    # Save to GitHub Pages directory
-    save_html_to_pages(html_content)
-    
-    print("🎉 GitHub Pages 生成完成！")
+    try:
+        print("开始生成GitHub Pages...")
+        news_data = load_filtered_news()
+        if not news_data:
+            print("没有新闻数据可供生成页面")
+            return
+        
+        try:
+            keywords_config = load_json_config('config/keywords.json')
+        except json.JSONDecodeError:
+            logging.error("关键词配置文件JSON格式错误")
+            sys.exit(1)
+        except Exception as e:
+            logging.error(f"加载关键词配置失败: {str(e)}")
+            sys.exit(1)
+        keywords = keywords_config.get('include_keywords', [])
+        
+        html_content = generate_html(news_data, keywords)
+        if save_html_to_pages(html_content):
+            print("GitHub Pages生成成功")
+        else:
+            print("GitHub Pages生成失败")
+            sys.exit(1)
+    except Exception as e:
+        logging.error(f'生成HTML页面失败: {str(e)}')
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
+except Exception as e:
+    logging.error(f'生成HTML页面失败: {str(e)}')
+    return False

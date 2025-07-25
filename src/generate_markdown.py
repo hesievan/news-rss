@@ -5,15 +5,22 @@ from datetime import datetime
 from typing import List, Dict, Any
 
 def load_json_data(file_path: str) -> List[Dict[str, Any]]:
-    """加载JSON数据"""
+    """加载JSON数据
+
+    Args:
+        file_path: JSON文件路径
+
+    Returns:
+        解析后的JSON数据列表
+    """
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             return json.load(f)
-    except FileNotFoundError:
-        print(f"文件 {file_path} 不存在")
-        return []
     except json.JSONDecodeError:
-        print(f"文件 {file_path} JSON格式错误")
+        logging.error(f"JSON文件解析错误: {file_path}")
+        return []
+    except Exception as e:
+        logging.error(f"加载JSON数据失败: {str(e)}")
         return []
 
 def generate_markdown(news_data: List[Dict[str, Any]], title: str) -> str:

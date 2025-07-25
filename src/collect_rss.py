@@ -3,32 +3,126 @@ import feedparser
 import json
 import os
 import sys
-from datetime import datetime
+import time
+import requests
+import logging
+from datetime import datetime, timedelta
 from utils import load_json_config, save_json_data, format_datetime
 
 def collect_rss_feeds():
     """收集RSS源内容"""
-    # 加载RSS源配置
+    # 加载配置
     rss_sources = load_json_config('config/rss-sources.json')
+    health_config = load_json_config('config/health-check.json')
+    health_status = load_json_config('config/rss-health-status.json') or {}
+    
     if not rss_sources:
-        print("未找到RSS源配置")
+        logging.error("未找到RSS源配置")
         return []
     
+    # 健康检查功能开关
+    health_check_enabled = health_config.get('enabled', False)
+    failure_threshold = health_config.get('failure_threshold', 3)
+    check_interval = timedelta(hours=health_config.get('check_interval_hours', 24))
+    timeout = health_config.get('timeout_seconds', 10)
+    auto_disable = health_config.get('auto_disable', True)
+    
     all_news = []
+    current_time = datetime.now()
     
     for source in rss_sources:
         name = source.get('name', '未知源')
         url = source.get('url', '')
         category = source.get('category', 'general')
+        enabled = source.get('enabled', True)
         
-        if not url:
-            print(f"跳过无效源: {name}")
+        # 如果源已手动禁用，跳过处理
+        if not enabled:
+            logging.info(f"源 {name} 已手动禁用，跳过处理")
             continue
         
-        print(f"正在收集: {name}")
+        # 健康检查功能处理
+        if health_check_enabled:
+            # 获取源的健康状态
+            source_status = health_status.get(url, {
+                'failures': 0,
+                'last_check': None,
+                'disabled': False,
+                'last_disabled_time': None
+            })
+            
+            # 如果源已被自动禁用，检查是否超过检查间隔
+            if source_status['disabled']:
+                if source_status['last_disabled_time']:
+                    last_disabled = datetime.fromisoformat(source_status['last_disabled_time'])
+                    if current_time - last_disabled < check_interval:
+                        logging.info(f"源 {name} 因多次失败已被自动禁用，跳过处理")
+                        continue
+                    else:
+                        # 超过检查间隔，尝试重新启用并检查
+                        logging.info(f"源 {name} 自动禁用时间已过，尝试重新检查")
+                        source_status['disabled'] = False
+                        source_status['failures'] = 0
+                else:
+                    # 没有禁用时间记录，视为需要重新检查
+                    source_status['disabled'] = False
+                    source_status['failures'] = 0
+            
+            # 执行健康检查
+            try:
+                # 发送HEAD请求检查URL是否可达
+                response = requests.head(url, timeout=timeout, allow_redirects=True)
+                if response.status_code < 400:
+                    # URL可达，重置失败计数
+                    source_status['failures'] = 0
+                    source_status['last_check'] = current_time.isoformat()
+                    logging.debug(f"源 {name} 健康检查通过")
+                else:
+                    # HTTP状态码错误
+                    raise Exception(f"HTTP状态码错误: {response.status_code}")
+            except Exception as e:
+                # 健康检查失败
+                source_status['failures'] += 1
+                source_status['last_check'] = current_time.isoformat()
+                logging.warning(f"源 {name} 健康检查失败 ({source_status['failures']}/{failure_threshold}): {str(e)}")
+                
+                # 达到失败阈值，自动禁用
+                if source_status['failures'] >= failure_threshold and auto_disable:
+                    source_status['disabled'] = True
+                    source_status['last_disabled_time'] = current_time.isoformat()
+                    logging.error(f"源 {name} 连续失败 {failure_threshold} 次，已自动禁用")
+                    health_status[url] = source_status
+                    continue
+            
+            # 更新健康状态
+            health_status[url] = source_status
+            
+            # 如果检查后被禁用，跳过处理
+            if source_status['disabled']:
+                continue
+        
+        # 现有RSS收集逻辑
+        if not url:
+            logging.warning(f"跳过无效源: {name}")
+            continue
+        
+        logging.info(f"正在收集: {name}")
         
         try:
             feed = feedparser.parse(url)
+            
+            # 检查RSS解析错误
+            if feed.bozo > 0:
+                logging.warning(f"{name} RSS解析警告: {feed.bozo_exception}")
+                if isinstance(feed.bozo_exception, feedparser.CharacterEncodingOverride):
+                    logging.info("已自动纠正编码问题")
+                else:
+                    logging.error(f"{name} RSS解析失败: {feed.bozo_exception}")
+                    # 解析失败也计入健康状态
+                    if health_check_enabled:
+                        source_status['failures'] += 1
+                        health_status[url] = source_status
+                    continue
             
             for entry in feed.entries:
                 news_item = {
@@ -50,9 +144,16 @@ def collect_rss_feeds():
                 all_news.append(news_item)
                 
         except Exception as e:
-            print(f"收集 {name} 时出错: {e}")
+            logging.error(f"收集 {name} 时出错: {str(e)}")
+            if health_check_enabled:
+                source_status['failures'] += 1
+                health_status[url] = source_status
     
-    print(f"总共收集到 {len(all_news)} 条新闻")
+    # 保存健康状态
+    if health_check_enabled:
+        save_json_data(health_status, 'config/rss-health-status.json')
+    
+    logging.info(f"总共收集到 {len(all_news)} 条新闻")
     return all_news
 
 def main():
