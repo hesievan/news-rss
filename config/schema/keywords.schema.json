@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "title": "关键词配置Schema",
+  "description": "RSS新闻聚合系统的关键词过滤配置",
+  "required": ["include_keywords", "exclude_keywords"],
+  "properties": {
+    "include_keywords": {
+      "type": "array",
+      "description": "需要包含的关键词列表",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "description": "关键词字符串"
+      },
+      "minItems": 1
+    },
+    "exclude_keywords": {
+      "type": "array",
+      "description": "需要排除的关键词列表",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "description": "排除关键词字符串"
+      },
+      "minItems": 0
+    }
+  },
+  "additionalProperties": false
+}

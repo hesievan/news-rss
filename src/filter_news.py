@@ -17,7 +17,7 @@ def filter_news():
         return []
     
     # 加载关键词配置
-    keywords_config = load_json_config('config/keywords.json')
+    keywords_config = load_config('config/keywords.yaml', 'config/schema/keywords.schema.json')
     if not keywords_config:
         logging.warning("关键词配置为空，使用默认过滤规则")
         return []

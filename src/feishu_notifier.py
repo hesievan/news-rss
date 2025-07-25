@@ -14,16 +14,13 @@ from src.utils import load_json_config, format_datetime
 class FeishuNotifier:
     """飞书消息通知器"""
     
-    def __init__(self, webhook_url: str = None):
+    def __init__(self):
         """
         初始化飞书通知器
-        
-        Args:
-            webhook_url: 飞书机器人webhook地址
         """
-        self.webhook_url = webhook_url or os.getenv('FEISHU_WEBHOOK_URL')
+        self.webhook_url = os.getenv('FEISHU_WEBHOOK_URL')
         if not self.webhook_url:
-            raise ValueError("请设置飞书webhook地址或FEISHU_WEBHOOK_URL环境变量")
+            raise ValueError("请设置FEISHU_WEBHOOK_URL环境变量")
     
     def send_message(self, message: Dict[str, Any]) -> bool:
         """

@@ -7,14 +7,15 @@ import time
 import requests
 import logging
 from datetime import datetime, timedelta
-from utils import load_json_config, save_json_data, format_datetime
+from diskcache import Cache
+from utils import load_config, save_json_data, format_datetime
 
 def collect_rss_feeds():
     """收集RSS源内容"""
     # 加载配置
-    rss_sources = load_json_config('config/rss-sources.json')
-    health_config = load_json_config('config/health-check.json')
-    health_status = load_json_config('config/rss-health-status.json') or {}
+    rss_sources = load_config('config/rss-sources.json')
+    health_config = load_config('config/health-check.json')
+    health_status = load_config('config/rss-health-status.json') or {}
     
     if not rss_sources:
         logging.error("未找到RSS源配置")
@@ -109,8 +110,22 @@ def collect_rss_feeds():
         logging.info(f"正在收集: {name}")
         
         try:
-            feed = feedparser.parse(url)
-            
+            # 初始化缓存，设置1小时超时
+            with Cache('cache/rss_feeds', timeout=3600) as cache:
+                # 尝试从缓存获取
+                cached_content = cache.get(url)
+                if cached_content:
+                    logging.info(f"从缓存获取 {name} 的内容")
+                    feed = feedparser.parse(cached_content)
+                else:
+                    logging.info(f"从网络获取 {name} 的内容")
+                    response = requests.get(url, timeout=10)
+                    response.raise_for_status()
+                    content = response.text
+                    # 存入缓存
+                    cache.set(url, content)
+                    feed = feedparser.parse(content)
+
             # 检查RSS解析错误
             if feed.bozo > 0:
                 logging.warning(f"{name} RSS解析警告: {feed.bozo_exception}")

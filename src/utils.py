@@ -2,6 +2,8 @@ import json
 import os
 import logging
 import sys
+import yaml
+from jsonschema import validate
 from datetime import datetime
 from typing import Dict, List, Any
 from logging.handlers import TimedRotatingFileHandler
@@ -37,23 +39,42 @@ def setup_logging():
 # 初始化日志
 setup_logging()
 
-def load_json_config(file_path: str) -> Dict[str, Any]:
-    """加载JSON配置文件
+def load_config(file_path: str, schema_path: str = None) -> Dict[str, Any]:
+    """加载配置文件（支持JSON和YAML）并可选进行Schema验证
 
     Args:
-        file_path: JSON配置文件路径
+        file_path: 配置文件路径（.json或.yaml/.yml）
+        schema_path: JSON Schema文件路径，若提供则进行验证
 
     Returns:
-        解析后的JSON数据字典，如果发生错误则返回空字典
+        解析后的配置数据字典，如果发生错误则返回空字典
     """
     try:
+        # 根据文件扩展名选择解析方式
+        ext = os.path.splitext(file_path)[1].lower()
         with open(file_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
+            if ext in ['.json']:
+                config_data = json.load(f)
+            elif ext in ['.yaml', '.yml']:
+                config_data = yaml.safe_load(f)
+            else:
+                logging.error(f"不支持的配置文件格式: {ext}")
+                return {}
+
+        # 如果提供了Schema路径，则进行验证
+        if schema_path and os.path.exists(schema_path):
+            with open(schema_path, 'r', encoding='utf-8') as f:
+                schema = json.load(f)
+            validate(instance=config_data, schema=schema)
+            logging.debug(f"配置文件 {file_path} 已通过Schema验证")
+
+        return config_data
+
     except FileNotFoundError:
         logging.error(f"配置文件 {file_path} 不存在")
         return {}
-    except json.JSONDecodeError:
-        logging.error(f"配置文件 {file_path} JSON格式错误")
+    except (json.JSONDecodeError, yaml.YAMLError) as e:
+        logging.error(f"配置文件 {file_path} 格式错误: {str(e)}")
         return {}
     except Exception as e:
         logging.error(f"加载配置文件失败: {str(e)}")
@@ -93,7 +114,15 @@ def contains_keywords(text: str, keywords: List[str]) -> bool:
     return False
 
 def filter_by_keywords(news_items: List[Dict], keywords_config: Dict[str, List[str]]) -> List[Dict]:
-    """根据关键词过滤新闻（仅匹配标题）"""
+    """根据关键词过滤新闻（仅匹配标题）
+
+    Args:
+        news_items: 原始新闻列表
+        keywords_config: 关键词配置，包含include_keywords和exclude_keywords
+
+    Returns:
+        过滤后的新闻列表
+    """
     include_keywords = keywords_config.get('include_keywords', [])
     exclude_keywords = keywords_config.get('exclude_keywords', [])
     
