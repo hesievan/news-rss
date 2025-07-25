@@ -17,6 +17,9 @@ def collect_rss_feeds():
     health_config = load_config('config/health-check.json')
     health_status = load_config('config/rss-health-status.json') or {}
     
+    # 用于记录无效RSS源
+    invalid_sources = []
+    
     if not rss_sources:
         logging.error("未找到RSS源配置")
         return []
@@ -88,12 +91,18 @@ def collect_rss_feeds():
                 logging.warning(f"源 {name} 健康检查失败 ({source_status['failures']}/{failure_threshold}): {str(e)}")
                 
                 # 达到失败阈值，自动禁用
-                if source_status['failures'] >= failure_threshold and auto_disable:
-                    source_status['disabled'] = True
-                    source_status['last_disabled_time'] = current_time.isoformat()
-                    logging.error(f"源 {name} 连续失败 {failure_threshold} 次，已自动禁用")
-                    health_status[url] = source_status
-                    continue
+            if source_status['failures'] >= failure_threshold and auto_disable:
+                source_status['disabled'] = True
+                source_status['last_disabled_time'] = current_time.isoformat()
+                logging.error(f"源 {name} 连续失败 {failure_threshold} 次，已自动禁用")
+                health_status[url] = source_status
+                invalid_sources.append({
+                    'name': name,
+                    'url': url,
+                    'reason': f'健康检查失败{source_status["failures"]}次',
+                    'timestamp': current_time.isoformat()
+                })
+                continue
             
             # 更新健康状态
             health_status[url] = source_status
@@ -136,6 +145,12 @@ def collect_rss_feeds():
                     if health_check_enabled:
                         source_status['failures'] += 1
                         health_status[url] = source_status
+                    invalid_sources.append({
+                        'name': name,
+                        'url': url,
+                        'reason': f'RSS解析失败: {feed.bozo_exception}',
+                        'timestamp': current_time.isoformat()
+                    })
                     continue
             
             for entry in feed.entries:
@@ -156,16 +171,35 @@ def collect_rss_feeds():
                     news_item['content'] = entry.get('summary', '')
                 
                 all_news.append(news_item)
+            
+            # 检查该源是否产生了0条新闻
+            if not any(n['source'] == name for n in all_news):
+                invalid_sources.append({
+                    'name': name,
+                    'url': url,
+                    'reason': '0条新闻',
+                    'timestamp': current_time.isoformat()
+                })
                 
         except Exception as e:
             logging.error(f"收集 {name} 时出错: {str(e)}")
             if health_check_enabled:
                 source_status['failures'] += 1
                 health_status[url] = source_status
+            invalid_sources.append({
+                'name': name,
+                'url': url,
+                'reason': f'收集出错: {str(e)}',
+                'timestamp': current_time.isoformat()
+            })
     
     # 保存健康状态
     if health_check_enabled:
         save_json_data(health_status, 'config/rss-health-status.json')
+    
+    # 保存无效RSS源信息
+    if invalid_sources:
+        save_json_data(invalid_sources, 'output/invalid_rss_sources.json')
     
     logging.info(f"总共收集到 {len(all_news)} 条新闻")
     return all_news
