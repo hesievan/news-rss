@@ -2,367 +2,367 @@
   {
     "name": "cnBeta",
     "url": "https://www.cnbeta.com/backend.php",
-    "reason": "收集出错: HTTPSConnectionPool(host='www.cnbeta.com', port=443): Max retries exceeded with url: /backend.php (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f3d579a40d0>: Failed to resolve 'www.cnbeta.com' ([Errno -2] Name or service not known)\"))",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "reason": "收集出错: HTTPSConnectionPool(host='www.cnbeta.com', port=443): Max retries exceeded with url: /backend.php (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f39abf2d0d0>: Failed to resolve 'www.cnbeta.com' ([Errno -2] Name or service not known)\"))",
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "虎嗅网",
     "url": "https://www.huxiu.com/rss/0.xml",
     "reason": "收集出错: 500 Server Error: Internal Server Error for url: https://www.huxiu.com/rss/0.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "开源中国",
     "url": "https://www.oschina.net/news/rss",
     "reason": "收集出错: 403 Client Error:  for url: https://www.oschina.net/news/rss",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Annual Review of Food Science and Technology",
     "url": "http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=68da&jc=food&type=etoc&feed=rss",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=68da&jc=food&type=etoc&feed=rss",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Innovative Food Science & Emerging Technologies",
     "url": "http://rss.sciencedirect.com/publication/science/14668564",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/14668564",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "FDA Press Releases",
     "url": "http://www.fda.gov/bbs/topics/news/rssPress.xml",
     "reason": "收集出错: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Food Chemistry",
     "url": "http://rss.sciencedirect.com/publication/science/03088146",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/03088146",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Food & Nutrition Magazine",
     "url": "https://foodandnutrition.org/feed/",
     "reason": "收集出错: 404 Client Error: Not Found for url: https://foodandnutrition.org/feed/",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Wiley: Journal of the Science of Food and Agriculture",
     "url": "http://www3.interscience.wiley.com/rss/journal/1294",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://www3.interscience.wiley.com/rss/journal/1294",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Wiley: Food Science & Nutrition",
     "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2048-7177",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2048-7177",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Current Opinion in Food Science",
     "url": "http://rss.sciencedirect.com/publication/science/22147993",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/22147993",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: International Journal of Food Microbiology",
     "url": "http://rss.sciencedirect.com/publication/science/01681605",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/01681605",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Wiley: International Journal of Food Science & Technology",
     "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2621",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2621",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Food Control",
     "url": "http://rss.sciencedirect.com/publication/science/09567135",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/09567135",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Wiley: Molecular Nutrition & Food Research",
     "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1613-4133",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1613-4133",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Food Hydrocolloids",
     "url": "http://rss.sciencedirect.com/publication/science/0268005X",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/0268005X",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Journal of Functional Foods",
     "url": "http://rss.sciencedirect.com/publication/science/17564646",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/17564646",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Wiley: Journal of Food Safety",
     "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1745-4565",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1745-4565",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Wiley: Journal of Food Science",
     "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1750-3841",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1750-3841",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "營養共筆",
     "url": "http://www.nutrinote.co/?feed=rss2",
     "reason": "收集出错: HTTPSConnectionPool(host='www.nutrinote.co', port=443): Max retries exceeded with url: /?feed=rss2 (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nutrinote.co'. (_ssl.c:1147)\")))",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Unwrapped News",
     "url": "https://unwrapped.news/feed.xml",
     "reason": "收集出错: HTTPSConnectionPool(host='unwrapped.news', port=443): Max retries exceeded with url: /feed.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)')))",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Food Quality & Safety",
     "url": "http://www.foodqualityandsafety.com/feed/",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://analyticalscience.wiley.com/",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "MacEnjoy",
     "url": "https://www.macenjoy.co/blog/feed.xml",
     "reason": "收集出错: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "掘金本周最热",
     "url": "https://rsshub.app/juejin/trending/all/weekly",
-    "reason": "收集出错: 503 Server Error: Service Unavailable for url: https://rsshub.app/juejin/trending/all/weekly",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "reason": "收集出错: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=10)",
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "iFanr AppSolution",
     "url": "https://rsshub.app/ifanr/appso",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/ifanr/appso",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "知乎日报",
     "url": "https://rsshub.app/zhihu/daily",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/zhihu/daily",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "果壳网科学人",
     "url": "https://rsshub.app/guokr/scientific",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/guokr/scientific",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "数字尾巴",
     "url": "http://rss.dgtle.com/",
-    "reason": "收集出错: HTTPConnectionPool(host='rss.dgtle.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f3d575413a0>: Failed to resolve 'rss.dgtle.com' ([Errno -2] Name or service not known)\"))",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "reason": "收集出错: HTTPConnectionPool(host='rss.dgtle.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f39abaca430>: Failed to resolve 'rss.dgtle.com' ([Errno -2] Name or service not known)\"))",
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "每日精品限免",
     "url": "https://rsshub.app/appstore/xianmian",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/appstore/xianmian",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "创造者日报",
     "url": "https://creatorsdaily.com/api/rss",
-    "reason": "收集出错: HTTPSConnectionPool(host='creatorsdaily.com', port=443): Max retries exceeded with url: /api/rss (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d574e6c40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "reason": "收集出错: HTTPSConnectionPool(host='creatorsdaily.com', port=443): Max retries exceeded with url: /api/rss (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f39aba70e20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "消费者报道",
     "url": "https://rsshub.app/ccreports/article",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/ccreports/article",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "知乎每日精选",
     "url": "http://www.zhihu.com/rss",
     "reason": "0条新闻",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "品玩实时要闻",
     "url": "https://rsshub.app/pingwest/status",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/pingwest/status",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "cnBeta.COM",
     "url": "http://www.cnbeta.com/backend.php",
-    "reason": "收集出错: HTTPConnectionPool(host='www.cnbeta.com', port=80): Max retries exceeded with url: /backend.php (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f3d57559d90>: Failed to resolve 'www.cnbeta.com' ([Errno -2] Name or service not known)\"))",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "reason": "收集出错: HTTPConnectionPool(host='www.cnbeta.com', port=80): Max retries exceeded with url: /backend.php (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f39aba8b4c0>: Failed to resolve 'www.cnbeta.com' ([Errno -2] Name or service not known)\"))",
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "知识分子",
     "url": "https://rsshub.app/zhishifenzi/news",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/zhishifenzi/news",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "财联社股市",
     "url": "https://rsshub.app/cls/depth/1003",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/cls/depth/1003",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "虎嗅网",
     "url": "http://www.huxiu.com/rss/0.xml",
     "reason": "收集出错: 500 Server Error: Internal Server Error for url: https://www.huxiu.com/rss/0.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "格隆汇快讯",
     "url": "https://rsshub.app/gelonghui/live",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/gelonghui/live",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "凤凰财经股市要闻",
     "url": "http://finance.ifeng.com/rss/stocknews.xml",
     "reason": "0条新闻",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "多知网",
     "url": "https://rsshub.app/duozhi",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/duozhi",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "财联社电报",
     "url": "https://rsshub.app/cls/telegraph",
     "reason": "收集出错: 429 Client Error: Too Many Requests for url: https://rsshub.app/cls/telegraph",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "The Journal of Nutrition",
     "url": "http://jn.nutrition.org/rss/current.xml",
     "reason": "收集出错: 410 Client Error: Gone for url: https://jn.nutrition.org/rss/current.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Harvard Health & Medicine",
     "url": "https://news.harvard.edu/gazette/section/health-medicine/feed/",
     "reason": "收集出错: 404 Client Error: Not Found for url: https://news.harvard.edu/gazette/section/health-medicine/feed/",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Nutrition Research",
     "url": "http://rss.sciencedirect.com/publication/science/02715317",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/02715317",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Appetite",
     "url": "http://rss.sciencedirect.com/publication/science/01956663",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/01956663",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Journal of Nutrition Advance Access",
     "url": "http://jn.nutrition.org/rss/ahead.xml",
     "reason": "收集出错: 410 Client Error: Gone for url: https://jn.nutrition.org/rss/ahead.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Wiley: Obesity",
     "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1930-739X",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1930-739X",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Nutrients",
     "url": "http://www.mdpi.com/rss/journal/nutrients",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://www.mdpi.com/rss/journal/nutrients",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Journal of Human Nutrition and Dietetics",
     "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-277X",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-277X",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Nutrition & Dietetics",
     "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1747-0080",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1747-0080",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Advances in Nutrition",
     "url": "http://advances.nutrition.org/rss/current.xml",
     "reason": "收集出错: 410 Client Error: Gone for url: https://advances.nutrition.org/rss/current.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Current Opinion in Clinical Nutrition & Metabolic Care",
     "url": "http://journals.lww.com/co-clinicalnutrition/_layouts/OAKS.Journals/feed.aspx?FeedType=CurrentIssue",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://journals.lww.com/co-clinicalnutrition/_layouts/OAKS.Journals/feed.aspx?FeedType=CurrentIssue",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Journal of Nutrition and Metabolism",
     "url": "http://www.hindawi.com/journals/jnume/rss.xml",
     "reason": "收集出错: 403 Client Error: Forbidden for url: https://www.hindawi.com/journals/jnume/rss.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Annual Review of Nutrition",
     "url": "http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=rz&jc=nutr&type=etoc&feed=rss",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=rz&jc=nutr&type=etoc&feed=rss",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Trends in Food Science & Technology",
     "url": "http://rss.sciencedirect.com/publication/science/09242244",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/09242244",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Clinical Nutrition",
     "url": "http://rss.sciencedirect.com/publication/science/02615614",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/02615614",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Nutrition Reviews",
     "url": "http://nutritionreviews.oxfordjournals.org/rss/current.xml",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://nutritionreviews.oxfordjournals.org/rss/current.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "American Journal of Clinical Nutrition",
     "url": "http://www.ajcn.org/rss/current.xml",
     "reason": "收集出错: 410 Client Error: Gone for url: https://ajcn.nutrition.org/rss/current.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "ScienceDirect: Journal of Nutritional Biochemistry",
     "url": "http://rss.sciencedirect.com/publication/science/09552863",
     "reason": "收集出错: 403 Client Error: Forbidden for url: http://rss.sciencedirect.com/publication/science/09552863",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "AJCN Advance Access",
     "url": "http://www.ajcn.org/rss/ahead.xml",
     "reason": "收集出错: 410 Client Error: Gone for url: https://ajcn.nutrition.org/rss/ahead.xml",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   },
   {
     "name": "Frontiers in Nutrition",
     "url": "http://journal.frontiersin.org/journal/nutrition/rss",
     "reason": "收集出错: 500 Server Error: Internal Server Error for url: https://www.frontiersin.org/journal/nutrition/rss",
-    "timestamp": "2025-07-26T10:21:09.512270"
+    "timestamp": "2025-07-26T12:40:41.311790"
   }
 ]
